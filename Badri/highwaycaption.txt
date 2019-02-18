@@ -1,0 +1,972 @@
+06_001:
+ There is a highway surrounded by trees 
+
+
+
+06_002:
+ There is a highway
+
+
+
+
+
+06_003:
+ There is a link between road and highways
+
+
+
+
+
+06_004:
+ There is a highway with several links
+
+
+
+
+
+06_005:
+ There is a highway near celltower
+
+
+
+
+
+06_006:
+ There is a highway near water body
+
+
+
+
+
+06_007:
+ There is a highway near barren land 
+
+
+
+
+
+06_008:
+ There is a highway with neat roads
+
+
+
+
+
+06_009:
+ There is a highway with neat roads
+
+
+
+
+
+06_010:
+ There is a highway near farm land
+
+
+
+
+
+06_011:
+ There is a highway near pond
+
+
+
+
+
+06_012:
+There is a highway near  farm land
+
+
+
+
+
+06_013:
+ There is a highway near farm land
+
+
+
+
+
+06_014:
+ There is a highway near water body
+
+
+
+
+
+06_015:
+ There is a highway near water body
+
+
+
+
+
+06_016:
+ There is a highway near barren land
+
+
+
+
+
+06_017
+ There is a highway near barren land
+
+
+
+
+
+06_018:
+ There is a highway near an institution
+
+
+
+
+
+06_019:
+ There is a highway near barren land
+
+
+
+
+
+06_020:
+ There is a highway which links several roads
+
+
+
+
+
+06_021:
+ There is a highway which links several roads
+
+
+
+
+
+06_022:
+ There is a neat highway with smoother roads 
+
+
+
+
+
+06_023:
+There is a neat highway with smoother roads
+
+
+
+
+
+06_024:
+ There is a neat highway with smoother roads
+
+
+
+
+
+06_025:
+ There is a neat highway along the farmlands 
+
+
+
+
+
+06_026:
+ There is a neat highway along the farmlands
+
+
+
+
+
+06_027:
+ There is a neat highway along the farmlands
+
+
+
+
+
+06_028:
+ There is a smooth highway with water bodies at its ends
+
+
+
+
+
+06_029:
+ There is a smooth highway with water bodies at its ends
+
+
+
+
+
+06_030:
+ There is a smooth highway with water bodies at its ends
+
+
+
+
+
+06_031:
+ There is a highway at the coast of farmland and water body
+
+
+
+
+
+06_032:
+ There is a highway at the coast of farmland and water body
+
+
+
+
+
+06_033:
+ There is a highway at the coast of farmland and water body
+
+
+
+
+
+06_034:
+ There is a highway at the coast of farmland and water body
+
+
+
+
+
+06_035:
+ There is a highway at the coast of farmland and water body
+
+
+
+
+
+06_036:
+ There is a highway at the coast of farmland and water body
+
+
+
+
+
+06_037:
+ There is a highway with green grass at its both ends
+
+
+
+
+
+06_038:
+ There is a highway with green grass at its both ends
+
+
+
+
+
+06_039:
+ There is a highway along vacant lands
+
+
+
+
+
+06_040:
+ There is a neat highway with smoother roads
+
+
+
+
+
+06_041:
+ There is a neat highway nearer to houses
+
+
+
+
+
+06_042:
+ There is a neat highway nearer to residential buildings
+
+
+
+
+
+06_043:
+ There is a neat highway nearer to residential buildings
+
+
+
+
+
+06_044:
+ There is a neat highway nearer to residential buildings
+
+
+
+
+
+06_045:
+ There is a highway situated between the forests
+
+
+
+
+
+06_046:
+ There is a highway surrounded by houses , greenery and vacant lands
+
+
+
+
+
+06_047:
+  There is a highway surrounded by houses ,and greenery
+
+
+
+
+
+06_048:
+  There is a highway which joins other roads at one end
+
+
+
+
+
+06_049:
+There is a highway surrounded by houses and greenery 
+
+
+
+
+
+06_050:
+ There is a highway located near an institution
+
+
+
+
+
+06_051:
+ There is a highway between the forest
+
+
+
+
+
+06_052:
+There is a highway with several links to small roads
+
+
+06_053:
+ Aerial view of highways covered with trees and some vacant lands
+
+
+
+
+
+06_054:
+ Some green areas are captured which has highways and some smaller roads
+
+
+
+
+
+06_055:
+ The area is covered fully with trees and roads
+
+
+
+
+
+06_056:
+ Drone view of highways covered with large trees
+
+
+
+
+
+06_057:
+ There exist highways in the midst of dense forests
+
+
+
+
+
+06_058:
+  Large number of trees are grown at one end of the highways
+
+
+
+
+
+06_059:
+ Highways are laid in midst of the forests
+
+
+
+
+
+06_060:
+ Aerial view of smaller road joining the highways surrounded by trees
+
+
+
+
+
+06_061:
+ Existence of highways in midst of trees 
+
+
+
+
+
+06_062:
+ Existence of highways in midst of trees 
+
+
+
+
+
+
+06_063:
+ Highways are full covered with large amount of trees
+
+
+
+
+
+06_064:
+ There are some trees and vacant grounds alongside the highways
+
+
+
+
+
+06_065:
+ There are some trees and vacant grounds alongside the highways
+
+
+
+
+
+06_066:
+ Some vacant lands and greenery are captured at the ends of highways
+
+
+
+
+
+06_067:
+ Some vacant lands and greenery are captured at the ends of highways
+
+
+
+
+
+06_068:
+ Gardens are seen at one end of the highways
+
+
+
+
+
+06_069:
+ Highways are captured in the midst of trees
+
+
+
+
+
+06_070:
+ Highways are captured in the midst of trees
+
+
+
+
+
+06_071:
+ Highways are captured in the midst of trees
+
+
+
+
+
+06_072:
+ Highways are captured in the midst of trees
+
+
+
+
+
+06_073:
+ Vacant grounds are spotted alongside the highways
+
+
+
+
+
+06_074:
+ A roundtana is found in the mere end of the highways 
+
+
+
+
+
+06_075:
+ A Series of highways surrounded by trees
+
+
+
+
+
+06_076:
+ Highways are captured in the midst of trees
+
+
+
+
+
+06_077:
+ Highways are captured in the midst of trees
+
+
+
+
+
+06_078:
+ Highways are captured in the midst of trees
+
+
+
+
+
+06_079:
+ Highways are present in the middle of greenery region	
+
+
+
+
+
+06_080:
+  Highways are present in the middle of greenery region	
+
+
+
+
+
+06_081:
+ Some vacant lands are there at the end of highways
+
+
+
+
+
+06_082:
+  There are some vacant lands alongside the highways
+
+
+
+
+
+06_083:
+ Highways are laid in the midst of forest areas
+
+
+
+
+
+06_084:
+ There exist highways which has large amount of trees at its one end
+
+
+
+
+
+06_085:
+ The area is covered with large number of tress with highways at its end
+
+
+
+
+
+06_086:
+ Highways are laid in the midst of forest areas
+
+
+
+
+
+06_087:
+ There are roads covered with trees 
+
+
+
+
+
+06_088:
+ Trees are found at both the ends of highways
+
+
+
+
+
+06_089:
+ Vacant lands are found near highways 
+
+
+
+
+
+06_090:
+ Vacant lands are found near highways
+
+
+
+
+
+06_091:
+ Highways are laid in between trees
+
+
+
+
+
+06_092:
+ There is a highway
+
+
+
+
+
+06_093:
+ Highways are found with trees at its ends
+
+
+
+
+
+06_094:
+ Some vacant lands and greenery are captured at the ends of highways
+
+
+
+
+
+06_095:
+ Highways are found in the middle of forest areas
+
+
+
+
+
+06_096:
+ Highways are found with trees at its ends	 
+
+
+
+
+
+06_097:
+ There are highways
+
+
+
+
+
+06_098:
+ There are highways in midst of forests
+
+
+
+
+
+06_099:
+  There exist highways in midst of trees 
+
+
+
+
+
+06_100:
+ There are roads in middle of forests 
+
+
+
+
+
+06_101:
+ Highways are present surrounded by trees
+
+
+
+
+
+06_102:
+ There are highways
+
+
+
+
+
+06_103:
+ Large number of trees are grown around the highways
+
+
+
+
+
+06_104:
+ Large number of trees are grown around the highways
+
+
+
+
+
+06_105:
+ There are highways surrounded by trees
+
+
+
+
+
+06_106:
+ There are highways surrounded by trees
+
+
+
+
+
+06_107:
+ Highways are surrounded by trees
+
+
+
+
+
+06_108:
+ Highways are present with large number of trees grown at its ends
+
+
+
+
+
+06_109:
+ There are highways surrounded by trees
+
+
+
+
+
+06_110:
+ Solar panels are installed at the ends of highways
+
+
+
+
+
+06_111:
+ There is a highways nearer to greenery region
+
+
+
+
+
+06_112:
+ Solar panels are set up at the side of highways
+
+
+
+
+
+06_3:
+ Highways are covered with trees at one side and solar panels at the other side
+
+
+
+
+
+06_4:
+ Highways are covered with trees at one side and solar panels at other side
+
+
+
+
+
+06_115:
+ There are highways , solar panels and walking path
+
+
+
+
+
+06_116:
+ There is a highways covered fully with trees and some residents
+
+
+
+
+
+06_117:
+ There is a highways covered with trees and some residents
+
+
+
+
+
+06_118:
+ The highways is fully covered with large number of trees
+
+
+
+
+
+06_119:
+ There is a highway which is fully covered with large number of trees
+
+
+
+
+
+06_120:
+ There is a highway which is fully covered with large number of trees
+
+
+
+
+
+06_121:
+ The highways are surrounded by large number of trees
+
+
+
+
+
+06_122:
+ A highway is present in the midst of forests
+
+
+
+
+
+06_123:
+  There is a highway surrounded by large number of trees
+
+
+
+
+
+06_124:
+ Some vacant lands are present at the ends of highways
+
+
+
+
+
+06_125:
+ There is a highway which is fully covered with large number of trees
+
+
+
+
+
+06_126:
+ There is a highway which is fully covered with large number of trees
+
+
+
+
+
+06_127:
+ A garden is set up in the side of highways
+
+
+
+
+
+06_128:
+ There is a highway which is fully covered with large number of trees
+
+
+
+
+
+06_129:
+  Several roads are linked to highways which is present in the midst of forest region
+
+
+
+
+
+06_130:
+ There is a highway which is carved in between the green region 
+
+06_131:
+ There is a highway 
+
+06_132:
+ There is a highway with trees grown in large number in its both sides
+
+
+06_133:
+ There is a highway
+
+06_134:
+ There is a highway surrounded by large number of trees
+
+06_135:
+ There is a highway
+
+
+06_136:
+ The roads are constructed in the middle of green region
+
+
+06_137:
+ Highways are present
+
+
+006_138:
+ The dense region nearer to the highway
+
+06_139:
+ It is a highway
+
+
+06_140:
+ The highways are surrounded by trees
+
+06_141:
+ There is a highway which is fully covered with large number of trees
+
+
+06_142:
+  The highways are surrounded by trees	 
+
+
+06_143:
+  There are some vacant lands at the ends of highways
+
+06_144:
+ Highways are present with tress covered fully
+
+
+06_145:
+  There is a highway covered with some vacant lands and trees
+
+06_146:
+ There is a highway covered with some vacant lands and trees
+
+06_147:
+  There is highway with trees grown at one side
+
+06_148:
+ The highway runs along the dense areas
+
+
+06_149:
+  There is a highway surrounded by trees
+
+
+06_150:
+  There is a highway covered with trees
+
