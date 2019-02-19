@@ -1,0 +1,27 @@
+13_000 A temple spire in a rooftop is present close to a residential area.
+13_001 A temple rooftop is present next to a road lined with coconut trees.
+13_002 The temple is crowded with people on the ground.
+13_003 The rooftop of a temple having arches is present.
+13_004 
+13_005
+13_006 The temple is partly crowded near a stage setup.
+13_007 The rooftop of a temple exists opposite to which a crowd is present.
+13_008 
+13_009
+13_010 An arch is present in front of the temple.
+13_011 A densely crowded trees is present next to the temple.
+13_012 
+13_013
+13_014
+13_015
+13_016
+13_017
+13_018
+13_019
+13_020
+13_021
+13_022
+13_023
+13_024
+13_025
+13_026
