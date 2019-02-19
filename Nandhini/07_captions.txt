@@ -1,0 +1,52 @@
+07_001 There are some trees,bushes and buildings in the right side of the playground.
+07_002 There are some trees,bushes and buildings in the right side of the playground.
+07_003 There is a playground which contains barren land to its left and some buildings at its top.
+07_004 There is a playground which is located near some buildings and more green trees.
+07_005 There is a barren land near the playground.
+07_006 There is a barren land near the playground.
+07_007 There is a barren land and some bushes near the playground.
+07_008 There is a river running nearby the playground.
+07_009 There is a playground with some trees and bushes.
+07_010 There is a playground near the barren land.
+07_011 There is a playground near the barren land containing a single tree.
+07_012 There is a playground near a farm land.
+07_013 The two basketball courts were located near some trees and a river is running beside it.
+07_014 There are some green trees near the two basketball courts.
+07_015 There is an athletic track and a river is running beside it.
+07_016 There is an athletic track.
+07_017 There is an athletic track.
+07_018 There is an athletic track.
+07_019 There is a building and a farm land near an athletic track.
+07_020 There is a building and a farm land near an athletic track.
+07_021 The athletic track is located near a building.
+07_022 There is a playground.
+07_023 There is a playground with some trees on its right side.
+07_024 There is a playground with some trees on its right side.
+07_025 There is a palyground with some trees.
+07_026 The two basketball courts were located in between two roads.
+07_027 The two basketball courts were located in between some trees and a farm land.
+07_028 The two basketball courts were located in between some trees and a farm land.
+07_029 There is a playground surrounded by green trees.
+07_030 There is a playground surrounded by green trees.
+07_031 There is a playground near a building.
+07_032 There are some buildings near the playground.
+07_033 There is a triangle shaped building near the playground.
+07_034 There are some buildings and water bodies near the playground.
+07_035 The playground is located near a building.
+07_036 There is a basketball court in between two roads.
+07_037 There are two basketball courts in between two roads.
+07_038 There are two basketball courts in between two roads.
+07_039 There are two basketball courts in between some green bushes.
+07_040 The playground is surrounded by small trees and there is a road beside it.
+07_041 The playground is surrounded by small trees and there is a road beside it.
+07_042 The two basketball courts were surrounded by tress and roads.
+07_043 There are two basketball courts in between two roads.
+07_044 The two basketball courts were surrounded by tress and roads.
+07_045 The two basketball courts were located in the left side of the road.
+07_046 There are some buildings and trees in the left side of the playground.
+07_047 The playground is located in the right side of the river.
+07_048 There are some trees besides the playground.
+07_049 There is a basketball court in between two roads.
+07_050 There are two buildings and some trees near the playground.
+
+

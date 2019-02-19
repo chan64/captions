@@ -1,0 +1,150 @@
+08_001 There are some buildings and trees.
+08_002 There are some buildings and trees near the canal.
+08_003 There are some buildings and trees near the barren land. 
+08_004 There are some buildings and trees near the highway.
+08_005 The trees were grown in between the buildings.
+08_006 There are some buildings and trees near the highway.
+08_007 There is a triangle shaped building near the highway.
+08_008 There are two buildings near the highway.
+08_009 The buildings and trees were parallel to each other.
+08_010 There are two buildings near the highway.
+08_011 There are some trees alongside the building near the highway. 
+08_012 There is a building surrounded by trees.
+08_013 There are two buildings surrounded by trees near the highway.
+08_014 There are two buildings surrounded by trees near the highway.
+08_015 There are some buildings surrounded by trees near the highway.
+08_016 There are some buildings surrounded by trees.
+08_017 There are some buildings surrounded by trees.
+08_018 There are some buildings surrounded by trees.
+08_019 There are some buildings surrounded by trees near the canal.
+08_020 There are some buildings surrounded by trees in one side of the road.
+08_021 There are some buildings surrounded by trees.
+08_022 There are some buildings surrounded by trees.
+08_023 There is a building and some trees in one side of the road.
+08_024 There is a farm land near the residential houses.
+08_025 The school building is located near a farm land.
+08_026 The school building is located near a play ground.
+08_027 There are some residential houses and trees near the canal.
+08_028 There are some residential houses and trees on either side of the road.
+08_029 There is a building surrounded by trees.
+08_030 There are some residential houses and trees on either side of the road.
+08_031 There are some residential houses and trees.
+08_032 There are some residential houses and trees on either side of the road.
+08_033 There are some residential houses and trees on either side of the road.
+08_034 There are some residential houses and trees on one side of the road.
+08_035 There are some residential houses and trees near the canal.
+08_036 There are some residential houses and trees.
+08_037 There are some residential houses located alongside the roads.
+08_038 There are some residential houses located alongside the roads.
+08_039 There are some residential houses and trees located alongside the roads.
+08_040 There are some residential houses and trees located alongside the road near the canal.
+08_041 There are some trees alongside the building near the farm land.
+08_042 The buildings alongside the trees were located near a farm land.
+08_043 There are some buildings surrounded by trees near a barren land.
+08_044 There are some buildings surrounded by trees near a barren land.
+08_045 There are some residential houses surrounded by trees near a farm land.
+08_046 There are some residential houses surrounded by trees near a farm land.
+08_047 There are some buildings surrounded by trees on either side of the roads.
+08_048 There are some buildings surrounded by trees on either side of the roads.
+08_049 There are some buildings surrounded by trees on either side of the roads.
+08_050 There are some buildings surrounded by trees near the highway.
+08_051 There are some buildings and trees.
+08_052 There are some buildings surrounded by trees on either side of the roads.
+08_053 There are some buildings surrounded by trees located parallely.
+08_054 There are some buildings surrounded by trees located parallely.
+08_055 There are some buildings surrounded by trees in a four way road.
+08_056 There are some buildings surrounded by trees in a four way road.
+08_057 There are some buildings and trees near a playground.
+08_058 There are some buildings surrounded by trees on either side of the roads.
+08_059 There is a triangle shaped building and trees near a playground.
+08_060 There are some buildings surrounded by trees.
+08_061 There are some buildings surrounded by trees on a three way road.
+08_062 There are some buildings surrounded by trees located parallely.
+08_063 There are some buildings surrounded by trees located parallely on a three way road.
+08_064 There are some buildings surrounded by trees located parallely on a three way road.
+08_065 There are some buildings surrounded by trees located parallely.
+08_066 There are some buildings surrounded by trees located parallely.
+08_067 There are some buildings surrounded by trees located parallely.
+08_068 There are two buildings and trees.
+08_069 There are some buildings surrounded by trees.
+08_070 There are some buildings surrounded by trees on either side of the roads.
+08_071 There are some buildings surrounded by trees located parallely.
+08_072 There are some buildings surrounded by trees located parallely.
+08_073 There are some buildings surrounded by trees near a play ground.
+08_074 There is a triangle shaped building and trees near a playground.
+08_075 There are some buildings and trees near a play ground.
+08_076 There are some buildings and trees near a play ground.
+08_077 There are some buildings and trees near the farm land.
+08_078 There are some buildings and trees near the farm land.
+08_079 There are some buildings and trees near the highway.
+08_080 There is a building surrounded by trees near the farm land.
+08_081 There is a building surrounded by trees near the farm land.
+08_082 There are some buildings and trees. 
+08_083 There is a building and some trees. 
+08_084 There is a building and some trees on one side of the road.
+08_085 There are some buildings and trees on one side of the road.
+08_086 There are some buildings and trees on one side of the road.
+08_087 There are some buildings and trees.
+08_088 There are some residential houses surrounded by trees on either side of the roads.
+08_089 There are some residential houses surrounded by trees on either side of the roads.
+08_090 There are some residential houses and trees near the highway.
+08_091 There is a building near the farm land.
+08_092 There is a building near the farm land.
+08_093 There are farm lands infront of the building.
+08_094 There are farm lands infront of the building.
+08_095 There are farm lands infront of the building.
+08_096 There are farm lands infront of the building.
+08_097 There are farm lands infront of the building.
+08_098 There are farm lands infront of the building.
+08_099 There are farm lands infront of the building.
+08_100 There are some buildings and trees near the farm land.
+08_101 There are some residential houses and trees on either side of the roads near the highway. 
+08_102 There are some buildings and trees. 
+08_103 There are some buildings and trees. 
+08_104 There are some buildings and trees near the green house. 
+08_105 There are some buildings and trees near the farm land.
+08_106 There are some buildings and trees near the farm land.
+08_107 There are some buildings and trees near the farm land.
+08_108 There are some buildings and trees.
+08_109 There are some buildings and trees near the green house.
+08_110 There are some residential houses and trees near the farm land.
+08_111 There are some residential houses and trees on either side of the road.
+08_112 There are some residential houses and trees near the highway.
+08_113 There are some residential houses and trees on either side of the road.
+08_114 There is a building and some trees near the green house.
+08_115 There is a building and some trees near the green house.
+08_116 Two buildings were located near some trees.
+08_117 Some trees were located in between and infront of the buildings.
+08_118 Some trees were locatyed in between the buildings.
+08_119 Trees were located in the center space of the building.
+08_120 
+08_121 Green house exist near some buildings and trees.
+08_122 Some residential houses were located near the highway.
+08_123 Some trees exist in between the residential buildings near the barren land.
+08_124 Some trees exist in between the residential buildings near the barren land.
+08_125 Residential houses were located in between the trees.
+08_126 Some residential houses and trees were spotted alongside the road.
+08_127 Some residential houses and trees were spotted alongside the road.
+08_128 Residential houses and trees were located on either side of the road.
+08_129 Residential houses and trees were located on either side of the road.
+08_130 Residential houses and trees were spotted near a barren land.
+08_131 Residential houses and trees were spotted near a barren land.
+08_132 Residential houses and trees were spotted.
+08_133 There are some residential houses and a pond on either side of the road.
+08_134 There are some residential houses and trees.
+08_135 Some residential houses and trees were located near a canal.
+08_136 Some residential houses and trees were located near a canal.
+08_137 There are some buildings and trees alongside the road.
+08_138 Some trees exists in between the residential houses alongside the road.
+08_139 Some trees were located in between the residential houses alongside the road.
+08_140 Some trees were spotted in between the residential houses.
+08_141 Some trees exists in between the residential houses.
+08_142 Some trees were spotted in between the residential houses near a barren land.
+08_143 There are some buildings surrounded by trees located parallely on a three way road.
+08_144 Some small buildings and trees were spotted on a barren land.
+08_145 Some small buildings and trees were spotted on a barren land.
+08_146 There are some trees inbetween the residential houses near a canal.
+08_147 There are some trees inbetween the residential houses.
+08_148 There are some trees inbetween the residential houses.
+08_149 There are some trees inbetween the residential houses.
+08_150 There are some trees inbetween the residential houses.
