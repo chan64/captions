@@ -1,48 +1,32 @@
-04_001:
-The aerial view of forests alongside roads.
+04_001 The aerial view of forests alongside roads.
+04_001 There is a group of trees scattered.
 
 
+04_002 The presence of roads inbetween dense forests.
+04_002 Some buildings are scattered within a densely crowded group of trees.
 
 
-
-04_002:
-The presence of roads inbetween dense forests.
-
+04_003 Existence of forests with roads inbetween them.
+04_003 Roads and buildings are present within an area of crowded trees.
 
 
+04_004 Trees are grown in large number in the forests.
+04_004 A large number of trees are scattered over with buildings nearby.
 
 
-04_003:
-Existence of forests with roads inbetween them.
+04_005 An industry is identified surrounded by forest areas.
+04_005 An open industrial area exists in the middle of a forest. 
 
 
+04_006 A mix up of trees and plains in the forests.
+04_006 Group of trees are present on the plains having sandy soil.
 
 
+04_007 The presence of barren land on one side of the forest.
+04_007 A group of uniformly spaced plants exist adjacent to a dense forest area.
 
-04_004:
-Trees are grown in large number in the forests.
-
-
-
-
-
-04_005:
-An industry is identified surrounded by forest areas.
-
-
-
-04_006:
-A mix up of trees and plains in the forests.
-
-
-
-04_007:
-The presence of barren land on one side of the forest.
-
-
-04_008:
-The combination of barren land and trees in dense forest.
-
+04_008 The combination of barren land and trees in dense forest.
+04_008 A plain is present in the middle of a forest area. 
 
 
 
