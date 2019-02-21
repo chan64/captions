@@ -1,0 +1,175 @@
+0000_001: There are some gardens surrounded by trees.
+
+
+
+
+
+
+0000_002: The gardens are present nearby the river and trees.
+
+
+
+
+
+
+0000_003: The trees shed the garden.
+
+
+
+
+
+
+0000_004: There is a pathway leading to garden.
+
+
+
+
+
+
+0000_005: There is pathway leading to garden.
+
+
+0000_006: Some trees are grown with smaller heights in garden area.
+
+
+0000_007: Some trees are grown with smaller heights in garden area.
+
+
+
+
+0000_008: Garden is set up nearer to the highways.
+
+
+
+
+
+
+0000_009: Some sandy areas and trees are seen in the garden.
+
+
+0000_010: Some sandy areas and trees are seen in the garden.
+
+
+0000_011:A green garden has some smaller trees grown in it.
+
+
+0000_012: Trees are grown in a garden.
+
+
+0000_013: It is a garden.
+
+
+0000_014: Solar panels are installed near the gardens.
+
+
+0000_015: There is a clean garden with green grass.
+
+
+0000_016: It is a smooth garden.
+
+
+0000_017: There is a garden containing some trees.
+
+0000_018: There is a garden containing some trees.
+
+
+0000_019: Some trees and solar panels are seen in the ends of garden.
+
+
+0000_020: There is highway passing alongside the garden.
+
+
+0000_021:The garden is seen near to some building.
+
+
+0000_022: Smooth garden is set up with finely grown grass and trees.
+
+
+0000_023: Some short trees are seen in smooth gardens.
+
+ 
+0000_024: It is a garden.
+
+
+0000_025: The ends of garden is seen with some short trees.
+
+
+0000_026: Solar panels are seen at the ends of garden.
+
+
+0000_027: It is a smooth green garden with some pitches.
+
+
+0000_028: It is a smooth green garden with small trees covered.
+
+
+0000_029: It is a smooth green garden with solar panel set up at one end.
+
+0000_030: It is a smooth green garden with solar panel set up at one end.
+
+
+
+0000_031: The smooth garden comprises of some small trees and green grass.
+
+
+0000_032: The mixture of garden,trees and some smaller buildings.
+
+
+0000_033:  The mixture of garden,trees and some smaller buildings
+
+
+0000_034: A roundtana is present in the midst of gardens.
+
+0000_035: The entry point from road to the gardens.
+
+
+0000_036: Trees and cell tower are seen surronding the garden.
+
+
+0000_037: There is a garden near to road.
+
+
+0000_038: Trees and cell tower are seen surronding the garden.
+
+
+0000_039: It is a garden.
+
+
+0000_040: The garden is covered with green grass and some of the trees.
+
+
+0000_041: The garden contains plethora of things in it.
+
+0000_042: The garden contains plethora of things in it.
+
+
+
+0000_043: Some trees are grown in the garden.
+
+
+0000_044: It is a clean garden.
+
+
+0000_045: It is a clean garden.
+
+0000_046: The garden is bordered by trees.
+
+
+0000_047: Highways are seen near the gardens.
+
+
+0000_048: Trees are seen in the garden.
+
+0000_049: It is a complete garden kept clean and pure.
+
+0000_050: It is a complete garden kept clean and pure.
+
+
+0000_051: The garden is covered with green grass.
+ 
+0000_052: Trees are seen in the side of the garden.
+
+
+
+
+
