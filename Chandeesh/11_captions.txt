@@ -219,7 +219,7 @@
 
 
 11_106 Roads runs through a uniformly arranged solar farm.
-11_106 Two smal white buildings exist in the farm where solar panels were installed.
+11_106 Two small white buildings exist in the farm where solar panels were installed.
 
 
 
@@ -436,12 +436,12 @@
 
 
 11_149 A solar panel field exists adjacent to a garden.
-11_149 A graden is located near a solar farm.
+11_149 A garden is located near a solar farm.
 
 
 
 11_150 There is a garden near to a solar farm.
-11_150 A barren land exist near the solar farm, in whic most of the panels were detached.
+11_150 A barren land exist near the solar farm, in which most of the panels were detached.
 
 
 

@@ -1,749 +1,749 @@
+00101 This is a piece of barren land
+00101 
 00101
 00101
 00101
-00101
-00101
+00102 It is barren land with few trees
 00102
 00102
 00102
 00102
-00102
+00103 It is a piece of land with trees and grass
 00103
 00103
 00103
 00103
-00103
+00104 A piece of land with road in the middle
 00104
 00104
 00104
 00104
-00104
+00105 It is a piece of barren land with road in the middle
 00105
 00105
 00105
 00105
-00105
+00106 A piece of barren land with roads and trees
 00106
 00106
 00106
 00106
-00106
+00107 It a piece of barren land dotted with few trees
 00107
 00107
 00107
 00107
-00107
+00108 A piece of land with coconut trees and farm land on one side
 00108
 00108
 00108
 00108
-00108
+00109 It is piece of land unused for cultivation
 00109
 00109
 00109
 00109
-00109
+00110 It is land area with many neatly planted trees
 00110
 00110
 00110
 00110
-00110
+00111 It is land area with many trees
 00111
 00111
 00111
 00111
-00111
+00112 It is barren land surrounded by roads and buildings
 00112
 00112
 00112
 00112
-00112
+00113 It is a piece of barren land with few vegetation
 00113
 00113
 00113
 00113
-00113
+00114 A land area with vegetation and trees
 00114
 00114
 00114
 00114
-00114
+00115 A piece of unused land with roads
 00115
 00115
 00115
 00115
-00115
+00116 It is an ariel view of large landscape
 00116
 00116
 00116
 00116
-00116
+00117 It is a piece of barren land	
 00117
 00117
 00117
-00117
-00117
+00117 
+00118 It is a piece of barren land with mary big trees
 00118
 00118
 00118
 00118
-00118
+00119 This is barren land covered with few neatly arranged trees
 00119
 00119
 00119
 00119
-00119
+00120 It is a piece of unused land criss-crossed with many roads
 00120
 00120
 00120
 00120
-00120
+00121 It is large area of barren land
 00121
 00121
 00121
 00121
-00121
+00122 A piece of barren land and grounds with few solar panels	
 00122
 00122
 00122
 00122
-00122
+00123 It is piece of barren land with basement for a building
 00123
 00123
 00123
 00123
-00123
+00124 A large land area with neatly arranged trees
 00124
 00124
 00124
 00124
-00124
+00125 A barren land with road in the middle and surrounded by trees
 00125
 00125
 00125
 00125
-00125
+00126 A piece of unused barren land
 00126
 00126
 00126
 00126
-00126
+00127 A land area with roads and surrounded by buildings
 00127
 00127
 00127
 00127
-00127
+00128 A land area with smaller vegetations 
 00128
 00128
 00128
 00128
-00128
+00129 A piece of dry and unused barren land
 00129
 00129
 00129
 00129
-00129
+00130 A piece of dry barren land with trees
 00130
 00130
 00130
 00130
-00130
+00131 A piece of land with dense trees on one side
 00131
 00131
 00131
 00131
-00131
+00132 A piece of barren land with mud road in the middle
 00132
 00132
 00132
 00132
-00132
+00133 A piece of barren land with few trees
 00133
 00133
 00133
 00133
-00133
+00134 A barren land with thar roads and buildings
 00134
 00134
 00134
 00134
-00134
+00135 A piece of barren land with neatly grown trees
 00135
 00135
 00135
 00135
-00135
+00136 A land area covered with grass and solar pannels
 00136
 00136
 00136
 00136
-00136
+00137 A piece of land with grass and trees
 00137
 00137
 00137
 00137
-00137
+00138 It is a piece of barren land
 00138
 00138
 00138
 00138
-00138
+00139 A piece of land with roads in the middle and solar panels
 00139
 00139
 00139
 00139
-00139
+00140 A piece of land with grass and mud paths in the middle
 00140
 00140
 00140
 00140
-00140
+00141 A piece of land with roads and mud paths connecting each other
 00141
 00141
 00141
 00141
-00141
+00142 A barren land with grass and paths in the middle
 00142
 00142
 00142
 00142
-00142
+00143 A piece of land with few vegetations 
 00143
 00143
 00143
 00143
-00143
+00144 A view of land area with barren lands and forest area
 00144
 00144
 00144
 00144
-00144
+00145 A barren land with roads in the middle
 00145
 00145
 00145
 00145
-00145
+00146 It is a piece of barren land
 00146
 00146
 00146
 00146
-00146
+00147 A land area covered with grass and trees
 00147
 00147
 00147
 00147
-00147
+00148 A land area covered with high trees	
 00148
 00148
 00148
 00148
-00148
+00149 A landscape covered with grass and solar panels
 00149
 00149
 00149
 00149
-00149
+00150 A barren land area with a small canal for irrigation
 00150
 00150
 00150
 00150
-00150
+00151 ariel view of a land with trees and mud roads
 00151
 00151
 00151
 00151
-00151
+00152 a piece of unused land with trees
 00152
 00152
 00152
 00152
-00152
+00153 land area with big tree, roads and some buildings
 00153
 00153
 00153
 00153
-00153
+00154 a piece of barren land with many trees neatly planted in rows
 00154
 00154
 00154
 00154
-00154
+00155 a piece of barren and unused land with road in the middle
 00155
 00155
 00155
 00155
-00155
+00156 a dry land area with neatly planted trees
 00156
 00156
 00156
 00156
-00156
+00157 a piece of barren land with dense trees on one side
 00157
 00157
 00157
 00157
-00157
+00158 a piece of barren land
 00158
 00158
 00158
 00158
-00158
+00159 land area covered with vegetaion	
 00159
 00159
 00159
 00159
-00159
+00160 a piece of land area covered with grass and trees
 00160
 00160
 00160
 00160
-00160
+00161 it is a piece of barren unused land
 00161
 00161
 00161
 00161
-00161
+00162 it is a piece of barren land with no vegetations
 00162
 00162
 00162
 00162
-00162
+00163 it is a piece of barren land and some coconut trees
 00163
 00163
 00163
 00163
-00163
+00164 it a piece of barren land with red sand
 00164
 00164
 00164
 00164
-00164
+00165 it is land area with neatly planted trees
 00165
 00165
 00165
 00165
-00165
+00166 it is a piece of barren land covered with small plants
 00166
 00166
 00166
 00166
-00166
+00167 it is a piece of unused baren land
 00167
 00167
 00167
 00167
-00167
+00168 the view shows a piece of barren land
 00168
 00168
 00168
 00168
-00168
+00169 it is a land area with red sand and no vegetation
 00169
 00169
 00169
 00169
-00169
+00170 it is a piece of barren land with solar panels at one side
 00170
 00170
 00170
 00170
-00170
+00171 it a baren land which is unused and roads on one side
 00171
 00171
 00171
 00171
-00171
+00172 it is a piece of barren land with small plants covering the soil
 00172
 00172
 00172
 00172
-00172
+00173 it is a piece of barren land with some trees
 00173
 00173
 00173
 00173
-00173
+00174 it is a piece of barren land with many trees and mud paths
 00174
 00174
 00174
 00174
-00174
+00175 a piece of barren land and some dense trees
 00175
 00175
 00175
 00175
-00175
+00176 it is a piece of barren land with farm of coconut trees
 00176
 00176
 00176
 00176
-00176
+00177 it is piece of land with green vegetation
 00177
 00177
 00177
 00177
-00177
+00178 a dry land area with a basement for a building
 00178
 00178
 00178
 00178
-00178
+00179 a land area with roads and mud paths criss crossing each other
 00179
 00179
 00179
 00179
-00179
+00180 a land area with vegetaion adjacent to a highway
 00180
 00180
 00180
 00180
-00180
+00181 a dry land area with black soil no vegetations
 00181
 00181
 00181
 00181
-00181
+00182 it is land area with red sand and some vegetations
 00182
 00182
 00182
 00182
-00182
+00183 it is a barren land area with vegetations covering the soil
 00183
 00183
 00183
 00183
-00183
+00184 a red sand land area with many trees that are neatly planted in rows
 00184
 00184
 00184
 00184
-00184
+00185 a piece of land with few trees
 00185
 00185
 00185
 00185
-00185
+00186 a piece of land with homes at one side and solar panels on another side
 00186
 00186
 00186
 00186
-00186
+00187 a land area with many small plants and trees
 00187
 00187
 00187
-00187
-00187
+00187 
+00188 it is a land area of red soil with many plants and trees
 00188
 00188
 00188
 00188
-00188
+00189 a land area with some water stagnation
 00189
 00189
 00189
 00189
-00189
+00190 it is land area covered with vegetation	
 00190
 00190
 00190
 00190
-00190
+00191 it is a piece of unused barren land
 00191
 00191
 00191
 00191
-00191
+00192 it is piece of barren land with many mud paths and canals
 00192
 00192
 00192
 00192
-00192
+00193 it is a piece of unused and barren land area
 00193
 00193
 00193
 00193
-00193
+00194 a land area with red soil and plants growing randomly
 00194
 00194
 00194
 00194
-00194
+00195 a barren land with house and trees
 00195
 00195
 00195
 00195
-00195
+00196 a piece of land with red soil and few plants and trees
 00196
 00196
 00196
 00196
-00196
+00197 a land area with house and road
 00197
 00197
 00197
 00197
-00197
+00198 it is a land area with red sand and some dense plants
 00198
 00198
 00198
 00198
-00198
+00199 it is a land area with canal and solar panels
 00199
 00199
 00199
 00199
-00199
+00200 it is a land area with good vegetations and houses
 00200
 00200
 00200
 00200
-00200
+00201 it a land area with small plants covering the ground and a mud path
 00201
 00201
 00201
 00201
-00201
+00202 it is a land area with red soil and few plants
 00202
 00202
 00202
 00202
-00202
+00203 it is a land area with red soil covered with many plants 
 00203
 00203
 00203
 00203
-00203
+00204 it is a piece of land area with many trees and mud paths
 00204
 00204
 00204
 00204
-00204
+00205 it is land area with farm and canal for irrigation
 00205
 00205
 00205
 00205
-00205
+00206 it is a land area with many trees
+00206 
 00206
 00206
 00206
-00206
-00206
+00207 it is a piece of barren land with road
 00207
 00207
 00207
 00207
-00207
+00208 it is a land area with watere canal and many trees
 00208
 00208
 00208
 00208
-00208
+00209 it is a land area with red soil and dense trees
 00209
 00209
 00209
 00209
-00209
+00210 it is a piece of barren land area with few trees scattered
 00210
 00210
 00210
 00210
-00210
+00211 it is a piece of unused barren land area
 00211
 00211
 00211
 00211
-00211
+00212 it is land area with coconut tree farms and roads
 00212
 00212
 00212
 00212
-00212
+00213 it is a land area with lot of green plants and trees
 00213
 00213
 00213
 00213
-00213
+00214 it is land area with mud paths between green plants
 00214
 00214
 00214
 00214
-00214
+00215 it is a piece of land area with black soil and very few trees
 00215
 00215
 00215
 00215
-00215
+00216 it is a piece of barren land with small green plants
 00216
 00216
 00216
 00216
-00216
+00217 it is a piece of land area with red soil and neatly planted trees
 00217
 00217
 00217
 00217
-00217
+00218 it is barren land with red soil
 00218
 00218
 00218
 00218
-00218
+00219 it is a piece of barren land with scarce trees
 00219
 00219
 00219
 00219
-00219
+00220 it is a piece of land with trees
 00220
 00220
 00220
 00220
-00220
+00221 it is piece of land area with many tall trees
 00221
 00221
 00221
 00221
-00221
+00222 it is land area with black soil
 00222
 00222
 00222
 00222
-00222
+00223 the view shows land area with trees and houses
 00223
 00223
 00223
 00223
-00223
+00224 it is a land area with black soil
 00224
 00224
 00224
 00224
-00224
+00225 it is land area with few roads
 00225
 00225
 00225
 00225
-00225
+00226 it is a land area with many plants adjacent to a highway
 00226
 00226
 00226
 00226
-00226
+00227 it shows a land area with two buildings adjacent to a road
 00227
 00227
 00227
 00227
-00227
+00228 it is land area with very few trees
 00228
 00228
 00228
 00228
-00228
+00229 it is land area with grounds and trees planted in a row
 00229
 00229
 00229
 00229
-00229
+00230 it is a piece of land area that is unused
 00230
 00230
 00230
 00230
-00230
+00231 it is a piece of barren land with black soil
 00231
 00231
 00231
 00231
-00231
+00232 it is a piece of land area with few trees
 00232
 00232
 00232
 00232
-00232
+00233 the view shows the land area with few bulidings 
 00233
 00233
 00233
 00233
-00233
+00234 it is a barren land area with many tall trees
 00234
 00234
 00234
 00234
-00234
+00235 it is a unused barren land with a mud path
 00235
 00235
 00235
 00235
-00235
+00236 it is piece of land area covered with plants and has a mud path in the middle
 00236
 00236
 00236
 00236
-00236
+00237 it is a land area with trees and a water canal
 00237
 00237
 00237
 00237
-00237
+00238 it is a land area with black soil and a road
 00238
 00238
 00238
 00238
-00238
+00239 it is a land area with few plants
 00239
 00239
 00239
 00239
-00239
+00240 it is a land area with few plants covering the ground
 00240
 00240
 00240
 00240
-00240
+00241 it is a land area with red soil and few plants
 00241
 00241
 00241
 00241
-00241
+00242 it is land area with many plants covering the ground and a mud path
 00242
 00242
 00242
 00242
-00242
+00243 it is a land area with red soil and neatly planted trees
 00243
 00243
 00243
 00243
-00243
+00244 it is a piece of unused land with many plants and trees
 00244
 00244
 00244
 00244
-00244
+00245 it is a land area with many dense trees
 00245
 00245
 00245
 00245
-00245
+00246 it is a land area with covered with green plants and trees
 00246
 00246
 00246
 00246
-00246
+00247 it is a piece of land are with big trees
 00247
 00247
 00247
 00247
-00247
+00248 it is unused land with black soil
 00248
 00248
 00248
 00248
-00248
+00249 it is a land area with many plants and mud path
 00249
 00249
 00249
 00249
-00249
-00250
+00250 it is a land area with neatly planted trees
 00250
 00250
 00250
