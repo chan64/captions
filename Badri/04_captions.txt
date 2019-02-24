@@ -173,98 +173,146 @@
 
 
 04_051 The large number of trees are grown and solar panels are installed near them.
+04_051 A small number of solar panels border a thick cover of trees.
 
 04_052 The large number of trees are grown and solar panels are installed near them.
+04_052 A solar panel field neighbours a densely crowded tree cover.
 
 04_053 A mere forest area with large number of trees and some vacant lands.
+04_053 A large of densely placed trees are present on the plains
 
 04_054 One side of image is filled with trees while other side contains barren lands.
+04_054 A thick tree cover is present next to a neglected land.
 
 04_055 The aerial view of barren lands where deforestation have been done.
+04_055 A mud pathway runs between poorly maintained lands.
 
 04_056 Dense growth of trees in large number at one end and area similair to plains at other end
+04_056 A thick tree cover exists close to a properly maintained vegetation.
 
 04_057 The growth of trees are dense in that area.
+04_057 There is a thick tree cover close to a highway and solar panels. 
 
 04_058 The forest area where trees have been cut down.
+04_058 There exists a forest with lot of bushes.
 
 04_059 The growth of trees which are in smaller heights.
+04_059 There is a vegetation with a lot of bushes around neighbouring farmlands and trees.
 
 04_060 A mixture of farmlands,trees and greenary.
+04_060 Closely spaced trees are lined within a set of farmlands.
 
 04_061 Highways are spotted in the middle of tree covered region.
+04_061 A few buildings are present inbetween thick tree cover next to a highway road.
 
 04_062 Roads are laid in between forest regions.
+04_062 A thick dense tree cover exists wherein roads and buildings pass inbetween.
 
 04_063 Roads are laid in between forest regions.
+04_063 Few buildings and roads passes between thick dense tree cover.
 
-04_064 The area captured is so dense with many number of trees and some residential areas in between them
+04_064 The area captured is so dense with many number of trees and some residential areas in between them.
+04_064 A thick tree cover exists in the middle of which few roads and buildings exists.
+
 
 04_065 The area captured is so dense with many number of trees.
+04_065 A thick trees is present in the middle of which is a number of buildings, pathways and playgrounds.
 
 04_066 Top view of area which has highways,vacant grounds and large number of trees.
+04_066 An industrial area, farms, fields are scattered in a densely covered tree area.
 
 04_067 Different kind of trees are grown in large numbers.
+04_067 A large number of trees are present around with space for few buildings and a road.
 
 04_068 Highways are captured which has more trees in one end.
+04_068 A highway, a connecting road and few buildings can be seen in a dense tree area.
 
 04_069 More number of trees are there in these areas.
+04_069 A part of buildings, playgrounds and roads is visible in the thick dense tree cover.
 
 04_070 The area captured have dense forests.
+04_070 Few pathways, buildings and playgrounds are partly visible in the dense tree cover. 
 
 04_071 The density of trees grown are high in number.
+04_071 A dense tree cover shrouds a playground and a number of buildings and roads.
 
 04_072 Large number of trees are grown.
+04_072 A dense cover of trees is present on plains having buildings and playground close to a road.
 
 04_073 The river runs through the forest areas.
+04_073 Dense tree cover areas exists along a river channel.
 
 04_074 It is a forest.
+04_074 A river channels runs neighbouring to a dense thick tree cover.
 
 04_075 The plain lands with green grass are captured.
+04_075 A plain with water scattered is present next to a tree cover.
 
 04_076 The plain lands with green grass are captured.
+04_076 River channels with dirty water runs across green plains and dense forest cover.
 
 04_077 The growth of trees are dense in that area.
+04_077 A thick tree cover is present with a small number of buildings inbetween and next to a road. 
 
 04_078 One side of image consists of playgrounds and other end has trees,roads are present inbetween them.
+04_078 A small roads runs in the middle with persistent thick tree cover on one side and farmlands on the other.
 
 04_079 Roads are laid in between forest regions.
+04_079 A number of pathways and buildings exists in the middle of thick tree cover.
 
 04_080 The images focuses on the forest regions which has large number of trees.
+04_080 A two lane highway and roads are present in the middle of a thick tree area.
 
 04_081 Roads are laid in the midst of forest which are very dense.
+04_081 Parallel roads run between thick forest area.
 
 04_082 Roads are laid in the midst of forest which are very dense.
+04_082 A number of buildings and roads exists is covered by a thick dense tree cover.
 
 04_083 The image consists of cell tower,garden,trees and some smaller roads.
+04_083 A garden in a park exists next to a dense tree cover and a road.
 
 04_084 A roundtana has been captured in the midst of dense forests.
+04_084 A round junction with buildings is surrounded by thick tree cover.
 
 04_085 The growth of trees are dense in that area.
+04_085 Buildings with a front garden exists in the middle of a thick tree cover. 
 
 04_086 The captured image contains trees,roads and some vacant grounds.
+04_086 A road and few buildings are present in major cover of trees.
 
 04_087 Roads are laid in between forest regions.
+04_087 A road passes inbetween a dense forest region.
 
-04_088
+04_088 There is a forest
+04_088 There is a thick and dense forest cover.
 
-04_089
+04_089 There is a forest.
+04_089 A thick forest area is present next to a vegetation.
 
 04_090 The density of trees grown are high in number.
+04_090 There is a thick forest area.
 
 04_091 This area contains similar kind of trees.
+04_091 There is a thick forest area with some plains around.
 
 04_092 One part of forest is covered with trees while the other one contains grass.
+04_092 There is a vegetation next to a thick forest cover.
 
 04_093 The large number of trees are grown along with some walking path in them.
+04_093 There is a thick forest cover and some plains.
 
 04_094 Series of identical trees are grown in the forest area. 
+04_094 A thick forest area is present close to a road.
 
 04_095 Forest area which contains similar kind of trees have been spotted.
+04_095 A thick forest cover with some plains is present next to a forest area.
 
 04_096 Short roads are constructed at the end of dense areas. 
+04_096 A few coconut trees are present in the dense forest area close to a road.
 
 04_097 The forest area is covered with full of trees.
+04_097 The view consists of a thick forest area in major.
 
 
 
