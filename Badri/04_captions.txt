@@ -93,54 +93,84 @@
 04_026 There are existence of roads in the midway of forests.
 04_026 A thick tree cover is present enveloping a number of buildings and roads. 
 
-04_027 Some playgrounds are being spotted inbetween dense areas.
-04_028 
+04_027 Some playgrounds are being spotted in between dense areas.
+04_027 Amidst of thick tree cover a playground and buildings are spotted.
 
-04_028 There is a shorter path inbetween the forest.
+04_028 There is a shorter path in between the forest.
+04_028 A small path is spotted with forest on one side and few farmlands on other side.
 
 04_029 Some vacant grounds are spotted near area where lots of trees are grown.
+04_029 A playground and few buildings are seen amidst of thick tree cover beside a road.
 
-04_030 There is a shorter path inbetween the forest.
+04_030 There is a shorter path in between the forest.
+04_030 A small path is spotted with forest on one side and few farmlands on other side.
+
 
 04_031 The presence of barren lands in green area.
+04_031 Few farmlands with certain number of trees are seen.
 
 04_032 The presence of barren lands in green area.
+04_032 Several farmlands with trees are present
 
 04_033 A large area of plain lands where trees are grown in large numbers.
+04_033 Two farmlands in which more trees are grown.
 
 04_034 Aerial view of a city with mix up of Agricultural lands,trees and Residents.
+04_034 Many residents are surrounded by trees and farmlands.
 
 04_035 Aerial view of a city with mix up of Agricultural lands,trees and Residents.
+04_035 Many residents are surrounded by trees and farmlands.
+
 
 04_036 Top view of a residential areas covered fully with trees.
+04_036 A Pond and a group of farmlands are accumulated on one side and residential area on the other side.
 
 04_037 Path of a river which flows in the midst of trees.
+04_037 Aerial view of more trees, few farmlands and a river is spotted
 
-04_038 The forest image which has a combo of a river,walking path and bunch of trees.
+04_038 The forest image which has a combination of a river,walking path and bunch of trees.
+04_038 Aerial view of more trees, few farmlands and a river is spotted
+
 
 04_039 The dense forest area is captured with river flowing at its one end.
+04_039 Aerial view of more trees, few farmlands and a river is spotted
+
 
 04_040 There is area near highways with very large number of trees grown.
+04_040 A highway with barren land on one side and few buildings in the dense tree cover on the other side.
 
 04_041 Large growth of trees in a particular area.
+04_041 Few buildings are present amidst a dense tree cover.
+
 
 04_042 Trees are grown in large numbers and they are dense.
+04_042 Buildings are scattered in the midst of thick tree cover.
 
 04_043 The presence of roads in midst of forest region.
+04_043 Few residents are scattered amidst thick tree cover and roads are laid in between.
 
 04_044 The presence of roads in midst of forest region.
+04_044 Few residents are scattered amidst thick tree cover and a road is spotted.
+
 
 04_045 There is area near highways with very large number of trees grown.
+04_045 Few buildings are spotted  amidst the dense tree cover.
 
 04_046 Aerial view of forest areas with larger number of trees grown.
+04_046 Farmlands with huge amount of trees and few buildings are spotted.
 
-04_047 The forest areas are captured with residents and farmlands one one end of forests.
+04_047 The forest areas are captured with residents and farmlands on one end of forests.
+04_047 farmlands with huge amount of trees and crops are seen and buildings are spotted at some places. 
 
 04_048 A series of farmlands are present.
+04_048 Farmlands that are ready for cultivation and some trees are seen.
 
 04_049 There are some vacant lands at one end and trees in large numbers in other end.
+04_049 Trees are concentrated beside a barren land.
 
 04_050 The growth of trees are dense in that area.
+04_050 Trees are concentrated beside a barren land.
+
 
 04_051 The large number of trees are grown and solar panels are installed near them.
 
