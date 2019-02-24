@@ -138,67 +138,68 @@
 12_040 The sun rays are reflected in the canal water on its one end.
 
 12_041 There is a bridge across the canal and some trees near it.
-12_041
+12_041 There is a small overbridge above the canal and several trees are there.
 
-12_042
+12_042 There is a pathway to canal and some buildings are present in the path.
 12_042 There are some buidings and trees to one side of the canal.
 
 12_043 There are some buidings and trees on either side of the canal.
-12_043
+12_043 The canal water flows along the roads and some vacant grounds are spotted.
 
 12_044 There is an highway bridge across a canal.
-12_044
+12_044 The highway runs above the canal and ground filled with backwaters are present ner the highways.
 
 12_045 There is an highway road near a pond of green water.
-12_045
+12_045 The highway runs above the canal and ground filled with backwaters are present ner the highways.
 
 12_046 There is a pond near an highway.
-12_046
+12_046 There is a highways and a barren land filled with some waters.
 
 12_047 There is a pond of unclean water near the highway.
-12_047
+12_047 There is a dirty pond near the highways.
 
 12_048 There is a pond of unclean water near the highway.
-12_048
+12_048 There is a dirty pond near the highways and some cultivable lands.
 
 12_049 There are some buidings and trees on one side of the canal.
-12_049
+12_049 A small road runs near the canal covered with plants and bushes.
 
 12_050 There is a canal near a playground.
-12_050
+12_050 A small road runs near the canal covered with plants and bushes.
 
 12_051 There is a canal near a playground.
-12_051
+12_051 There is a road and circular tracks in playground near the canal.
 
 12_052 There are some buidings and trees on one side of the canal.
-12_052 
+12_052 It is a canal water contaminated and dirty.
 
 12_053 There are some buidings and trees on one side of the canal.
-12_053
+12_053 It is a canal water contaminated and dirty and some buildings are present.
 
 12_054 There are some buidings,trees and farmlands near the canal.
-12_054
+12_054 Agricultural lands and some trees are grown near the ends of canal.
 
 12_055 There is a farmland near the canal.
-12_055
+12_055 Agricultural lands and some trees are grown near the ends of canal.
 
 12_056 There are some buidings,trees and farmlands near the canal.
-12_056
+12_056 Agricultural lands and some trees are grown near the ends of canal.
  
 12_057 There is a basketball court near the canal.
-12_057
+12_057 There are some trees and a basketball court near the canal.
 
 12_058 There is a canal near the barren land.
-12_058
+12_058 There are some vacant grounds and smaller road near the canal
 
 12_059 There is a canal near the barren land.
-12_059
+12_059 There are some vacant grounds and smaller road near the canal
+
 
 12_060 There are some trees and buildings near the canal.
-12_060
+12_060 Variety of trees are grown on the ends of canal water.
 
 12_061 There are some trees and buildings near the canal.
-12_061  
+12_061 Variety of trees are grown on the ends of canal water.
  
 12_062 There is a canal located near a land containing buildings and trees.
 12_062 Some green bushes and trees are grown near the canal water. 

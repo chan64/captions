@@ -255,75 +255,115 @@
 
 08_113 There are some residential houses and trees on either side of the road.
 
+
 08_114 There is a building and some trees near the green house.
+
 
 08_115 There is a building and some trees near the green house.
 
+
 08_116 Two buildings were located near some trees.
+
 
 08_117 Some trees were located in between and infront of the buildings.
 
+
 08_118 Some trees were locatyed in between the buildings.
+
 
 08_119 Trees were located in the center space of the building.
 
+
 08_120 
+
+
 
 08_121 Green house exist near some buildings and trees.
 
+
 08_122 Some residential houses were located near the highway.
+
 
 08_123 Some trees exist in between the residential buildings near the barren land.
 
+
 08_124 Some trees exist in between the residential buildings near the barren land.
+
 
 08_125 Residential houses were located in between the trees.
 
+
 08_126 Some residential houses and trees were spotted alongside the road.
+
 
 08_127 Some residential houses and trees were spotted alongside the road.
 
+
 08_128 Residential houses and trees were located on either side of the road.
+
+
 08_129 Residential houses and trees were located on either side of the road.
+
 
 08_130 Residential houses and trees were spotted near a barren land.
 
+
 08_131 Residential houses and trees were spotted near a barren land.
+
 
 08_132 Residential houses and trees were spotted.
 
+
 08_133 There are some residential houses and a pond on either side of the road.
+
 
 08_134 There are some residential houses and trees.
 
+
 08_135 Some residential houses and trees were located near a canal.
+
 
 08_136 Some residential houses and trees were located near a canal.
 
+
 08_137 There are some buildings and trees alongside the road.
+
 
 08_138 Some trees exists in between the residential houses alongside the road.
 
+
 08_139 Some trees were located in between the residential houses alongside the road.
+
 
 08_140 Some trees were spotted in between the residential houses.
 
+
 08_141 Some trees exists in between the residential houses.
+
 
 08_142 Some trees were spotted in between the residential houses near a barren land.
 
+
 08_143 There are some buildings surrounded by trees located parallely on a three way road.
+
 
 08_144 Some small buildings and trees were spotted on a barren land.
 
+
 08_145 Some small buildings and trees were spotted on a barren land.
 
+
+
 08_146 There are some trees inbetween the residential houses near a canal.
+
 
 08_147 There are some trees inbetween the residential houses.
 
 08_148 There are some trees inbetween the residential houses.
+08_148
 
 08_149 There are some trees inbetween the residential houses.
+08_149 There are set of small buldings nearer to each other.  
 
+08_150 There are set of small buldings nearer to each other.  
 08_150 There are some trees inbetween the residential houses.
