@@ -8,23 +8,26 @@
 
 
 11_003 There is a solar panel field neighbouring a neatly cropped grass field.
-11_003 Solar panels were neatly arranged 
+11_003 Solar panels were neatly arranged next to a garden.
 
 
 11_004 There is a solar panel field in the middle of which is a shed. 
-11_004
+11_004 A small white shed exist in the midst of the solar farm.
+
 
 
 11_005 There is shed and a stream running between uniformly arranged solar panels.
-11_005
+11_005 A small white shed exist in the solar farm.
+
 
 
 11_006 There is a solar panel field and a stream with grass running inbetween.
-11_006
+11_006  A small white shed exist in the solar farm.
+
 
 
 11_007 There is a solar panel field with some green patches of land.
-11_007
+11_007 
 
 
 11_008 There is a water stream running along the border of a partially mounted solar panel field. 
