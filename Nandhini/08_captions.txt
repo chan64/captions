@@ -175,135 +175,138 @@ the roads.
 
 08_057 There are some buildings and trees near a playground.
 08_057
-08_058 There are some buildings surrounded by trees on either side of the roads.
 
+08_058 There are some buildings surrounded by trees on either side of the roads.
+08_058
 
 08_059 There is a triangle shaped building and trees near a playground.
-
+08_059
 
 
 08_060 There are some buildings surrounded by trees.
-
+08_060
 
 08_061 There are some buildings surrounded by trees on a three way 
 road.
-
+08_061
 
 08_062 There are some buildings surrounded by trees located parallely.
-
+08_062
 
 08_063 There are some buildings surrounded by trees located parallely on a three way road.
-
+08_063
 
 08_064 There are some buildings surrounded by trees located parallely 
 on a three way road.
-
+08_064
 
 08_065 There are some buildings surrounded by trees located parallely.
-
+08_065
 
 08_066 There are some buildings surrounded by trees located parallely.
-
+08_066
 
 08_067 There are some buildings surrounded by trees located parallely.
-
+08_067
 
 08_068 There are two buildings and trees.
-
+08_068 There are some buildings and vacant lands near the playground region.
 
 08_069 There are some buildings surrounded by trees.
-
+08_069 There are some buildings covered with trees which is located near the playground.
 
 08_070 There are some buildings surrounded by trees on either side of the roads.
-
+08_070 There are bunch of trees and bushes present near the roads.
 
 08_071 There are some buildings surrounded by trees located parallely.
-
+08_071 There are set of smaller buildings covered fully with trees.
 
 08_072 There are some buildings surrounded by trees located parallely.
-
+08_072 There are set of smaller buildings covered fully with trees.
 
 08_073 There are some buildings surrounded by trees near a play ground.
-
+08_073 There are some trees grown nearby the playground.
 
 08_074 There is a triangle shaped building and trees near a playground.
+08_074 There is a playground situated on the backside of the large building.
 
 08_075 There are some buildings and trees near a play ground.
-
+08_075 There are some large buildings present closer to each other.
 
 08_076 There are some buildings and trees near a play ground.
-
+08_076 There are some large buildings present closer to each other.
 
 08_077 There are some buildings and trees near the farm land.
-
+08_077 There are lot of farmlands and some big buildings present nearby the green regions.
 
 08_078 There are some buildings and trees near the farm land.
-
+08_078 There are cultivated agricultural lands nearby the building and some trees are grown near it.
 
 08_079 There are some buildings and trees near the highway.
-
+08_079 There are some vacants grounds present nearby the highways.
 
 08_080 There is a building surrounded by trees near the farm land.
-
+08_080 There are cultivated agricultural lands nearby the building and some trees are grown near it. 
 
 08_081 There is a building surrounded by trees near the farm land.
-
+08_081 There are cultivated agricultural lands nearby the building and some trees are grown near it.
 
 08_082 There are some buildings and trees. 
-
+08_082 Some buildings and trees are seen nearer to each other.
 
 08_083 There is a building and some trees. 
-
+08_083 There are some buildings on one side of the road.
 
 08_084 There is a building and some trees on one side of the road.
+08_084 There are some buildings on one side of the road.
 
-08_085
+08_085 There are some huge buildings on one side of the road while the other side comprises of vacant lands.
 08_085 There are some buildings and trees on one side of the road.
 
-08_086
+08_086 There are some buidlings with red coloured rooftop surrounded by some trees.
 08_086 There are some buildings and trees on one side of the road.
 
 08_087 There are some buildings and trees.
-08_087
+08_087 There are some buidlings with red coloured rooftop surrounded by some trees.
 
 08_088 There are some residential houses surrounded by trees on either side of the roads.
-08_088
+08_088 There are lot of smaller houses and trees on both the sides of roadways.
 
 08_089 There are some residential houses surrounded by trees on either side of the roads.
-08_089
+08_089 There are lot of smaller houses and trees on both the sides of roadways.
 
-08_090
+08_090 Series of smaller buildings are present near the smaller road which joins the highways.
 08_090 There are some residential houses and trees near the highway.
 
 08_091 There is a building near the farm land.
-08_091
+08_091 There is a farmland and gardens nearby the buildings.
 
 08_092 There is a building near the farm land.
-08_092
+08_092 There are some trees,gardens,farmlands and a huge building present in that area.
 
 08_093 There are farm lands infront of the building.
-08_093
+08_093 There are farmalnds and some gardens nearby the buidling which has shed in its front side.
 
 08_094 There are farm lands infront of the building.
-08_094
+08_094 There are farmalnds and some gardens nearby the buidling which has shed in its front side.
 
 08_095 There are farm lands infront of the building.
-08_095
+08_095 There is a huge building near the farmalnd and some trees are present near that area.
 
 08_096 There are farm lands infront of the building.
-08_096
+08_096 An institution with red coloured rooftop is present near the farmlands and trees.
 
 08_097 There are farm lands infront of the building.
-08_097
+08_097 An institution with red coloured rooftop is present near the farmlands and trees. 
 
 08_098 There are farm lands infront of the building.
-08_098
+08_098 An institution with red coloured rooftop is present near the farmlands and trees. 
 
 08_099 There are farm lands infront of the building.
-08_099
+08_099 An institution with red coloured rooftop is present near the farmlands and trees.
 
 08_100 There are some buildings and trees near the farm land.
-08_100
+08_100 There are some residential buildings and some smaller houses in the midst of trees and farmlands.
 
 08_101 There are some residential houses and trees on either side of the roads near the highway. 
 08_101 Series of buildings of similar type are located nearer to each other present near the small road.
