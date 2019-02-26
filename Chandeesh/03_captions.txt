@@ -1,23 +1,22 @@
 03_001 There is a farmland with coconut trees at places.
-03_001
+03_001 Framlands were located, in which some are green.
 
 
 
 
 03_002 There are patches of farmland with some greenery and road nearby.
-03_002
+03_002 There exist farmlands next to the road of which some are planted. 
 
 
 
 
 03_003 There is a farmland with plantations having a road nearby.
-03_003
-
+03_003 There exist farmlands next to the road of which some are irrigated. 
 
 
 
 03_004 There is a farmland with a group of trees and a road nearby.
-03_004
+03_004 Roads and trees borders the farmlands
 
 
 
