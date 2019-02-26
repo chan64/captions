@@ -123,57 +123,58 @@
 08_040 There are some buildings and some trees present near the canal.
 
 08_041 There are some trees alongside the building near the farm land.
-
+08_041
 
 08_042 The buildings alongside the trees were located near a farm land.
-
+08_042
 
 08_043 There are some buildings surrounded by trees near a barren land.
-
+08_043
 
 08_044 There are some buildings surrounded by trees near a barren land.
-
+08_044
 
 08_045 There are some residential houses surrounded by trees near a farm land.
-
+08_045
 
 
 
 08_046 There are some residential houses surrounded by trees near a farm land.
-
+08_046
 
 08_047 There are some buildings surrounded by trees on either side of 
 the roads.
-
+08_047
 
 08_048 There are some buildings surrounded by trees on either side of the roads.
-
+08_048
 
 08_049 There are some buildings surrounded by trees on either side of the roads.
-
+08_049
 
 08_050 There are some buildings surrounded by trees near the highway.
-
+08_050
 
 08_051 There are some buildings and trees.
+08_051
 
 08_052 There are some buildings surrounded by trees on either side of the roads.
-
+08_052
 
 08_053 There are some buildings surrounded by trees located parallely.
-
+08_053
 
 08_054 There are some buildings surrounded by trees located parallely.
-
+08_054
 
 08_055 There are some buildings surrounded by trees in a four way road.
-
+08_055
 
 08_056 There are some buildings surrounded by trees in a four way road.
-
+08_056
 
 08_057 There are some buildings and trees near a playground.
-
+08_057
 08_058 There are some buildings surrounded by trees on either side of the roads.
 
 
