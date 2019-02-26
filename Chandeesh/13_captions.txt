@@ -1,69 +1,84 @@
 13_001 A temple spire in a rooftop is present close to a residential area.
 13_001 One side of temple is captured along with some trees,hills,many buildings and temple rooftops.
+13_001 
 
 13_002 A temple rooftop is present next to a road lined with coconut trees.
 13_002 The sanctum sanctorum of the holy shrines are covered with roof tops.
+13_002
 
 13_003 The temple is crowded with people on the ground.
 13_003 The front part of the temple is crowded with lot of people.
+13_003
 
 13_004 The rooftop of a temple having arches is present.
 13_004 The red coloured rooftops are present above the holy shrines.
+13_004
 
 
 
 13_005
 13_005 The red coloured rooftops are present above the holy shrines with some small temple towers.
+13_005
 
 
 13_006 The temple is partly crowded near a stage setup.
 13_006 There is crowd waiting outside the holy shrine.
+13_006
 
 13_007 The rooftop of a temple exists opposite to which a crowd is present.
 13_007 The temple towers are seen along with rooftops
+13_007
 
 13_008 
 13_008 There is crowd waiting outside the holy shrine.
+13_008
 
 13_009
 13_009 The temple towers are seen along with rooftops
+13_009
 
 
 13_010 An arch is present in front of the temple.
 13_010 Huge towers present in the entrance of temple are seen. 
+13_010
 
 
 13_011 A densely crowded trees is present next to the temple.
 13_011 Trees grown in dense manner near the temple are seen at the ends of shrine.
-
+13_011
 
 13_012 
 13_012 The temple towers are seen along with rooftops and pathway.
+13_012
 
 
 13_013
 13_013 Huge towers present in the entrance of temple are seen. 
+13_013
 
 
 13_014
 13_014 Trees grown in dense manner near the temple are seen at the ends of shrine.
+13_014
 
 
 13_015
 13_015 The temple towers are seen along with rooftops and pathway.
-
+13_015
 
 
 13_016
 13_016 Some coconut trees covers the part of temple and huge towers are seen at the mere ends.
-
+13_016
 
 13_017
 13_017 The city is seen with lots of buildings,coconut trees and shrines located in the temple.
+13_017
+
 
 13_018
 13_018 Trees grown in dense manner near the temple are seen at the ends of shrine.
-
+13_018
 
 13_019
 13_019 The sanctum sanctorum of the temple is viewed from the top covered with rooftops.
@@ -71,27 +86,32 @@
 
 13_020
 13_020 The crowd is stranded in the areas near the temple prakara.
-
+13_020
 
 13_021
 13_021  The crowd is stranded in the areas near the temple prakara.
-
+13_021
 
 13_022
 13_022 There is huge crowd waiting near the entrance of the temple.
-
+13_022
 
 13_023
 13_023 The rooftops near the temple tower facilitates crowd to stand.
+13_023
 
 
 13_024
 13_024 There is huge crowd waiting near the entrance of the temple.
-
+13_024
 
 13_025
 13_025 There is huge crowd waiting near the entrance of the temple.
+13_025
+
+
 
 
 13_026
 13_026 The temple towers are seen along with rooftops.
+13_026
