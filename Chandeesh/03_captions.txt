@@ -3,7 +3,6 @@
 
 
 
-
 03_002 There are patches of farmland with some greenery and road nearby.
 03_002 There exist farmlands next to the road of which some are planted. 
 
@@ -28,7 +27,7 @@
 
 
 03_006 There is a farmland near a residential area.
-03_006
+03_006 Plantations were done in farmlands located near the residential area. 
 
 
 
@@ -76,7 +75,7 @@
 
 
 03_014 There is a sowed farmland close to a residential area.
-03_014 
+03_014 Farmlands were located near the residential area.
 
 
 
@@ -371,7 +370,7 @@
 
 
 03_067 There are farmlands with some buildings around the corner.
-03_067 
+03_067 Farmlands were located near the residential area of which some are green.
 
 
 03_068 There is a farmland with trees bordering it.
@@ -656,45 +655,45 @@
 
 
 
-03_124 There are green farmlands with patches of uniformly cropped plants.
-03_124
+03_124 There are green farmlands close to group of bushes.
+03_124 Green farmlands are located with bushes at their borders.
 
 
 
 
 
-03_125 There are green farmlands close to group of bushes.
-03_125
+03_125 There are green farmlands with patches of uniformly cropped plants.
+03_125 There are evenly cropped green farmlands.
 
 
 
 
 
 03_126 There are group of bushes and buildings between green farmlands.
-03_126
+03_126 Bushes bordering the green farmlands were located.
 
 
 
 03_127 There are green farmlands close to group of bushes and buildings.
-03_127
+03_127 Bushes and buildings were located in between the green farmlands.
 
 
 
 
 03_128 There are green farmlands with buildings and bushes surrounding it.
-03_128
+03_128 Bushes and buildings were located near the green farmlands.
 
 
 
 
-03_129 There is stream of water dividing group of farmlands and barren lands.
-03_129
+03_129 There are green farmlands with buildings and bushes surrounding it.
+03_129 Green farmlands were surrounded by bushes and buildings.
 
 
 
 
-03_130 There are farmlands close to buildings and bushes.
-03_130
+03_130 There is stream of water dividing group of farmlands and barren lands.
+03_130 A river runs in between the barren land and farmlands.
 
 
 
