@@ -1,176 +1,234 @@
+03_001 
 03_001 There is a farmland with coconut trees at places.
-03_001 Framlands were located, in which some are green.
+03_001 There are mixups of partial and completely culitvated farmlands.
+03_001 Farmlands were located, in which some are green.
 
 
 
+03_002 
 03_002 There are patches of farmland with some greenery and road nearby.
+03_002 There are set of farmlands located near to the smaller roads.
 03_002 There exist farmlands next to the road of which some are planted. 
 
 
 
 
+03_003 
 03_003 There is a farmland with plantations having a road nearby.
+03_003 There are set of farmlands located near to the smaller roads.
 03_003 There exist farmlands next to the road of which some are irrigated. 
 
 
 
+03_004 
 03_004 There is a farmland with a group of trees and a road nearby.
+03_004 Farmlands are cultivated near the roadways which has lot of trees grown at the ends.
 03_004 Roads and trees borders the farmlands
 
 
 
 
+03_005 
 03_005 There is a green patch of farmland close to a road.
+03_005 
 03_005 There is a green farmland having a road nearby.
 
 
 
 
+03_006 
 03_006 There is a farmland near a residential area.
+03_006 
 03_006 Plantations were done in farmlands located near the residential area. 
 
 
 
 
+03_007 
 03_007 There is a farmland which is sowed.
+03_007 
 03_007 There exists some green bushes in between the farmland.
 
 
 
 
+03_008 
 03_008 There is a recently irrigated farmland.
+03_008 
 03_008 Some green bushes exist alongside the farmland.
 
 
 
 
+03_009 
 03_009 There is a irrigated farmland next to a greenish one.
+03_009 
 03_009 A greenhouse is located in between the farmland.
 
 
 
 
+03_010 
 03_010 There is a green farmland.
+03_010 
 03_010 A greenhouse is located in between the farmland.
 
 
 
 
+03_011 
 03_011 There is a neatly arranged green farmland.
+03_011 
 03_011 There are some bushes alongside the green farm.
 
 
 
 
+03_012 
 03_012 There is a irrigated farmland.
+03_012 
 03_012 There is an irrigated farmland alongside the green farmland.
 
 
 
 
+03_013 
 03_013 There is a irrigated farmland
+03_013 
 03_013 There is an irrigated farmland alongside the green farmland.
 
 
 
 
+03_014 
 03_014 There is a sowed farmland close to a residential area.
+03_014 
 03_014 Farmlands were located near the residential area.
 
 
 
 
+03_015 
 03_015 There is a farmland of which, some are irrigated.
+03_015 
 03_015 There is an irrigated farmland alongside the green farmland.
 
 
 
 
+03_016 
 03_016 There is a farmland near a residential area.
+03_016 
 03_016 There is a pond of unclean water near a farmland.
 
 
 
 
-03_017 There is a farmland near a residential area.
-03_017 There are some small buildings and trees near the farmland.
+03_017 03_017 There is a farmland near a residential area.
+03_017 03_017 There are some small buildings and trees near the farmland.
 
 
 
 
+03_018 
 03_018 There is a farmland near a residential area having trees around.
+03_018 
 03_018 There are some trees near the residential houses and farmland.
 
 
 
 
+03_019 
 03_019 There is a farmland.
+03_019 
 03_019 There are some trees alongside the green farmland.
 
 
 
 
+03_020 
 03_020 There is a farmland near a house.
+03_020 
 03_020 There are some small buildings near the farmland.
 
 
 
 
+03_021 
 03_021 There is a green farmland.
+03_021 
 03_021 There are some bushes alongside the green farmland.
 
 
 
 
 
+03_022 
 03_022 There is a farmland with a irrigated field nearby.
+03_022 
 03_022 There is an irrigated land near a green farmland.
 
 
 
 
+03_023 
 03_023 There is a farmland near a road.
+03_023 
 03_023 There exist a road nearby the green farmland.
 
 
 
 
+03_024 
 03_024 There is a farmland with a road inbetween.
+03_024 
 03_024 Green farmlands exist on either side of the road.
 
 
 
 
+03_025 
 03_025 There is a farmland with a road passing nearby.
+03_025 
 03_025 There is a green farmland on one side of the road.
 
 
 
+03_026 
 03_026 There is a green farmland.
+03_026 
 03_026 There exist a bush in a green farmland
 
 
 
 
+03_027 
 03_027 There is a equally sized ,neatly arranged farmland.
+03_027 
 03_027 Some trees exist alongside the equally partitioned farmland.
 
 
 
 
+03_028 
 03_028 There is a farmland with trees nearby.
+03_028 
 03_028 There are some trees at the corner of the farmland.
 
 
 
 
+03_029 
 03_029 There is a farmland close to residential area.
+03_029 
 03_029 The farmland exist nearby a building.
 
 
 
 
+03_030 
 03_030 There is a plantation.
+03_030 
 03_030 There is a plantation in a farmland.
 
 
@@ -536,223 +594,305 @@
 
 
 
+03_101 
 03_101 There are farmlands neighbouring which is a pond and grassy area.
+03_101 
 03_101 Dry farmlands exist near a pond and grassy land.
 
 
+03_102 
 03_102 There are farmlands close to a grassy area.
+03_102 
 03_102 Dry farmlands exist near a grassy land.
 
 
 
+03_103 
 03_103 There are farmlands with trees lying around.
+03_103 
 03_103 There are dry farmlands with patches of trees.
 
 
+03_104 
 03_104 There are farmlands with trees scattered around.
+03_104 
 03_104 There are dry farmlands with patches of trees.
 
 
+03_105 
 03_105 Groups of buildings and trees is distributed around farmlands.
+03_105 
 03_105 Some buildings and trees are located near the farmlands.
 
 
 
+03_106 
 03_106 There are farmlands and buildings adjacent to a road.
+03_106 
 03_106 There are buildings and farmlands alongside the road.
 
 
 
+03_107 
 03_107 Buildings are grouped and present next to farmlands.
+03_107 
 03_107 There are some buildings and trees near to the farmlands.
 
 
 
 
+03_108 
 03_108 There are uniformly laid farmlands next to uncared lands.
+03_108 
 03_108 Trees are grown in larger numbers nearer to the farmlands.
 
 
 
 
+03_109 
 03_109 There are farmlands with trees bordering at some places.
+03_109 
 03_109 Trees were grown at the borders of the farmlands.
 
 
 
 
+03_110 
 03_110 There is a road passing with group of trees, buildings and farmlands distributed on either sides.
+03_110 
 03_110 Farmlands, trees and buildings were located on either side of the road. 
 
 
 
+03_111 
 03_111 There are farmlands adjacent to a road.
+03_111 
 03_111 Farmlands exist near to the road.
 
 
+03_112 
 03_112 There are green farmlands around buildings.
-03_112  Some buildings were located near the green farmlands.
+03_112 
+03_112 Some buildings were located near the green farmlands.
 
 
 
+03_113 
 03_113 There are green farmlands.
+03_113 
 03_113 There are green farmlands adjacent to the irrigated farmlands.
 
 
 
+03_114 
 03_114 There are green farmlands.
+03_114 
 03_114 There are green farmlands adjacent to the irrigated farmlands.
 
 
 
+03_115 
 03_115 There are green farmlands of which some are irrigated.
+03_115 
 03_115 There are green farmlands adjacent to the irrigated farmlands.
 
 
 
+03_116 
 03_116 There are green farmlands next to a road.
+03_116 
 03_116 There are green farmlands and irrigated farmlands nearby the road.
 
 
 
+03_117 
 03_117 There are green farmlands and a tree in the middle.
+03_117 
 03_117 There is a tree in the midst of the green farmlands.
 
 
 
 
+03_118 
 03_118 There are green farmlands, of which, some are irrigated.
+03_118 
 03_118 There exist some trees in one corner of the farmlands of which some are irrigated.
 
 
 
 
+03_119 
 03_119 There are green farmlands close to a building and trees.
+03_119 
 03_119 There is a building and some trees nearer to the farmlands.
 
 
 
 
+03_120 
 03_120 There are green farmlands of which some are irrigated.
+03_120 
 03_120  There are green farmlands adjacent to the irrigated farmlands.
 
 
 
 
+03_121 
 03_121 There are green farmlands adjacent to a road decorated with bush.
+03_121 
 03_121 Some green bushes exist on one side of the farmlands.
 
 
 
 
 
+03_122 
 03_122 There are green farmlands adjacent to a road decorated with bush.
+03_122 
 03_122 Green bushes and farmlands are located on either side of the road.
 
 
+03_123 
 03_123 There are green farmlands close to a road decorated with bush.
+03_123 
 03_123 Green bushes and farmlands are located on either side of the road.
 
 
 
+03_124 
 03_124 There are green farmlands close to group of bushes.
+03_124 
 03_124 Green farmlands are located with bushes at their borders.
 
 
 
 
 
+03_125 
 03_125 There are green farmlands with patches of uniformly cropped plants.
+03_125 
 03_125 There are evenly cropped green farmlands.
 
 
 
 
 
+03_126 
 03_126 There are group of bushes and buildings between green farmlands.
+03_126 
 03_126 Bushes bordering the green farmlands were located.
 
 
 
+03_127 
 03_127 There are green farmlands close to group of bushes and buildings.
+03_127 
 03_127 Bushes and buildings were located in between the green farmlands.
 
 
 
 
+03_128 
 03_128 There are green farmlands with buildings and bushes surrounding it.
+03_128 
 03_128 Bushes and buildings were located near the green farmlands.
 
 
 
 
+03_129 
 03_129 There are green farmlands with buildings and bushes surrounding it.
+03_129 
 03_129 Green farmlands were surrounded by bushes and buildings.
 
 
 
 
+03_130 
 03_130 There is stream of water dividing group of farmlands and barren lands.
+03_130 
 03_130 A river runs in between the barren land and farmlands.
 
 
 
 
 
+03_131 
 03_131 There are farmlands and line of bushes closeby.
+03_131 
 03_131 There are some trees near the farmlands.
 
 
 
 
+03_132 
 03_132 There are farmlands.
+03_132 
 03_132 There are farmlands with some bushes at its border.
 
 
 
+03_133 
 03_133 There are farmlands.
+03_133 
 03_133 There are farmlands of which some are irrigated.
 
 
 
+03_134 
 03_134 There is a road lined with bushes between group of farmlands.
+03_134 
 03_134 Some bushes exist near the green farmlands.
 
 
 
 
+03_135 
 03_135 There is a road lined with bushes between group of farmlands.
+03_135 
 03_135 Irrigated and green farmlands exist on either side of the road decorated with bushes.
 
 
 
 
+03_136 
 03_136 There are green farmlands with trees and a greenhouse nearby.
+03_136 
 03_136 Irrigated and green farmlands exist on either side of the road decorated with bushes.
 
 
 
+03_137 
 03_137 There are green farmlands some of which are irrigated.
+03_137 
 03_137 Some plantation were done near the green farmlands. 
 
 
 
+03_138 
 03_138 There are farmlands some of which are irrigated.
+03_138 
 03_138 Irrigated farmlands exist near the green farmlands.
 
 
 
 
+03_139 
 03_139 There are farmlands of which some are irrigated.
+03_139 
 03_139  Irrigated and planted farmlands exist on either side of the road decorated with bushes.
 
 
 
+03_140 
 03_140
+03_140 
 03_140 Irrigated and planted farmlands exist on either side of the road decorated with bushes.
 
 
 
+03_141
+03_141 
 03_141 
 03_141 Planted farmlands were located near the playground.
 
@@ -760,50 +900,68 @@
 
 
 
+03_142 
 03_142 There are farmlands with neatly arranged bushes.
+03_142 
 03_142 There exist a building surrounded by trees near the farmlands.
 
 
 
 
+03_143 
 03_143 There are farmlands with a road lined with coconut trees.
+03_143 
 03_143 Some trees exist inbetween the farmlands.
 
 
 
+03_144 
 03_144 There are farmlands of which some are ploughed adjacent to road lined with coconut trees.
+03_144 
 03_144  Dry and green farmlands exist alongside the roads lined with coconut trees.	
 
 
 
 03_145 
+03_145 
+03_145 
 03_145  Dry and green farmlands exist alongside the roads lined with coconut trees.	
 
 
 
+03_146 
 03_146 There are farmlands and a waterbody with a road passing inbetween lined with coconut trees. 
+03_146 
 03_146 Dry farmlands exist inbetween the roads lined with coconut trees.	
 
 
 
 
+03_147 
 03_147 There are group of farmlands of which some are sowed.
+03_147 
 03_147 There are farmlands of which some are green.
 
 
 
+03_148 
 03_148 There are farmlands close to buildings.
+03_148 
 03_148 There exist some buildings and trees near to the farmlands.
 
 
 
 
+03_149 
 03_149 There are farmlands and a greenhouse close to a road.
+03_149 
 03_149 Greenhouse, trees and farmlands exist near the road.
 
 
 
+03_150 
 03_150 There are farmlands with patches of trees.
+03_150 
 03_150 Greenhouse and trees exist near the farmlands where plantations are done.
 
 
