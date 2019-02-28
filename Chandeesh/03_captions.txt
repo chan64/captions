@@ -30,7 +30,7 @@
 
 03_005 
 03_005 There is a green patch of farmland close to a road.
-03_005 
+03_005 There are green coloured farmlands culitvated near the highway roads.
 03_005 There is a green farmland having a road nearby.
 
 
@@ -38,7 +38,7 @@
 
 03_006 
 03_006 There is a farmland near a residential area.
-03_006 
+03_006 Presence of lot of farmlands near the backyard of the building.
 03_006 Plantations were done in farmlands located near the residential area. 
 
 
@@ -46,7 +46,7 @@
 
 03_007 
 03_007 There is a farmland which is sowed.
-03_007 
+03_007 There are brown coloured farmlands situated in successive manner.
 03_007 There exists some green bushes in between the farmland.
 
 
@@ -54,7 +54,7 @@
 
 03_008 
 03_008 There is a recently irrigated farmland.
-03_008 
+03_008 There are some set of green farmlands cultivated which has some trees grown in its ends.
 03_008 Some green bushes exist alongside the farmland.
 
 
@@ -62,7 +62,7 @@
 
 03_009 
 03_009 There is a irrigated farmland next to a greenish one.
-03_009 
+03_009 There are some set of green farmlands cultivated which has some trees grown in its ends.
 03_009 A greenhouse is located in between the farmland.
 
 
@@ -70,7 +70,7 @@
 
 03_010 
 03_010 There is a green farmland.
-03_010 
+03_010 Some greenish coloured completely cultivated croplands are located.
 03_010 A greenhouse is located in between the farmland.
 
 
@@ -78,7 +78,7 @@
 
 03_011 
 03_011 There is a neatly arranged green farmland.
-03_011 
+03_011 Some greenish coloured completely cultivated croplands are located.
 03_011 There are some bushes alongside the green farm.
 
 
@@ -86,7 +86,7 @@
 
 03_012 
 03_012 There is a irrigated farmland.
-03_012 
+03_012 The farmlands are sprinkled with water for growing and irrigating crops.
 03_012 There is an irrigated farmland alongside the green farmland.
 
 
@@ -94,7 +94,7 @@
 
 03_013 
 03_013 There is a irrigated farmland
-03_013 
+03_013 The farmlands are sprinkled with water for growing and irrigating crops.
 03_013 There is an irrigated farmland alongside the green farmland.
 
 
@@ -102,7 +102,7 @@
 
 03_014 
 03_014 There is a sowed farmland close to a residential area.
-03_014 
+03_014 There are brown coloured farmlands situated in successive manner.
 03_014 Farmlands were located near the residential area.
 
 
@@ -110,7 +110,7 @@
 
 03_015 
 03_015 There is a farmland of which, some are irrigated.
-03_015 
+03_015 The farmlands are sprinkled with water for growing and irrigating crops.
 03_015 There is an irrigated farmland alongside the green farmland.
 
 
@@ -118,21 +118,23 @@
 
 03_016 
 03_016 There is a farmland near a residential area.
-03_016 
+03_016 There is a small dirty pond situated at the end of farmlands.
 03_016 There is a pond of unclean water near a farmland.
 
 
 
 
-03_017 03_017 There is a farmland near a residential area.
-03_017 03_017 There are some small buildings and trees near the farmland.
+03_017 
+03_017 There is a farmland near a residential area.
+03_017 There are some farmlands situated near the area comprising some smaller roads,some brick houses and trees.
+03_017 There are some small buildings and trees near the farmland.
 
 
 
 
 03_018 
 03_018 There is a farmland near a residential area having trees around.
-03_018 
+03_018 There are some farmlands situated inmidst of the trees.
 03_018 There are some trees near the residential houses and farmland.
 
 
@@ -140,7 +142,7 @@
 
 03_019 
 03_019 There is a farmland.
-03_019 
+03_019 It is a completely cultivated cropland situated near the trees region.
 03_019 There are some trees alongside the green farmland.
 
 
@@ -148,7 +150,7 @@
 
 03_020 
 03_020 There is a farmland near a house.
-03_020 
+03_020 It is a completely cultivated cropland present in the backyard of the house.
 03_020 There are some small buildings near the farmland.
 
 
@@ -156,7 +158,7 @@
 
 03_021 
 03_021 There is a green farmland.
-03_021 
+03_021 It is a green cropland.
 03_021 There are some bushes alongside the green farmland.
 
 
@@ -165,7 +167,7 @@
 
 03_022 
 03_022 There is a farmland with a irrigated field nearby.
-03_022 
+03_022 It is a mixup of a green farmland and cropland irrigated with water.
 03_022 There is an irrigated land near a green farmland.
 
 
@@ -173,7 +175,7 @@
 
 03_023 
 03_023 There is a farmland near a road.
-03_023 
+03_023 It is a mixup of a green farmland and cropland irrigated with water.
 03_023 There exist a road nearby the green farmland.
 
 
@@ -181,7 +183,7 @@
 
 03_024 
 03_024 There is a farmland with a road inbetween.
-03_024 
+03_024 There is a highway inmidst of area which contains farmlands in both its sides.
 03_024 Green farmlands exist on either side of the road.
 
 
@@ -189,14 +191,14 @@
 
 03_025 
 03_025 There is a farmland with a road passing nearby.
-03_025 
+03_025 There is a highway nearer to which the farmlands are irrigated.
 03_025 There is a green farmland on one side of the road.
 
 
 
 03_026 
 03_026 There is a green farmland.
-03_026 
+03_026 There are green coloured irrigated croplands.
 03_026 There exist a bush in a green farmland
 
 
@@ -204,7 +206,7 @@
 
 03_027 
 03_027 There is a equally sized ,neatly arranged farmland.
-03_027 
+03_027 There are several patches of croplands which are of similair shape and size.
 03_027 Some trees exist alongside the equally partitioned farmland.
 
 
@@ -220,7 +222,7 @@
 
 03_029 
 03_029 There is a farmland close to residential area.
-03_029 
+03_029 The farmlands are irrigated by water.
 03_029 The farmland exist nearby a building.
 
 
