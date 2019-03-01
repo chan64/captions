@@ -10,289 +10,288 @@
 06_002 
 06_003 There is a link between road and highways
 06_003 Small roads connect to a two-lane highway with trees and buildings scattered around.  
-06_003 
+06_003 Highways are connected to small roads surrounded by buildings and trees.
 06_003 
 06_003 
 06_004 There is a highway with several links
 06_004 A crossroad connecting a two-lane highway is present with trees and buildings nearby.
-06_004
+06_004  Highways are connected to small roads which is surrounded by buildings and trees.
 06_004
 06_004
 06_005 There is a highway near celltower.
 06_005 A highway is present adjacent to a group of farmlands and buildings.
-06_005 
+06_005 Highway roads are located near the residential area.
 06_005 
 06_005 
 06_006 There is a highway near water body
 06_006 A road lined with coconut trees with a water body on one side connects to a two-lane highway. 
-06_006
+06_006 A small road having a water body on its one side connects to highway roads.
 06_006
 06_006 
 06_007 There is a highway near barren land.
-06_007 A wide highway connects to a       road with a barren land and neglected pond on one side. 
-06_007 
+06_007 A wide highway connects to a road with a barren land and neglected pond on one side. 
+06_007 Highways are located near a barren land having some trees..
 06_007 
 06_007 
 06_008 There is a highway with neat roads.
 06_008 There is a two-lane highway with trees on either sides.
-06_008
+06_008 Trees were planted on either side of the highway.
 06_008
 06_008
 06_009 There is a highway with neat roads
 06_009 There is a two-lane highway and mud road connecting it and a farmland on other side.
-06_009
+06_009 Highways are located with trees on one side and farmlands present on the other side.
 06_009
 06_009
 06_010 There is a highway near farm land
 06_010 A truck runs on a highway near farmland and a mud road connecting it.
-06_010
+06_010 Highways are located with trees present on one side and farmlands on the other side.
 06_010
 06_010
 06_011 There is a highway near pond
 06_011 A pond and a farm exists neighbouring a two-lane highway.
-06_011 
+06_011 Highway roads are present near the farmlands and a pond.
 06_011 
 06_011 
 06_012 There is a highway near farm land.
 06_012 A wide road connects to a highway having a farmland on one side.
-06_012
+06_012 Farmlands are present near the highways.
 06_012
 06_012
 06_013 There is a highway near farm land.
 06_013 A small road connects to a highway and a farmland and pond exists on one side.
-06_013
+06_013 Farmlands are located near the highway which connects to a small road.
 06_013
 06_013
 06_014 There is a highway near water body
 06_014 A small road connects to a highway next to a pond.
-06_014
+06_014 A small road having a water body on its one side connects to highway roads.
 06_014
 06_014
 06_015 There is a highway near water body
 06_015 A truck runs on a highway connected to a small road next to a pond.
-06_015
+06_015 Highways are located with a truck running on it near a water body.
 06_015
 06_015
 06_016 There is a highway near barren land
 06_016 A highway is present next to a barren land having a pond.
-06_016
+06_016 Highway roads are located near a barren land containing green bushes and a small pond.
 06_016
 06_016
 06_017 There is a highway near barren land
 06_017 A highway is present next to a barren land having a plain.
-06_017
+06_017 Highway is located near a barren land containing green bushes.
 06_017
 06_017
 06_018 There is a highway near an institution
 06_018 There is a highway road neighbouring a fence of a building.
-06_018
+06_018 Trees and farmlands are present on one side of a highway.
 06_018
 06_018
 06_019 There is a highway near barren land.
 06_019 There is a highway next to a barren land and a building on the other side.
-06_019
+06_019 Highways are located near a barren land.
 06_019
 06_019
 06_020 There is a highway which links several roads.
 06_020 Two roads connects to a wide highway having barren land and plains.
-06_020
+06_020 Small roads connects to the highway having barren lands on its one side.
 06_020
 06_020
 06_021 There is a highway which links several roads
 06_021 A highway road connects to two roads on either side having scattered plants on either sides.
-06_021
+06_021 Small roads connects to the highway surrounded by barren lands having some small trees.
 06_021
 06_021
 06_022 There is a neat highway with smoother roads 
 06_022 A fence borders a highway road with a truck running on it next to a neglected land.
-06_022
+06_022 Small roads connects to the highway having barren lands on its either sides with some small trees.
 06_022
 06_022
 06_023 There is a neat highway with smoother roads
 06_023 A two-lane highway is present next to a neglected land with trees.
-06_023
+06_023 Highway roads are located near barren lands containing trees in it.
 06_023
 06_023
 06_024 There is a neat highway with smoother roads
 06_024 There is a highway with a building and trees on either sides.
-06_024 
+06_024 Trees were planted on either side of a highway.
 06_024 
 06_024 
 06_025 There is a neat highway along the farmlands 
 06_025 A farmland is present on one side of a road and a truck runs on the road.
-06_025
+06_025 Farmlands are present on one side of a highway.
 06_025
 06_025
 06_026 There is a neat highway along the farmlands
 06_026 A farmland is present on one side of a highway road.
-
-
+06_026 There exist a highway having farmlands on its one side.
+06_026
 06_027 There is a neat highway along the farmlands
 06_027 There is a highway and a small road connects to it having farmland on either side.
-
-
+06_027 Farmlands are present on one side of a highway.
+06_027
+06_027
 06_028 There is a smooth highway with water bodies at its ends
 06_028 A small pond and a farmland exists on the either side of a highway.
-
-
+06_028  Farmlands are located 
+06_028 
+06_028 
 06_029 There is a smooth highway with water bodies at its ends
 06_029 A small pond is present on either side of a highway.
-
-
+06_029 
+06_029 
+06_029 
 06_030 There is a smooth highway with water bodies at its ends
 06_030 A group of farmlands is present on one side of a highway road. 
-
-
+06_030
+06_030
+06_030
 06_031 There is a highway at the coast of farmland and water body
 06_031 A two lane highway is connected to a road with farmlands on one side and water channel on the other.
-
-
-
-
+06_031
+06_031
+06_031
 06_032 There is a highway at the coast of farmland and water body
 06_032 A road with a median connects to a highway having farmlands on both sides with a small pond.
-
-
-
-
+06_032
+06_032
+06_032
 06_033 There is a highway at the coast of farmland and water body
 06_033 A water channel and a group of farmlands with a road inbetween is divided by a highway road.
-
-
-
-
+06_033
+06_033
+06_033
 06_034 There is a highway at the coast of farmland and water body
 06_034 A truck runs on a road having a farmland on one side.
-
-
-
-
+06_034
+06_034
+06_034
 06_035 There is a highway at the coast of farmland and water body
 06_035 a truck is visible on a highway having a farmland on one side.
-
-
-
-
+06_035
+06_035
+06_035
 06_036 There is a highway at the coast of farmland and water body
 06_036 Small roads connect to a highway having a median lined with plants.
-
-
-
+06_036
+06_036
+06_036
 06_037 There is a highway with green grass at its both ends
 06_037 The view is about small roads connecting a highway and small ponds and buildings nearby.
-
-
-
+06_037
+06_037
+06_037
 06_038 There is a highway with green grass at its both ends
 06_038 Patches of green grass and trees are visible along with a green pond on either sides of a highway.
-
-
-
+06_038
+06_038
+06_038
 06_039 There is a highway along vacant lands
 06_039 Green patches of land are visible along with roads connecting to a wide highway
-
-
-
+06_039
+06_039
+06_039
 06_040 There is a neat highway with smoother roads
 06_040 There are buildings, trees and farmlands neighbouring a highway.
-
-
+06_040
+06_040
+06_040
 06_041 There is a neat highway nearer to houses
 06_041 A wide highway with a median is surrounded by trees, roads, farmlands and buildings.
-
-
-
+06_041
+06_041
+06_041
 06_042 There is a neat highway nearer to residential buildings
 06_042 A bus runs on a highway road having buildings and farmlands nearby.
-
-
-
-
+06_042
+06_042
+06_042
 06_043 There is a neat highway nearer to residential buildings
 06_043 A bunch of trees sheltering buildings is present near a highway.
-
-
-
+06_043
+06_043
+06_043
 06_044 There is a neat highway nearer to residential buildings
 06_044 A section with buildings and trees is close to a wide highway.
-
-
-
+06_044
+06_044
+06_044
 06_045 There is a highway situated between the forests
 06_045 A highway road with a median lined with trees connecting to a small road is present in a dense forest region.
-
-
-
-
+06_045
+06_045
+06_045
 06_046 There is a highway surrounded by houses , greenery and vacant lands
 06_046 A two lane highway with a median lined with trees divides a residential area having a playground and trees.
-
-
-
-
+06_046
+06_046
+06_046
 06_047 There is a highway surrounded by houses, and greenery
 06_048 A two lane highway connects to a road having dense tree cover on top of buildings.
-
-
-
-
+06_047
+06_047
+06_047
 06_048 There is a highway which joins other roads at one end
 06_048 A two lane highway and small road from a junction connects to a circular junction surrounded by thick tree cover.
-
-
-
-
+06_048
+06_048
+06_048
 06_049 There is a highway surrounded by houses and greenery 
 06_049 A two lane highway lined with trees connects to a small road.
-
-
-
-
+06_049
+06_049
+06_049
 06_050 There is a highway located near an institution
 06_050 A two lane highway connects to a small road and a wide road neighbouring a building.
-
-
-
-
+06_050
+06_050
+06_050
 06_051 There is a highway between the forest
 06_051 A two lane highway lined with trees connects to a road surrounded by thick tree cover.
-
-
-
+06_051
+06_051
+06_051
 06_052 There is a highway with several links to small roads
 06_052 A highway connects to junctions with trees and buildings around.
-
-
+06_052
+06_052
+06_052
 06_053 Aerial view of highways covered with trees and some vacant lands
 06_053 A number of junctions are connected by roads surrounded by dense forest area.
-
-
+06_053
+06_053
+06_053
 06_054 Some green areas are captured which has highways and some smaller roads
 06_054 A two lane highway lined with trees has trees, playground and buildings on either side.
-
-
-
+06_054
+06_054
+06_054
 06_055 The area is covered fully with trees and roads
 06_055 A two lane highway connects to a road having trees in a patched land.
-
-
-
+06_055
+06_055
+06_055
 06_056 Drone view of highways covered with large trees
 06_056 A two lane highway connects to a road surrounded by buildings having a garden and trees.
-
-
+06_056
+06_056
+06_056
 06_057 There exist highways in the midst of dense forests
 06_057 There is a thick tree cover surrounding a highway connecting to a road.
-
-
+06_057 
+06_057 
+06_057 
 06_058 Large number of trees are grown at one end of the highways
 06_058 A highway connects to a road surrounded by trees and empty land.
-
-
+06_058
+06_058
+06_058
 06_059 Highways are laid in midst of the forests
 06_059 A three way junction is present in middle of a dense forest area.
-
-
+06_059 
+06_059 
+06_059 
 06_060 Aerial view of smaller road joining the highways surrounded by trees.
 06_060 A highway connects to road junction.
 
