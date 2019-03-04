@@ -50,7 +50,7 @@
 12_010
 12_011 There are some buidings and bushes near the canal.
 12_011 There are some roads,vacant grounds and smaller trees near the coast.
-12_011  
+12_011 There is white sand with   
 12_011
 12_011
 12_012 There is a canal near the playground.
