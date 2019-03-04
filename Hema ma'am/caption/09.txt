@@ -1,749 +1,749 @@
+09101
+09101
+09101
+09101 Residential area with roads and trees
 09101 a residential area with curved road and a high tower
-09101
-09101
-09101
-09101
+09102
+09102
+09102
+09102 Two way road surrounded with plants and trees
 09102 an ariel view two way road with plants in the divider
-09102
-09102
-09102
-09102
+09103
+09103
+09103
+09103 Residential area and its road structure
 09103 a residential area with many roads interconnecting each building
-09103
-09103
-09103
-09103
+09104
+09104
+09104
+09104 Top view of road connecting the residential area
 09104 a road connecting the residential area with round anna in the middle
-09104
-09104
-09104
-09104
+09105
+09105
+09105
+09105 Top view of residential area surrounded with trees
 09105 a top view of the residential area with bigger trees
-09105
-09105
-09105
-09105
+09106
+09106
+09106
+09106 Roads connecting yhe buildings of a residential area
 09106 a residential area with small roads connecting the buildings
-09106
-09106
-09106
-09106
+09107
+09107
+09107
+09107 Residential area with small houses and trees
 09107 small roads connecting through the residential area
-09107
-09107
-09107
-09107
+09108
+09108
+09108
+09108 Roads connecting different streets in an area
 09108 a wide road interconnects the two residential areas
-09108
-09108
-09108
-09108
+09109
+09109
+09109
+09109 Residential area with trees and houses
 09109 a residential area with many small houses and trees
-09109
-09109
-09109
-09109
+09110
+09110
+09110
+09110 a junction connecting the houses
 09110 a junction of four roads connecting houses in a residential area	
-09110
-09110
-09110
-09110
+09111
+09111
+09111
+09111 Three Wider roads connecting houses in the area
 09111 three parallel roads to connect the houses in residential area	
-09111
-09111
-09111
-09111
+09112
+09112
+09112
+09112 A road with buildings and trees in one side and barren land on other side
 09112 a road with an institution on side and barren land on other side
-09112
-09112
-09112
-09112
+09113
+09113
+09113
+09113 A road with trees and plants on both the sides
 09113 a wide road with vegations on both sides of the road
-09113
-09113
-09113
-09113
+09114
+09114
+09114
+09114 A residential area surrounded with big trees
 09114 a small road laid in between trees and buldings
-09114
-09114
-09114
-09114
+09115
+09115
+09115
+09115 Roads connecting the residential area and playground
 09115 a curved road conncting an institution and playgrounds
-09115
-09115
-09115
-09115
+09116
+09116
+09116
+09116 Roads connecting the houses of a residential area with big trees
 09116 a top view of a road connecting residential areas	
-09116
-09116
-09116
-09116
+09117
+09117
+09117
+09117 A highway connecting a residential area
 09117 a top view of a curved road connecting the play area
-09117
-09117
-09117
-09117
+09118
+09118
+09118
+09118 A highway connecting a residential area
 09118 a bulding of an institution adjacent to a highway
-09118
-09118
-09118
-09118
+09119
+09119
+09119
+09119 Roads connecting the houses of a residential area with big trees
 09119 a densely populated residential area with many roads
-09119
-09119
-09119
-09119
+09120
+09120
+09120
+09120 Curved roads connecting the playground and a residential area
 09120 a curved road seperating residential areas from the gardens
-09120
-09120
-09120
-09120
+09121
+09121
+09121
+09121 a junction connecting to the main road
 09121 a junction of four roads connected to a main road
-09121
-09121
-09121
-09121
+09122
+09122
+09122
+09122 A red color building next to a highway
 09122 a red color building of an institution adjacent to a highwauy
-09122
-09122
-09122
-09122
+09123
+09123
+09123
+09123 A road with vegitation on one side and barren land on the other side
 09123 a residential area covered by densely planted trees
-09123
-09123
-09123
-09123
+09124
+09124
+09124
+09124 Two junctions connecting the houses in a residential area
 09124 a neat layout of residential area with roads connecting the buildings
-09124
-09124
-09124
-09124
+09125
+09125
+09125
+09125 Top view of a road connecting two areas
 09125 a top view of a community with playgrounds and houses	
-09125
-09125
-09125
-09125
+09126
+09126
+09126 A main road connecting different areas
 09126 a main road branching to many sub roads
-09126
-09126
-09126
+09127
+09127
+09127
+09127 top view of a road connecting many other roads in a residential area
 09127 a view of road in a residential area branching to many side roads
-09127
-09127
-09127
-09127
+09128
+09128
+09128
+09128 top view of big trees in a residential area
 09128 a layout showing dense trees planted in a residential area
-09128
-09128
-09128
-09128
+09129
+09129
+09129
+09129 A road with dense trees and houses on one side and a barren land on other side
 09129 a road dividing the residential area and a playground
-09129
-09129
-09129
-09129
+09130
+09130
+09130
+09130 A junction of two way roads with round anna in the middle
 09130 a junction of four two way roads with round anna in the middle
-09130
-09130
-09130
-09130
+09131
+09131
+09131
+09131 A junction connecting a residential area and a main road
 09131 a top view of a network of roads in a residential area
-09131
-09131
-09131
-09131
+09132
+09132
+09132
+09132 Top view of a road seperating trees and a lake
 09132 a view of road separating trees and a canal
-09132
-09132
-09132
-09132
+09133
+09133
+09133
+09133 Round anna connecting three roads with a tower surrounded by trees on other side
 09133 a junction of three road with a round anna in the middle and a high tower on one side
-09133
-09133
-09133
-09133
+09134
+09134
+09134
+09134 A junction connecting a residential area and a main road
 09134 a view of a side road branching out of a main road
-09134
-09134
-09134
-09134
+09135
+09135
+09135
+09135 A curved road with densed trees on one side and a barren land on the other side
 09135 a view of a curved road and a garden on one side of the road
-09135
-09135
-09135
-09135
+09136
+09136
+09136
+09136 A round anna counnecting three roads with a bus terminus
 09136 a junction of roads with a bus terminus
-09136
-09136
-09136
-09136
+09137
+09137
+09137
+09137 A road with bridges connecting two sides of a canal
 09137 a road with bridges connecting the two sides of a canal
-09137
-09137
-09137
-09137
+09138
+09138
+09138
+09138 Roads connecting residential areas to the main road
 09138 a road connecting the residential area
-09138
-09138
-09138
-09138
+09139
+09139
+09139
+09139 A land with well and a canal
 09139 a cultivational area with well and canal
-09139
-09139
-09139
-09139
+09140
+09140
+09140
+09140 A round anna connecting three roads with residential areas on two sides and a barren land on other side
 09140 a junction of three roads with round anna in the middle
-09140
-09140
-09140
-09140
+09141
+09141
+09141
+09141 Roads connectin the houses of a residential area
 09141 a network of road interconnecting the residential area
-09141
-09141
-09141
-09141
+09142
+09142
+09142
+09142 Two residential areas with dense trees seperated by a road
 09142 a small village road connecting the houses
-09142
-09142
-09142
-09142
+09143
+09143
+09143
+09143 A cultivation land near a highway
 09143 a row of paddy fields adjacent to a highway
-09143
-09143
-09143
-09143
+09144
+09144
+09144
+09144 a curved road with a barren land on one side and a towe surrounded with big trees on the other side
 09144 a curved road with high tower on side of the road
-09144
-09144
-09144
-09144
+09145
+09145
+09145
+09145 Roads of a residential area connecting to a main road
 09145 a narrow road connecting the residential area with dense trees
-09145
-09145
-09145
-09145
+09146
+09146
+09146
+09146 A junction connecting the roads of a residential area
 09146 two parllel roads connecting the playground, institution and residential area
-09146
-09146
-09146
-09146
+09147
+09147
+09147
+09147 A junction connecting the roads of a residential area with big trees
 09147 a residential area covered by dense trees
-09147
-09147
-09147
-09147
+09148
+09148
+09148
+09148 A dense residential area interconnex=cted with roads
 09148 a dense residential area interconnected with roads
-09148
-09148
-09148
-09148
+09149
+09149
+09149
+09149 A road between cultivation lands
 09149 a two way road between agricultural fields
-09149
-09149
-09149
-09149
+09150
+09150
+09150
+09150 A connection of three roads with buildings trees and barren lands on each sides
 09150 a junction of three roads with a building in the corner of the junction
-09150
-09150
-09150
-09150
+09151
+09151
+09151
+09151 A road connecting a highway
 09151 a side road branching out of a highway
-09151
-09151
-09151
-09151
+09152
+09152
+09152
+09152 Junctions connecting buildings of a residential area with dense trees
 09152 an interconnection roads covered by many trees
-09152
-09152
-09152
-09152
+09153
+09153
+09153
+09153 A curved road with trees and buildings on one side and a bus terminus on other side
 09153 a curved road on one side of a bus terminus
-09153
-09153
-09153
-09153
+09154
+09154
+09154
+09154 A road connecting the main road with buildings on one side
 09154 a junction of three roads with industrial area on one side
-09154
-09154
-09154
-09154
+09155
+09155
+09155
+09155 A round anna connecting three roads and a bus terminus to a residential area
 09155 a network of roads connecting a bus terminus and residential area 
-09155
-09155
-09155
-09155
+09156
+09156
+09156
+09156 A residential area surrounded with big trees
 09156 a road separating some dense trees of the residential area
-09156
-09156
-09156
-09156
+09157
+09157
+09157
+09157 Roads connecting the residential area to the main road
 09157 a long narrow road separting the residential area
-09157
-09157
-09157
-09157
+09158
+09158
+09158
+09158 A junction of four roads connecting the residential area
 09158 a small network of roads in a residential area
-09158
-09158
-09158
-09158
+09159
+09159
+09159
+09159 A two way road connecting three parallel roads leading to residential area
 09159 a two way road is connected to three parallel roads
-09159
-09159
-09159
-09159
+09160
+09160
+09160
+09160 A road connecting the residential area to the main road
 09160 a network of road forming a triangular area between the roads
-09160
-09160
-09160
-09160
+09161
+09161
+09161
+09161 A road seperating the agricultural fields
 09161 a two way road with agricultural area on one side of the road
-09161
-09161
-09161
-09161
+09162
+09162
+09162
+09162 A junction of four roads connecting the residential area
 09162 a junction of four roads in a residential area
-09162
-09162
-09162
-09162
+09163
+09163
+09163
+09163 Three parallel roads seperating the houses
 09163 a three parallel roads connecting the houses
-09163
-09163
-09163
-09163
+09164
+09164
+09164
+09164 A road seperating the barren land and the trees
 09164 a village road with barren lands and trees on either side
-09164 
-09164
-09164
-09164
+09165
+09165
+09165
+09165 A network of roads connecting the residential area
 09165 a network of small roads connecting the residential area
-09165
-09165
-09165
-09165
+09166
+09166
+09166
+09166 Road structure of a residential area
 09166 a fork of road in a residential area
-09166
-09166
-09166
-09166
+09167
+09167
+09167
+09167 A junction of four roads connecting the residential area to the main road
 09167 a two way of parallel roads branching into a residential area
-09167
-09167
-09167
-09167
+09168
+09168
+09168
+09168 A residential area with trees and houses
 09168 a residential area with houses and roads
-09168
-09168
-09168
-09168
+09169
+09169
+09169
+09169 Roads connecting the residential area with high population
 09169 a densely populated residential area with many houses
-09169
-09169
-09169
-09169
+09170
+09170
+09170
+09170 A junction connecting different streets
 09170 a road connecting playground and the houses
-09170
-09170
-09170
-09170
+09171
+09171
+09171
+09171 A wide road across vegetations
 09171 a network of roads branching out of a main road
-09171
-09171
-09171
-09171
+09172
+09172
+09172
+09172 A network of roads in a residential area connecting to the main road
 09172 a narrow road separting dense trees of a residential area
-09172
-09172
-09172
-09172
+09173
+09173
+09173
+09173 A road acroos barren land and buildings
 09173 a road with barren land and buildings on either side
-09173
-09173
-09173
-09173
+09174
+09174
+09174
+09174 Junction of roads connecting the residential area to the main road
 09174 two four road junctions in a dense residential area
-09174
-09174
-09174
-09174
+09175
+09175
+09175
+09175 A road with brushs on one side and barren land on other side
 09175 a road separating barren land and buildings
-09175
-09175
-09175
-09175
+09176
+09176
+09176
+09176 A residential area with a network of roads
 09176 a dense residential area with a network of roads
-09176
-09176
-09176
-09176
+09177
+09177
+09177
+09177 Junctions connecting the residential area to the main road
 09177 a playground surrounded by roads on all the sides
-09177
-09177
-09177
-09177
+09178
+09178
+09178
+09178 Two round anna surroundend with dense trees
 09178 a garden area with round anna in the corners
-09178
-09178
-09178
-09178
+09179
+09179
+09179
+09179 A road across two residential areas
 09179 a narrow road in a residential area
-09179
-09179
-09179
-09179
+09180
+09180
+09180
+09180 A network of roads connecting to the main road
 09180 three mud roads branching of a main road
-09180
-09180
-09180
-09180
+09181
+09181
+09181
+09181 A two way road across a residential area with barren land and trees on either sides
 09181 a large building on a side of two parallel roads
-09181
-09181
-09181
-09181
+09182
+09182
+09182
+09182 Trees and roads of a residential area
 09182 a residential area with trees and roads
-09182
-09182
-09182
-09182
+09183
+09183
+09183
+09183 A round anna connecting three roads with trees buildings and barren land and either side
 09183 a junction of three roads with round anna
-09183
-09183
-09183
-09183
+09184
+09184
+09184
+09184 A round anna connecting the residential area to the main road
 09184 a junction of three roads on a side road
-09184
-09184
-09184
-09184
+09185
+09185
+09185
+09185 A residential area with big trees
 09185 a network of roads in a area with densely planted trees
-09185
-09185
-09185
-09185
+09186
+09186
+09186
+09186 Two roads seperating buildings and agricultural fields
 09186 two parallel roads with buildings on one side and agricultural fields on other side
-09186
-09186
-09186
-09186
+09187
+09187
+09187
+09187 Two parallel roads with round anna in the middle surrounded by garden
 09187 two parallel roads with a divider in the middle and garden on one side
-09187
-09187
-09187
-09187
+09188
+09188
+09188
+09188 A round anna connecting three roads with a tower surrounded by trees on one side
 09188 a juntion of three roads with round anna in the middle
-09188
-09188
-09188
-09188
+09189
+09189
+09189
+09189 A layout of buildings and roads of a residential area
 09189 a neat layout of buildings and houses in a residential area
-09189
-09189
-09189
-09189
+09190
+09190
+09190
+09190 A round anna connecting three two way roads with a bus terminus at one end
 09190 a big round anna in a city with bus terminus
-09190
-09190
-09190
-09190
+09191
+09191
+09191
+09191 Two roads seperating the agricultural fields
 09191 two parallel roads with neat agricultural roads on one side
-09191
-09191
-09191
-09191
+09192
+09192
+09192
+09192 A junction of three roads connecting to the main road
 09192 a junction of three roads
-09192
-09192
-09192
-09192
+09193
+09193
+09193
+09193 A main road across a residential area
 09193 a residential area with neat rows of houses and roads
-09193 
-09193
-09193
-09193
+09194
+09194
+09194
+09194 A curved roads with trees building and barrebn land on either sides
 09194 a junction of roads and a high tower on one side
-09194
-09194
-09194
-09194
+09195
+09195
+09195
+09195 A main road with plats on both sides
 09195 a long neat village road with plants on both side of the road
-09195
-09195
-09195
-09195
+09196
+09196
+09196
+09196 A main road with trees on both sides
 09196 a long road with many trees in a residential area
-09196
-09196
-09196
-09196
+09197
+09197
+09197
+09197 A junction of three roads connecting the buildings of a residential area
 09197 a interconnection of many roads
-09197
-09197
-09197
-09197
+09198
+09198
+09198
+09198 A curved road with bus terminus on one side and trees and buildings on other side
 09198 a side road branching out of main road
-09198
-09198
-09198
-09198
+09199
+09199
+09199
+09199 A network of roads of a residential area connecting to the main road
 09199 a highly populated residential area with many houses
-09199
-09199
-09199
-09199
+09200
+09200
+09200
+09200 A curved road covering buildings and trees
 09200 a road connecting two juctions of roads
-09200
-09200
-09200
-09200
+09201
+09201
+09201
+09201 A road seperating a barren land and agricultural fields
 09201 two parallel roads with agricultural land on one side
-09201
-09201
-09201
-09201
+09202
+09202
+09202
+09202 Junction of roads connecting the roads of a residential area
 09202 a residential area with a network of roads
-09202
-09202
-09202
-09202
+09203
+09203
+09203
+09203 A large residential area with big trees and roads
 09203 a large residential area with many trees and roads
-09203
-09203
-09203
-09203
+09204
+09204
+09204
+09204 Three parallel roads connecting the building of a residential area
 09204 a three parallel road joing to single two way road
-09204
-09204
-09204
-09204
+09205
+09205
+09205
+09205 A junction of three roads With buildings trees and barren land on either sides
 09205 a main road branching into a side road
-09205
-09205
-09205
-09205
+09206
+09206
+09206
+09206 A junction of three roads in a residenttial area
 09206 a juction of three roads in a residential area
-09206
-09206
-09206
-09206
+09207
+09207
+09207
+09207 Roads of a residential area connecting to the main road
 09207 a network of roads in a residential area
-09207
-09207
-09207
-09207
+09208
+09208
+09208
+09208 A wider road surrounded with small trees and plants
 09208 a village road with marsh lands on both sides
-09208
-09208
-09208
-09208
+09209
+09209
+09209
+09209 Interconnection of two junction of roads
 09209 an interconnection of two juction of roads
-09209
-09209
-09209
-09209
+09210
+09210
+09210
+09210 A two way road connecting to three parallel roads
 09210 a network of roads in a barren land area
-09210
-09210
-09210
-09210
+09211
+09211
+09211
+09211 A two way road with plants in the divier
 09211 a network of high roads in a city
-09211
-09211
-09211
-09211
+09212
+09212
+09212
+09212 A junction of four roads connecting to the residential area
 09212 a residential area with many houses
-09212
-09212
-09212
-09212
+09213
+09213
+09213
+09213 A view of residential area in the community
 09213 a view of residential area in a community
-09213
-09213
-09213
-09213
+09214
+09214
+09214
+09214 A road with houses on both the sides
 09214 a small road separting houses in a community
-09214
-09214
-09214
-09214
+09215
+09215
+09215
+09215 A junction of roads connecting the residential area
 09215 an institution with playground surrounded by roads
-09215
-09215
-09215
-09215
+09216
+09216
+09216
+09216 A road connecting an institution to the main road
 09216 a road connecting an institution to a main road
-09216
-09216
-09216
-09216
+09217
+09217
+09217
+09217 A junction of three roads with buildings and trees on its side
 09217 a network of roads in a village area
-09217
-09217
-09217
-09217
+09218
+09218
+09218
+09218 A road of residential area connecting to the main road
 09218 a main road branching to lanes in a residential area
-09218
-09218
-09218
-09218
+09219
+09219
+09219
+09219 Network of roads connecting to the main road
 09219 a network of lanes in a residential area
-09219
-09219
-09219
-09219
+09220
+09220
+09220
+09220 A large residential area with houses and trees
 09220 a overview of city with houses and roads
-09220
-09220
-09220
-09220
+09221
+09221
+09221
+09221 A junction of three roads with bannen land on one side and trres and buildings on the other side
 09221 an industrial area with road on one side
-09221
-09221
-09221
-09221
+09222
+09222
+09222
+09222 A crossing a residential area
 09222 a road running in a village area
-09222
-09222
-09222
-09222
+09223
+09223
+09223
+09223 A junction of four roads in a residential area
 09223 a neatly arranged lanes connected to roads
-09223
-09223
-09223
-09223
+09224
+09224
+09224
+09224 Network of roads in a residential area
 09224 a neatky planned layout of residential area
-09224
-09224
-09224
-09224
+09225
+09225
+09225
+09225 A road seperating buildings and plants
 09225 a road in a village with few houses
-09225
-09225
-09225
-09225
+09226
+09226
+09226
+09226 A road with play area on one side and trees on other side
 09226 a narrow road with play area on side of the road
-09226
-09226
-09226
-09226
+09227
+09227
+09227
+09227 A junction of roads with junction and mud paths
 09227 a junction of roads and straight mud paths
-09227
-09227
-09227
-09227
+09228
+09228
+09228
+09228 A curved road with a playground on one side and buildings and trees on the other side
 09228 a junction of roads connecting a residential area
-09228
-09228
-09228
-09228
+09229
+09229
+09229
+09229 A residential area with trees on one side and barren land on other side
 09229 a well planned layout of a community with houses
-09229
-09229
-09229
-09229
+09230
+09230
+09230
+09230 Junction of roads connecting to the main road
 09230 small lanes branching out of a main road in a residential area
-09230
-09230
-09230
-09230
+09231
+09231
+09231
+09231 A road seperating trees and barren land
 09231 a narrow clean village road with few houses
-09231
-09231
-09231
-09231
+09232
+09232
+09232
+09232 A network of roads connecting to the main road
 09232 a main road with bridge for crossing a small canal
-09232
-09232
-09232
-09232
+09233
+09233
+09233
+09233 A junction of three roads with a tower surrounded by trees on one side
 09233 a road network with high tower on the side
-09233
-09233
-09233
-09233
+09234
+09234
+09234
+09234 A two way road connecting three parallel roads of a residential area
 09234 a network of roads and solar panels on the side
-09234
-09234
-09234
-09234
+09235
+09235
+09235
+09235 A narroww road across a village area
 09235 a road separating many houses in a community
-09235
-09235
-09235
-09235
+09236
+09236
+09236
+09236 a road with trees on one side and a canal on the other side
 09236 a road with canal on one side and agricultural area
-09236
-09236
-09236
-09236
+09237
+09237
+09237
+09237 A junction of a residential area connecting to the main road
 09237 a junction of four lanes in a community
-09237
-09237
-09237
-09237
+09238
+09238
+09238
+09238 Top view of a main road across a residential area
 09238 a dense group of trees in a residential area
-09238
-09238
-09238
-09238
+09239
+09239
+09239
+09239 Network of roads in a residential area
 09239 many houses in a residential area connected with small lanes
-09239
-09239
-09239
-09239
+09240
+09240
+09240
+09240 A network of neatly planned roads
 09240 a network of neatly planned roads
-09240
-09240
-09240
-09240
+09241
+09241
+09241
+09241 Two roads connecting to the main road
 09241 two roads branching out of a main road
-09241
-09241
-09241
-09241
+09242
+09242
+09242
+09242 Junction of roads in a area
 09242 two junction of roads in a residential area
-09242
-09242
-09242
-09242
+09243
+09243
+09243
+09243 A long two way road with plants in the divider
 09243 an overview of a large residential area connected with roads
-09243
-09243
-09243
-09243
+09244
+09244
+09244
+09244 A road seperating trees and a barren land
 09244 two houses on a barren land with a road connecting the houses
-09244
-09244
-09244
-09244
+09245
+09245
+09245
+09245 A large residential area with dense trees
 09245 a residential area with many houses and lanes
-09245
-09245
-09245
-09245
+09246
+09246
+09246
+09246 A road with playground on one side and buildings on other side
 09246 a curved road with many junctions in the roads
-09246
-09246
-09246
-09246
+09247
+09247
+09247
+09247 A road seperating trees and a canal
 09247 a large tree on a side of the road with canal in parallel to the road
-09247
-09247
-09247
-09247
+09248
+09248
+09248
+09248 A large residential area with big trees
 09248 a large layout of the residential area
-09248
-09248
-09248
-09248
+09249
+09249
+09249
+09249 A long road crossing a residential area
 09249 a dense group of trees on a residential area
-09249
-09249
-09249
-09249
+09250
+09250
+09250
+09250 Two roads seperating residential area and agricultural fields
 09250 two parallel roads separating houses and agricultural lands
-09250
-09250
-09250
-09250
