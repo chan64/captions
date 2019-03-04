@@ -1,33 +1,38 @@
 11_001 There is a neatly arranged solar panels next to a garden of which some panels are detached.
 11_001  Solar farm exist next to a garden.
-
-
+11_001 
+11_001 
+11_001 
 11_002 There is a solar panel field where some panels are dismounted.
 11_002 There exist a solar farm in which most of the panels were detached.
-
-
-
+11_002 
+11_002 
+11_002 
 11_003 There is a solar panel field neighbouring a neatly cropped grass field.
 11_003 Solar panels were neatly arranged near a garden.
-
-
+11_003
+11_003
+11_003
 11_004 There is a solar panel field in the middle of which is a shed. 
 11_004 A shed exist in the midst of the solar farm.
-
-
+11_004 
+11_004 
+11_004 
 11_005 There is shed and a stream running between uniformly arranged solar panels.
 11_005 A shed and a deprecated canal exist inbetween the solar farm.
-
-
+11_005 
+11_005 
+11_005 
 11_006 There is a solar panel field and a stream with grass running inbetween.
 11_006 A shed and a deprecated canal exist inbetween the solar farm.
-
-
-
+11_006
+11_006
+11_006
 11_007 There is a solar panel field with some green patches of land.
 11_007 Some green patches of land exist inbetween the neatly arranged solar panels.
-
-
+11_007
+11_007
+11_007
 11_008 There is a water stream running along the border of a partially mounted solar panel field. 
 11_008 A canal is located near a solar farm in which some of the panels were dismounted.
 
