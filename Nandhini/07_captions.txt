@@ -1,211 +1,250 @@
 07_001 The playground is covered by trees,plants and buildings.
 07_001 There are some trees,bushes and buildings in the right side of the playground.
-07_001 A playground is present close to a residential area with small roads, buildings and trees.               
-       
+07_001 A playground is present close to a residential area with small roads, buildings and trees.             07_001  
+07_001
 07_002 There are some buildings at the ends of playground.
 07_002 There are some trees,bushes and buildings in the right side of the playground.
 07_002 There are a couple of buildings adjacent to a playground bordered with trees.
-
+07_002
+07_002
 07_003 A small road is present on the side of the playground.
 07_003 There is a playground which contains barren land to its left and some buildings at its top.
 07_003 A turning road separates a number of buildings and a playground bordered with trees.
-
+07_003
+07_003
 07_004 Some greeneries are grown near the playground.
 07_004 There is a playground which is located near some buildings and more green trees.
 07_004 A dense tree cover and a pond lies surrounding buildings present next to a playground.
-
+07_004
+07_004
 07_005 There is a barren land in the side of playground.
 07_005 There is a barren land near the playground.
 07_005 A part of a playground having grass is visible. 
-
+07_005
+07_005
 07_006 The playground is covered with green grass.
 07_006 There is a barren land near the playground.
 07_006 A part of the playground is visible along with grass. 
-
+07_006
+07_006
 07_007 There are some plants grown alongside the playground.
 07_007 There is a barren land and some bushes near the playground.
 07_007 A playground with grass is bordered by trees and a river bank.
-
+07_007
+07_007
 07_008 The path of river along the roads which is present near the playground.
 07_008 There is a river running nearby the playground.
 07_008 The view consists of a part of a playground present close to a river channel.
-
+07_008
+07_008
 07_009 It is a playground with grasses and trees grown.
 07_009 There is a playground with some trees and bushes.
 07_009 A part of the athletic track is seen along with grass ground and trees. 
-
+07_009
+07_009
 07_010 The border of playground which comprises of trees and grass.
 07_010 There is a playground near the barren land.
 07_010 A part of the track is visible along with grass land.
-
+07_010
+07_010
 07_011 It is a playground.
 07_011 There is a playground near the barren land containing a single tree.
 07_011 The athletic track is partially visible along with the neighbouring grass ground.
-
+07_011
+07_011
 07_012 It is a playground with some green grass grown at its one end.
 07_012 There is a playground near a farm land.
 07_012 A small farmland with vegetation is seen near a grass ground.
-
+07_012
+07_012
 07_013 Basketball courts are installed nearer to road which is located in the coast of river.
 07_013 The two basketball courts were located near some trees and a river is running beside it.
 07_013 Basketball courts is found touching a small road present beside a river.
-
+07_013
+07_013
 07_014 Basketball courts are present near the area which is covered with trees.
 07_014 There are some green trees near the two basketball courts.
 07_014 A farmland and a basketball court is divided by a dense tree cover present close to a road.
-
+07_014
+07_014
 07_015 There is an athletic track and a river is running beside it.
 07_015 The ends of playground are covered with trees and a small road is present.
 07_015 A playground is partially visible close to a river bank neighbouring a small road.
-
+07_015
+07_015
 07_016 There is an athletic track.
 07_016 It is a sand track constructed  for running.
 07_016 The view consists of a running track with patches of grass in the middle.
- 
+07_016
+07_016
 07_017 There is an athletic track.
 07_017 There is a sand track suitable for running.
 07_017 A running track made of sand is close to a grass land.
-
+07_017
+07_017
 07_018 There is an athletic track.
 07_018 Shades of an athletic track.
 07_018 The running track is partly visible along with patches of green grass around.
-
+07_018
+07_018
 07_019 There is a building and a farm land near an athletic track.
 07_019 A building is spotted at the end of playground.
 07_019 A building along with a small farm is visible close to the playground with patches of grass.
 07_019
 07_019
-
-
 07_020 Building and farmland is present near the running track.
 07_020 A large building with a farmland nearby is present next to the playground.
 07_020
 07_020
 07_020 There is a building and a farm land near an athletic track.
-
 07_021 The white building is present near the playground.
 07_021 The athletic track is located near a building.
 07_021 The running track is surrounded by green grass and a large building.
 07_021
 07_021
-
 07_022 It is a sand track suitable for running and other athletic purposes
 07_022 There is a playground.
 07_022 The track prepared for running is visible along with the grass around and a line of trees adjacent to it.
 07_022
 07_022
-
 07_023 There is a playground.
 07_023 There is a playground with some trees on its right side.
 07_023 A part of the running track along with grass on the playground is visible along with trees nearby.
-
+07_023
+07_023
 07_024 Some trees and patches are present by side of the playground.
 07_024 There is a playground with some trees on its right side.
 07_024 The runnning track of the playground is neatly visible along with trees nearby.
-
+07_024
+07_024
 07_025 A small road passes nearer to playground.
 07_025 There is a playground with some trees.
 07_025 A road lined with trees borders the playground.
-
+07_025
+07_025
 07_026 Two roads are separated by basketball courts which is bordered by trees.
 07_026 The two basketball courts were located in between two roads.
 07_026 A playground, farmland and basketball courts are visible between two roads lined with trees.
-
+07_026
+07_026
 07_027 Several trees are grown near to the basketball courts.
 07_027 The two basketball courts were located in between some trees and a farm land.
 07_027 A farmland and a dense tree cover is present close to basketball courts with roads running inbetween.
-
+07_027
 07_028 There are basketball courts surrounded by  several trees.
 07_028 The two basketball courts were located in between some trees and a farm land.
 07_028 A group of closely spaced trees crosses between a playground, basketball court and a farmland beside.
-
+07_028
+07_028
 07_029 The playground is present in the midst of several trees.
 07_029 There is a playground surrounded by green trees.
 07_029 A playground is surrounded by thick tree cover, roads and buildings.
-
+07_029
+07_029
 07_030 There is a playground surrounded by green trees.
 07_030 A small road passes near by the playground which is covered fully with trees.
 07_030 A road junction is visible close to a playground surrounded by buildings and dense tree cover.
-
+07_030
+07_030
 07_031 There is a playground near a building.
 07_031 There is a white building at the end of playground.
 07_031 A large building is identified near a partially visible playground.
-
+07_031
+07_031
 07_032 There are some buildings near the playground.
 07_032 Some residents and buildings are present near to the playground.
 07_032 A couple of buidlings border a partially visible playground.
-
+07_032
+07_032
 07_033 There is a triangle shaped building near the playground.
 07_033 Playground is present nearer to the buildings.
 07_033 A small pond and a couple of buildings is found close to the playground.
-
+07_033
+07_033
 07_034 Some small buildings are spotted near to the playground.
 07_034 There are some buildings and water bodies near the playground.
 07_034 A small road runs between a line of buildings and a playground.
-
+07_034
+07_034
 07_035 A white building is present near the playground.
 07_035 The playground is located near a building.
 07_035 A large white square shaped building is found near the partially visible playground.
-
+07_035
+07_035
 07_036 There are  smaller roads near to the basketball court.
 07_036 There is a basketball court in between two roads.
 07_036 A basketball court is located close to roads intersecting at a point.
-
+07_036
+07_036
 07_037 The road passes nearer to the basketball court which is covered with some trees.
 07_037 There are two basketball courts in between two roads.
 07_037 There are two basketball courts, one in white and orange colour and other in cement and blue colour.
-
+07_037
+07_037
 07_038 The road passes nearer to the basketball court which is covered with some trees.
 07_038 There are two basketball courts in between two roads.
 07_038 One of the basketball courts touches a small road and other touches a group of trees.
-
+07_038
+07_038
 07_039 The basketball court is surrounded by trees.
 07_039 There are two basketball courts in between some green bushes.
 07_039 a white basketball court with orange center is present in the center of dense tree cover along with another court.
-
+07_039
+07_039
 07_040 There is playground which has some trees grown around it.
 07_040 The playground is surrounded by small trees and there is a road beside it.
 07_040 A playground is surrounded by coconut trees and is close to a building parallel to a small road.
-
+07_040
+07_040
 07_041 There is playground which has some trees grown around it.
 07_041 The playground is surrounded by small trees and there is a road beside it.
 07_041 Roads run parallel to a small playground surrounded by trees in concentric rectangle.
-
+07_041
+07_041
 07_042 The basketball court is surrounded by trees.
 07_042 The two basketball courts were surrounded by tress and roads.
 07_042 The orange and white basketball court and a blue court is surrounded by thick tree cover.
- 
+07_042
+07_042
 07_043 There are two basketball courts in between two roads.
 07_043 The basketball court is surrounded by trees.
 07_043 Two basketball courts are present parallel to each other.
-
+07_043
+07_043
 07_044 The road passes nearer to the basketball court which is covered with some trees.
 07_044 The two basketball courts were surrounded by tress and roads.
 07_044 Two parallel basketball courts are touched by roads and trees each.
-
+07_044
+07_044
 07_045 A road is located in the right side of basketball courts.
 07_045 The two basketball courts were located in the left side of the road.
 07_045 A tree area covers a part of white and orange basketball court.
-
+07_045
+07_045
 07_046 There are some buildings and trees in the left side of the playground.
 07_046 Some vacant lands and building are present near playground.
 07_046 A line of buildings are present parallel to a small road close to a playground.
-
+07_046
+07_046
 07_047 The Path of river which runs alongside the playground.
 07_047 The playground is located in the right side of the river.
 07_047 A river runs close to a playground parallel to a small road.
-
+07_047
+07_047
 07_048 It is a playground.
 07_048 There are some trees besides the playground.
 07_048 A part of the running track along with grass ground is visible.
-
+07_048
+07_048
 07_049 Some smaller roads are separated by basketball court.
 07_049 There is a basketball court in between two roads.
 07_049 A blue and unpainted basketball court with lines is present near the intersection of two roads.
-
+07_049
+07_049
 07_050 There are two buildings and some trees near the playground.
 07_050 Lots of trees are grown near to playground.
 07_050 A triangular building and a small building along with a small pond and dense tree cover is visible close to a playground.
-
+07_050 
+07_050 
 
 
