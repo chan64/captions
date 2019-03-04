@@ -1,32 +1,32 @@
 12_001 Water is stored in a tank.
 12_001 It is a pond located nearer to the roads.
 12_001 Roads run close to a water bath.
-12_001
-12_001
+12_001 Water tank is located alongside the roads.
+12_001 Green trees exist near the water tank.
 12_002 The rectangle shaped pond is found nearer to the roads.
 12_002 Water is stored in a tank.
 12_002 A road borders a water bath having greenish water. 
-12_002
-12_002
-12_003 There are some green bushes and farm lands to the right side of the river.
+12_002 Water is stored in a rectangular sized tank.
+12_002 Greeneries exist near the water tank.
+12_003 There are some green bushes and farm lands alongside the river.
 12_003 The coast of river is surrounded by trees.
 12_003 A river runs close to a land having farmlands and dense bush cover.
-12_003
-12_003 
+12_003 Green bushes exist inbetween the river and farmalnds.
+12_003 Farmlands and green bushes exist alongside the river.
 12_004 There are some buidings and bushes near the canal.
 12_004 The water is present in the canal that appears dark green in colour.
 12_004 A water canal runs parallel to a road with houses on the other side.
-12_004
-12_004
-12_005 There are some buidings and bushes near the canal.
+12_004 Green bushes and residential houses exist alongside the canal.
+12_004 Residential houses, surrounded by green trees is located near the canal.
+12_005 There are some buildings and bushes near the canal.
 12_005 The canal is found to be surrounded by ground,roads and some buildings.
 12_005 There is white sand near the banks of canal having dark green water.
-12_005
-12_005
+12_005 Residential houses, trees and empty land exist near the canal.
+12_005 A road exist inbetween the playground and residential area near the canal.
 12-006 There are some buidings and bushes near the canal.
 12_006 The colour of water in canal is dark green.
 12_006 A canal runs parallel to a road having white sand on its banks.
-12_006
+12_006 
 12_006
 12_007 There are some buidings and bushes where the two canals meet.
 12_007 A white building is seen near to the canal water.
