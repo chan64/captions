@@ -26,12 +26,12 @@
 12-006 There are some buidings and bushes near the canal.
 12_006 The colour of water in canal is dark green.
 12_006 A canal runs parallel to a road having white sand on its banks.
-12_006 There is a building and green trees on one side of a canal.
 12_006 
+12_006
 12_007 There are some buidings and bushes where the two canals meet.
 12_007 A white building is seen near to the canal water.
 12_007 Two canals meeting perpendicularly have a road next to them and white sand around.
-12_007 
+12_007
 12_007
 12_008 There are some buidings and bushes where the two canals meet.
 12_008 A white building is seen near to the canal water.
@@ -179,166 +179,166 @@
 12_036
 12_037 There is a bridge across the canal and some buildings and trees beside it.
 12_037 A over bridge is present above the canal water.
-12_037 
+12_037 A bridge runs above a canal lined with bushes on either sides. 
 12_037
 12_037
 12_038 A high cell tower and some buildings are present in the ends of the canal.
 12_038 There is a bridge across the canal and some buildings and trees beside it.
-12_038
+12_038 There are buildings and roads on either sides of a canal connected by a bridge.
 12_038
 12_038
 12_039 There is a bridge across the canal and some buildings and trees beside it.
 12_039 The canal water is stagnated and some trees and building are present around it.
-12_039
+12_039 A canal lined with bushes is surrounded by buildings and roads.
 12_039
 12_039
 12_040 There is a bridge across the canal and some buildings and trees beside it.
 12_040 The sun rays are reflected in the canal water on its one end.
-12_040
+12_040 A canal lined with bushes is present.
 12_040
 12_040
 12_041 There is a bridge across the canal and some trees near it.
 12_041 There is a small overbridge above the canal and several trees are there.
-12_041
+12_041 There is canal close to a farmland containing trees.
 12_041
 12_041
 12_042 There is a pathway to canal and some buildings are present in the path.
 12_042 There are some buidings and trees to one side of the canal.
-12_042
+12_042 There is a road parallel to a canal close to a number of buildings and lands.
 12_042
 12_042
 12_043 There are some buidings and trees on either side of the canal.
 12_043 The canal water flows along the roads and some vacant grounds are spotted.
-12_043
+12_043 There is green grass and white sand on either sides of a canal.
 12_043
 12_043
 12_044 There is an highway bridge across a canal.
 12_044 The highway runs above the canal and ground filled with backwaters are present ner the highways.
-12_044
+12_044 There is a canal and a water filled land around it.
 12_044
 12_044
 12_045 There is an highway road near a pond of green water.
 12_045 The highway runs above the canal and ground filled with backwaters are present ner the highways.
-12_045
+12_045 There is farmland and a neglected land filled with water near a highway. 
 12_045
 12_045
 12_046 There is a pond near an highway.
 12_046 There is a highways and a barren land filled with some waters.
-12_046
+12_046 There is neglected land containing stagnated water close to a highway.
 12_046
 12_046
 12_047 There is a pond of unclean water near the highway.
 12_047 There is a dirty pond near the highways.
-12_047
+12_047 There is a rectangular pond adjacent to a farmland near the highways.
 12_047
 12_047
 12_048 There is a pond of unclean water near the highway.
 12_048 There is a dirty pond near the highways and some cultivable lands.
-12_048
+12_048 There is a rectangular pond adjacent to a highways.
 12_048
 12_049 There are some buidings and trees on one side of the canal.
 12_049 A small road runs near the canal covered with plants and bushes.
-12_049
+12_049 There is curving canal running close to a road having buildings and trees on the other sides. 
 12_049
 12_049
 12_050 There is a canal near a playground.
 12_050 A small road runs near the canal covered with plants and bushes.
-12_050
+12_050 A curving canal is present close to a fenced playground.
 12_050
 12_050
 12_051 There is a canal near a playground.
 12_051 There is a road and circular tracks in playground near the canal.
-12_051 
+12_051 A canal is present surrounded by roads and white sand on both sides.
 12_051
 12_051
 12_052 There are some buidings and trees on one side of the canal.
 12_052 It is a canal water contaminated and dirty.
-12_052
+12_052 There are two waterbodies meeting surrounded by buildings, roads and trees.
 12_052
 12_052
 12_053 There are some buidings and trees on one side of the canal.
 12_053 It is a canal water contaminated and dirty and some buildings are present.
-12_053
+12_053 There are two waterbodies meeting below a road surrounded by bushes, trees and buildings.
 12_053
 12_053
 12_054 There are some buidings,trees and farmlands near the canal.
 12_054 Agricultural lands and some trees are grown near the ends of canal.
-12_054
+12_054 There is a canal surrounded by coconut trees, buildings and farmlands.
 12_054
 12_054
 12_055 There is a farmland near the canal.
 12_055 Agricultural lands and some trees are grown near the ends of canal.
-12_055
+12_055 There is dark green water canal lined with bushes.
 12_055
 12_055
 12_056 There are some buidings,trees and farmlands near the canal.
 12_056 Agricultural lands and some trees are grown near the ends of canal.
-12_056
+12_056 There is a dark green canal lined with bushes and farmlands.
 12_056
 12_056
 12_057 There is a basketball court near the canal.
 12_057 There are some trees and a basketball court near the canal.
-12_057
+12_057 A water canal lined with bushes runs parallel to a road.
 12_057
 12_057
 12_058 There is a canal near the barren land.
 12_058 There are some vacant grounds and smaller road near the canal
-12_058
+12_058 An empty ground exists close to a curving canal
 12_058
 12_058
 12_059 There is a canal near the barren land.
 12_059 There are some vacant grounds and smaller road near the canal
-12_059
+12_059 A canal with flowing water is present close to a empty ground bordered by road.
 12_059
 12_059
 12_060 There are some trees and buildings near the canal.
 12_060 Variety of trees are grown on the ends of canal water.
-12_060	
+12_060 A canal lined with bushes is surrounded by coconut tree farms.
 12_060
 12_060
 12_061 There are some trees and buildings near the canal.
 12_061 Variety of trees are grown on the ends of canal water.
-12_061
+12_061 A road runs parallel to a canal having buildings and coconut trees inbetween.
 12_061
 12_061 
 12_062 There is a canal located near a land containing buildings and trees.
 12_062 Some green bushes and trees are grown near the canal water. 
-12_062
+12_062 A canal lined with bushes is surrounded by farmlands and bushes.
 12_062
 12_062
 12_063 There is a canal located near a land containing a small building and trees.
 12_063 Some green bushes and trees are grown near the canal water. 
-12_063
+12_063 Roads run parallel on either sides of a canal lined with bushes.
 12_063
 12_063
 12_064 There is a canal located near a land containing a small building and trees.
 12_064 Some green bushes and trees are grown near the canal water.  
-12_064
+12_064 A canal runs inbetween farmlands adjacent to a road.
 12_064
 12_064
 12_065 There is a canal located near a land containing trees.
 12_065 Some green bushes and trees are grown near the canal water. 
-12_065
+12_065 There are bushes close to a road parallel to a canal. 
 12_065
 12_065
 12_066 There is a canal located near a land containing trees.
 12_066 Some green bushes and trees are grown near the canal water.
-12_066
+12_066 There are some bushes close to road parallel to the canal.
 12_066
 12_066
 12_067 There is a canal located near a land containing trees and greenhouse.
 12_067 There is a small road present near the canal.
-12_067
+12_067 There is greenhouse with a garden located close to a canal.
 12_067
 12_067
 12_068 There is a canal located near a land containing some small buildings and trees.
 12_068 The canal water flows near the trees. 
-12_068
-12_068
+12_068 A canal is present lined with bushes.
+12_068 There is empty land with buildings close to a canal lined with bushes.
 12_068
 12_069 A canal is located near a land containing some small buildings and trees.
 12_069 The canal water flows near the trees.
-12_069
+12_069 
 12_069
 12_069
 12_070 A canal is located near a land containing some small buildings and trees.
