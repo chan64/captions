@@ -26,12 +26,12 @@
 12-006 There are some buidings and bushes near the canal.
 12_006 The colour of water in canal is dark green.
 12_006 A canal runs parallel to a road having white sand on its banks.
+12_006 There is a building and green trees on one side of a canal.
 12_006 
-12_006
 12_007 There are some buidings and bushes where the two canals meet.
 12_007 A white building is seen near to the canal water.
 12_007 Two canals meeting perpendicularly have a road next to them and white sand around.
-12_007
+12_007 
 12_007
 12_008 There are some buidings and bushes where the two canals meet.
 12_008 A white building is seen near to the canal water.
@@ -248,7 +248,7 @@
 12_050
 12_051 There is a canal near a playground.
 12_051 There is a road and circular tracks in playground near the canal.
-12_051
+12_051 
 12_051
 12_051
 12_052 There are some buidings and trees on one side of the canal.
