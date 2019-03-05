@@ -50,136 +50,136 @@
 12_010
 12_011 There are some buidings and bushes near the canal.
 12_011 There are some roads,vacant grounds and smaller trees near the coast.
-12_011 There is white sand with   
+12_011 There is white sand with bushes close to a river bank. 
 12_011
 12_011
 12_012 There is a canal near the playground.
 12_012 The curve shaped canal is located nearer to the empty lands.
-12_012
+12_012 A canal curving near a road is surrounded by bushes and lands.
 12_012
 12_012
 12_013 The canal is located in between some trees and the playground.
 12_013 The curve shaped canal is located nearer to the empty lands.
-12_013
+12_013 There are a number of trees and bushes surrounding a dark green water containing canal.
 12_013
 12_013
 12_014 There are some buidings and trees to the left side of the canal.
 12_014 There are some rooftop buildings near to canal.
-12_014
-12_014
+12_014 There are a number of buldings and trees lying close to a canal containing dark green water.
+12_014 
 12_014
 12_015 There are some buidings and trees to the right side of the canal. 
 12_015 Lots of smaller buildings are presnt near to the water body.
-12_015
+12_015 A road is present close to a tree grove and buildings lying close to a dark green canal.
 12_015
 12_015
 12_016 There are some buidings and trees to the right side of the canal.
 12_016 There is a small road near to the canal.
-12_016
+12_016 There are roads running parallely on either sides of a canal containing dark green water.
 12_016
 12_016
 12_017 There are some bushes on the right side of the canal.
 12_017 Trees are dense on the ends of river.
-12_017
+12_017 There is a dense tree cover lying close to a road running parallel to a canal.
 12_017
 12_017
 12_018 There are some small buidings to the left side of the canal.
 12_018 It is a river contaminated and flowing at low speed. 
-12_018
+12_018 There is a dark green water canal running parallel to a road and deserted house on the other side.
 12_018
 12_018
 12_019 There are some buidings and trees to the left side of the canal.
 12_019 It is a river contaminated and flowing at low speed. 
-12_019
+12_019 There are trees surrounding buildings present about the canal containing dark green water.
 12_019
 12_020 There are some buidings,trees and farm lands to the left side of the canal.
 12_020 It is a river contaminated and flowing at low speed.  
-12_020
+12_020 There is a farmlands, some buildings and trees close to a canal containing dark green water.
 12_020
 12_020
 12_021 There are some buidings,trees and farm lands to the left side of the canal.
 12_021 Varieties of trees are grown near the river and farmland.
-12_021
-12_021
+12_021 There are groups of trees, buildings and a farmland close to a canal.
+12_021 
 12_021
 12_022 There are some buidings,trees and farm lands to the right side of the canal.
 12_022 There are some farmlands near the side end of the river.
-12_022
+12_022 A canal lined with bushes is present close to a farmland and buildings.
 12_022
 12_022
 12_023 There are some buidings and trees to the right side of the canal.
 12_023 There are some farmlands near the side end of the river.
-12_023
+12_023 A canal lined with bushes and a road on either sides is present.
 12_023
 12_023
 12_024 There is a canal with a basketball court and some small buildings on its either side.
 12_024 There is a basketball court on one side of the canal meanwhile the otherside is covered fully with trees.
-12_024
+12_024 A canal containing dark green water is lined with bushes.
 12_024
 12_024
 12_025 There is a basketball court and some trees to the left side of the canal.
 12_025 There is a basketball court on one side of the canal meanwhile the otherside is covered fully with trees.
-12_025
+12_025 A dark green water containing canal is present between roads.
 12_025
 12_025
 12_026 There is a basketball court and some trees to the left side of the canal.
 12_026 The canal water flows inmidst of the basketball court and several trees.
-12_026
+12_026 There is a dense tree cover close to a dark green water canal.
 12_026
 12_026
 12_027 There is a land containing trees near the canal.
 12_027 There is a green ground present near the canal and road.
-12_027
+12_027 A dark green canal is present close to a greenery.
 12_027
 12_027
 12_028 The canal is located in between some trees and small buildings.
 12_028 There is a green ground present near the canal and road.
-12_028
+12_028 A dark green canal lined with bushes is located.
 12_028
 12_028
 12_029 There are some buidings and trees on the left side of the canal.
 12_029 There are some smaller buildings near to the canal.  
-12_029
+12_029 There is a dark green water containing canal lined with bushes on either sides.
 12_029
 12_029
 12_030 There are some buidings and trees on the left side of the canal.
 12_030 Some white building are spotted near to the canal.
-12_030
+12_030 A dark green water canal is lined with bushes on either sides.
 12_030
 12_030
 12_031 There are some buidings,trees and farm lands to the left side of the canal.
 12_031 There are some green lands and white building near the canal.
-12_031
+12_031 A group of farmlands, houses and trees is surrounded about a canal lined with trees.
 12_031
 12_031
 12_032 There are some buidings and trees near the canal. 
 12_032 It is a canal surrounded by some bushes over the border.
-12_032
+12_032 A canal lined with bushes run between farmlands and buildings. 
 12_032
 12_032
 12_033 There are some buidings and bushes near the canal.
 12_033 It is a canal surrounded by some bushes over the border.
-12_033
+12_033 
 12_033
 12_033
 12_034 There is a canal located near a land containing roads and trees.
 12_034 There are some smaller roads and neat  lands present near the canal water.
-12_034
+12_034 There is a well lying close to a canal running parallel to a road.
 12_034
 12_034
 12_035 There is a bridge across the canal and some buildings and trees beside it.
 12_035 Neat empty lands are located near the canal and some trees are found in it.
-12_035
+12_035 A bridge runs above a canal lined with bushes containing green water.
 12_035
 12_035
 12_036 There is a bridge across the canal and some buildings and trees on either side of it.
 12_036 A over bridge is present above the canal water.
-12_036
+12_036 A bridge connects a road between two sides of a canal lined with bushes.
 12_036
 12_036
 12_037 There is a bridge across the canal and some buildings and trees beside it.
 12_037 A over bridge is present above the canal water.
-12_037
+12_037 
 12_037
 12_037
 12_038 A high cell tower and some buildings are present in the ends of the canal.
