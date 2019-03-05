@@ -744,58 +744,58 @@
 06_141 A small road connects to a highway having dense tree cover. 
 06_141 Buildings surrounded by thick tree cover is located on one side of a highway which connects to small roads.
 06_141 There are lots of trees surrounding the buildings grown near the highways.
-06_141
+06_141 There is a highway located near to the forest regions.
 
 06_142 The highways are surrounded by trees	 
 06_142 A highway connects to a two lane road with trees on the other side.
 06_142 Buildings surrounded by thick tree cover is located on one side of a highway which connects to another highway.
 06_142 There are some trees present near the highways.
-06_142
+06_142 Roads are carved inmidst of the forest areas.
 
 06_143 There are some vacant lands at the ends of highways
 06_143 A building with empty front connects to a highway having cropped grassland on its side.
 06_143 Greeneries and some buildings were present near the highway.
 06_143 There are some vacant grounds and some trees grown in it which are present by side of the highways.
-06_143 
+06_143 It is a highway.
 
 06_144 Highways are present with tress covered fully
 06_144 The highway is connected to a small road having a large building on one side.
 06_144 Highways connects to small roads surrounded by buildings and trees.
 06_144 Trees are grown in large numbers near the highways. 
-06_144 
+06_144 Highways are present near the forest regions.
 
 06_145 There is a highway covered with some vacant lands and trees
 06_145 A highway road connects to a building with large garden in the front.
 06_145 Greeneries were present around the highways.
 06_145 There are couple of buildings covered with trees present near the highways.
-06_145 
+06_145 Some green coloured lands are situated near the highways.
 
 06_146 There is a highway covered with some vacant lands and trees
 06_146 There is a cropped grassland and some buildings around a highway.
 06_146 Highways are located with greeneries  on its either sides.
 06_146 There are couple of buildings covered with trees present near the highways.
-06_146 
+06_146 Some green coloured lands are situated near the highways.
 
 06_147 There is highway with trees grown at one side.
 06_147 There is a dense tree cover enveloping a number of buildings on the side of a highway.
 06_147 Highways are present near a dense tree cover.
 06_147 Trees are grown in one side of the highways while the other side has some vacant lands.
-06_147
+06_147 There are some trees grown near the highways.
 
 06_148 The highway runs along the dense areas
 06_148 There is a vacant empty land and ground close to a highway.
 06_148 Empty lands, buildings and trees are present near the highways.
 06_148 Trees are grown in one side of the highways while the other side has some vacant lands.
-06_148 
+06_148 The areas near the highways are denser with lots of trees grown.
 
 06_149 There is a highway surrounded by trees
 06_149 There are a number of equally spaced buildings and a ground close to a highway.
 06_149 residential houses surrounded by thick tree cover is located on one side of a highway.
 06_149 There is a highway comprising of lots of trees,buildings and vacant grounds by its side.
-06_149 
+06_149 There are several trees and some buildings near the highways.
 
 06_150 There is a highway covered with trees
 06_150 A road connects to a highway close to a dense tree cover having a couple of houses with a garden upfront. 
 06_150 Small houses surrounded by dense tree cover is located on one side of a highway.
 06_150 There is a highway comprising of lots of trees,buildings and vacant grounds by its side.
-06_150 
+06_150 It is a highways consisting of bunches of trees.
