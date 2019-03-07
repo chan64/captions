@@ -244,11 +244,11 @@ and another way is an irregular pathway.
 04_050 The growth of trees are dense in that area.
 04_050 Trees are concentrated beside a barren land.
 04_050 More than half of the area is occupied by the densed forests.
-04_050 
+04_050 There are some trees present in one side and some vacant lands on the other side.
 04_050 
 04_051 The large number of trees are grown and solar panels are installed near them.
 04_051 A small number of solar panels border a thick cover of trees.
-04_051 
+04_051 There are lots of trees grown near the solar panels.
 04_051 
 04_051 
 04_052 The large number of trees are grown and solar panels are installed near them.
@@ -283,12 +283,12 @@ and another way is an irregular pathway.
 04_057 
 04_058 The forest area where trees have been cut down.
 04_058 There exists a forest with lot of bushes.
-04_058 
+04_058 Some barren lands are present near the trees and bushes.
 04_058 
 04_058 
 04_059 The growth of trees which are in smaller heights.
 04_059 There is a vegetation with a lot of bushes around neighbouring farmlands and trees.
-04_059 
+04_059 There are some barren lands present near the farmlands
 04_059 
 04_059 
 04_060 A mixture of farmlands,trees and greenary.
@@ -303,7 +303,7 @@ and another way is an irregular pathway.
 04_061 
 04_062 Roads are laid in between forest regions.
 04_062 A thick dense tree cover exists wherein roads and buildings pass inbetween.
-04_062 
+04_062 Some smaller roads are present near the area where lots of trees have grown.
 04_062 
 04_062                            
 04_063 Roads are laid in between forest regions.
@@ -423,62 +423,71 @@ and another way is an irregular pathway.
 04_085 
 04_086 The captured image contains trees,roads and some vacant grounds.
 04_086 A road and few buildings are present in major cover of trees.
-04_086 
+04_086 Some smaller roads are seen near the forest areas.
 04_086 
 04_086 
 04_087 Roads are laid in between forest regions.
 04_087 A road passes inbetween a dense forest region.
-04_087
+04_087 Some buildings are present inmidst of the trees.
 04_087
 04_087
 04_088 There is a forest
 04_088 There is a thick and dense forest cover.
+04_088 There are dense growth of trees in that area.
 04_088 
 04_088 
-04_088 
+
 04_089 There is a forest.
 04_089 A thick forest area is present next to a vegetation.
+04_089 There are some barren lands and some trees grown in that location.
 04_089 
 04_089 
-04_089 
+
 04_090 The density of trees grown are high in number.
 04_090 There is a thick forest area.
+04_090 Lots of trees are grown near the small roads.
 04_090 
 04_090 
-04_090 
+
 04_091 This area contains similar kind of trees.
 04_091 There is a thick forest area with some plains around.
+04_091 There are dense growth of trees in that area.
 04_091 
 04_091 
-04_091 
+
 04_092 One part of forest is covered with trees while the other one contains grass.
 04_092 There is a vegetation next to a thick forest cover.
+04_092 There are some trees and some vacant grounds in that area.
 04_092 
 04_092 
-04_092 
+
 04_093 The large number of trees are grown along with some walking path in them.
 04_093 There is a thick forest cover and some plains.
+04_093 Forest regions are covered with full of trees.
 04_093 
 04_093 
-04_093 
+
 04_094 Series of identical trees are grown in the forest area. 
 04_094 A thick forest area is present close to a road.
+04_094 Forest regions are covered with full of trees.
 04_094 
 04_094 
-04_094 
+
 04_095 Forest area which contains similar kind of trees have been spotted.
 04_095 A thick forest cover with some plains is present next to a forest area.
+04_095 There are some trees and some vacant grounds in that area.
 04_095 
 04_095 
-04_095 
+
 04_096 Short roads are constructed at the end of dense areas. 
 04_096 A few coconut trees are present in the dense forest area close to a road.
+04_096 There are lot of trees in that particaular area.
 04_096 
 04_096 
-04_096 
+
 04_097 The forest area is covered with full of trees.
 04_097 The view consists of a thick forest area in major.
-04_097 
+04_097 There are lot of trees in that particaular area.
 04_097 
 04_097 
 
