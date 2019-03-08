@@ -154,31 +154,31 @@
 05_026 Solar panels are seen at the ends of garden.
 05_026 There are parallel groups of trees visible on the neatly maintained garden
 05_026 Trees were grown neatly in a garden,located near a solar farm.
-05_026
+05_026 There are some neat Gardens present near the solar panels.
 05_026
 
 05_027 It is a smooth green garden with some pitches.
 05_027 Groups of trees are present parallely on the grass garden.
 05_027 There is a garden with short trees grown parallely.
-05_027
-05_027
+05_027 Some trees and bushes are grown in the gardens.
+05_027 
 
 05_028 It is a smooth green garden with small trees covered.
 05_028 There are bunch of trees present parallely on grass land.
 05_028 Short trees were grown parallely in a garden.
-05_028
+05_028 There are neat and clean Gardens present near the solar panels.
 05_028
 
 05_029 It is a smooth green garden with solar panel set up at one end.
 05_029 A solar panel field exists close to a garden having neatly arranged group of trees.
 05_029 A green garden with short trees arranged parallely is located near a solar panel field.
-05_029
+05_029 Some trees and bushes have been grown in the gardens, which are present near the solar panels
 05_029
 
 05_030 It is a smooth green garden with solar panel set up at one end.
 05_030 A solar panel field exists close to a garden having neatly arranged group of trees.
 05_030 A green garden with short trees is located near a solar panel field.
-05_030
+05_030 Some solar panels have been installed near the near the area of garden.
 05_030
 
 05_031 The smooth garden comprises of some small trees and green grass.
@@ -202,7 +202,7 @@
 05_034 A roundtana is present in the midst of gardens.
 05_034 A park with a walking path lined with trees is surrounded by dense forest cover and roads.
 05_034 A garden with pathway and more no of trees is located near a highway.	
-05_034
+05_034 Lots of trees are grown near the green area.
 05_034
 
 05_035 The entry point from road to the gardens.
@@ -214,7 +214,7 @@
 05_036 Trees and cell tower are seen surronding the garden.
 05_036 A dense forest cover lies between a road and a garden with walking path.
 05_036 A garden with a pathway is surrounded by trees and a cell tower.
-05_036
+05_036 Lots of trees and bushes are grown near the roads.
 05_036
 
 05_037 There is a garden near to road.
@@ -226,7 +226,7 @@
 05_038 Trees and cell tower are seen surronding the garden.
 05_038 A water body and dense tree cover lies close to a park.
 05_038 A garden with a pathway is surrounded by trees and a cell tower.
-05_038
+05_038 There are lots of trees and bushes present near the Gardens
 05_038
 
 05_039 It is a garden.
@@ -244,7 +244,7 @@
 05_041 The garden contains plethora of things in it.
 05_041 There are patches of soil visible in the garden having neatly arranged line of trees.
 05_041 Trees were grown in a garden parallely, having some soil patches of land.
-05_041
+05_041 That are neat and clean Gardens in which some trees and bushes are being grown.
 05_041
 
 05_042 The garden contains plethora of things in it.
@@ -256,13 +256,13 @@
 05_043 Some trees are grown in the garden.
 05_043 There are patches of trees present parallely in a garden with patches of grass.
 05_043 Trees were grown parallely in a finely cropped grassy garden.	
-05_043
+05_043 It is a garden.
 05_043
 
 05_044 It is a clean garden.
 05_044 There are patches of soil visible in a garden with trees around.
 05_044 Trees were grown in a garden parallely, having some soil patches of land.
-05_044
+05_044 The garden is filled with some some of the trees and bushes
 05_044
 
 05_045 It is a clean garden.
@@ -280,13 +280,13 @@
 05_047 Highways are seen near the gardens.
 05_047 A wide road and a parking lot is visible close to a neat garden. 
 05_047 Trees were grown in more numbers near the garden.
-05_047
+05_047 Lots of trees are grown near the roads where Gardens are present.
 05_047
 
 05_048 Trees are seen in the garden.
 05_048 A wide road is covered by dense tree cover close to a garden.
 05_048 Trees were grown in more numbers near the garden.
-05_048
+05_048 Lots of trees are grown near the Highway.
 05_048
 
 05_049 It is a complete garden kept clean and pure.
@@ -298,20 +298,20 @@
 05_050 It is a complete garden kept clean and pure.
 05_050 A garden is present close to a solar panel field bordered with trees.
 05_050 A garden bordered with trees is located near a solar farm.
-05_050
+05_050 It is a garden with some trees and bushes.
 05_050
 
 05_051 The garden is covered with green grass.
 05_051 A garden is present close to a solar panel field bordered with trees. 
 05_051 A garden bordered with trees is located near a solar farm.
-05_051
+05_051 It is a clean garden.
 05_051
 
 05_052 Trees are seen in the side of the garden.
 05_052 A dense tree cover is present close to a garden and a dismantled solar panel field.
 05_052 A garden with more number of trees is located near a solar farm.
-05_052
-05_052
+05_052 It is a clean garden.
+05_052 
 
 
 
