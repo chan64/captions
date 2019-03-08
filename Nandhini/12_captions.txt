@@ -26,77 +26,78 @@
 12-006 There are some buidings and bushes near the canal.
 12_006 The colour of water in canal is dark green.
 12_006 A canal runs parallel to a road having white sand on its banks.
-12_006 
-12_006
+12_006 A canal exists near a land containing white sand.
+12_006 Green bushes are present near the canal.
 12_007 There are some buidings and bushes where the two canals meet.
 12_007 A white building is seen near to the canal water.
 12_007 Two canals meeting perpendicularly have a road next to them and white sand around.
-12_007
-12_007
+12_007 A canal lined up with bushes which has buildings and trees at its either sides joins the other canal.
+12_007 Buildings and trees are located near a land where two canals meet.
 12_008 There are some buidings and bushes where the two canals meet.
 12_008 A white building is seen near to the canal water.
 12_008 A road runs close to a water canal having playground and buildings around. 
-12_008
-12_008
+12_008 A canal lined up with bushes which has buildings and trees at its either sides joins the other canal.
+12_008 Buildings and trees are located near a land where two canals meet.
 12_009 There are some buidings and bushes near the canal.
 12_009 The polluted water is stagnated in the canal.
 12_009 A canal with dark green water is present close to a road having a playground and building.  
-12_009
-12_009
+12_009 Buildings and trees exits near the canal.
+12_009 A road exists inbetween the canal and land containing building and trees.
 12_010 There are some buidings and bushes near the canal.
 12_010 The polluted water is stagnated in the canal.
 12_010 There are buildings and white sand around a canal having dark green water.
-12_010
-12_010
+12_010 A canal runs parallel to a road having white sand on its banks.
+12_010 A road exists inbetween the canal and land containing building and trees.
 12_011 There are some buidings and bushes near the canal.
 12_011 There are some roads,vacant grounds and smaller trees near the coast.
 12_011 There is white sand with bushes close to a river bank. 
-12_011
-12_011
+12_011 Buildings and trees exists on one side of the canal.
+12_011 A canal is present near a land containing buildings and trees.
 12_012 There is a canal near the playground.
 12_012 The curve shaped canal is located nearer to the empty lands.
 12_012 A canal curving near a road is surrounded by bushes and lands.
-12_012
-12_012
+12_012 A part of the playground bordered with trees is located near the canal.
+12_012 A canal lined up with bushes is located near the playground.
 12_013 The canal is located in between some trees and the playground.
 12_013 The curve shaped canal is located nearer to the empty lands.
 12_013 There are a number of trees and bushes surrounding a dark green water containing canal.
-12_013
-12_013
-12_014 There are some buidings and trees to the left side of the canal.
+12_013 A group of coconut trees were present near the canal lined up with bushes.
+12_013 A canal is located near the land containing coconut trees.
+12_014 There are some buidings and trees near the canal.
 12_014 There are some rooftop buildings near to canal.
 12_014 There are a number of buldings and trees lying close to a canal containing dark green water.
-12_014 
-12_014
+12_014 A canal is located near the residential houses surrounded by coconut trees.
+12_014 A road seperates the residential area and the canal.
 12_015 There are some buidings and trees to the right side of the canal. 
-12_015 Lots of smaller buildings are presnt near to the water body.
+12_015 Lots of smaller buildings are present near to the water body.
 12_015 A road is present close to a tree grove and buildings lying close to a dark green canal.
-12_015
-12_015
+12_015 A canal is located near the residential houses surrounded by coconut trees.
+12_015 A road seperates the residential area and the canal.
 12_016 There are some buidings and trees to the right side of the canal.
 12_016 There is a small road near to the canal.
 12_016 There are roads running parallely on either sides of a canal containing dark green water.
-12_016
-12_016
+12_016 A canal is located with bushes and roads on its either sides.
+12_016 Greeneries were present on either side of the canal.
 12_017 There are some bushes on the right side of the canal.
 12_017 Trees are dense on the ends of river.
 12_017 There is a dense tree cover lying close to a road running parallel to a canal.
-12_017
-12_017
-12_018 There are some small buidings to the left side of the canal.
+12_017 A dense tree cover were present near the canal.
+12_017 A canal is located near a dense tree cover adjacent to a road.
+12_018 There are some small buidings near the canal.
 12_018 It is a river contaminated and flowing at low speed. 
 12_018 There is a dark green water canal running parallel to a road and deserted house on the other side.
-12_018
-12_018
-12_019 There are some buidings and trees to the left side of the canal.
+12_018 A canal lined up with bushes is present near the residential area.
+12_018 One end of the canal contains white sand adjacent to a road.
+12_019 There are some buidings and trees near the canal.
 12_019 It is a river contaminated and flowing at low speed. 
 12_019 There are trees surrounding buildings present about the canal containing dark green water.
-12_019
+12_019 A canal lined up with bushes is present near the residential area.
+12_019 Farmlands and residential area are present near the canal.
 12_020 There are some buidings,trees and farm lands to the left side of the canal.
 12_020 It is a river contaminated and flowing at low speed.  
 12_020 There is a farmlands, some buildings and trees close to a canal containing dark green water.
-12_020
-12_020
+12_020 Farmlands and residential area are present near the canal.
+12_020 A canal lined up with bushes is present near the farmlands and residential area.
 12_021 There are some buidings,trees and farmlands present near the canal.
 12_021 Varieties of trees are grown near the river and farmland.
 12_021 There are groups of trees, buildings and a farmland close to a canal.

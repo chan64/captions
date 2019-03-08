@@ -1,18 +1,18 @@
 13_001 A temple spire in a rooftop is present close to a residential area.
 13_001 One side of temple is captured along with some trees,hills,many buildings and temple rooftops.
-13_001 
+13_001 The top view of the temple is visible bordered with coconut trees near the residential area.
 
 13_002 A temple rooftop is present next to a road lined with coconut trees.
 13_002 The sanctum sanctorum of the holy shrines are covered with roof tops.
-13_002
+13_002 The temple rooftop is visible, having coconut trees at its borders.
 
 13_003 The temple is crowded with people on the ground.
 13_003 The front part of the temple is crowded with lot of people.
-13_003
+13_003 Crowd was present infront of the temple.
 
 13_004 The rooftop of a temple having arches is present.
 13_004 The red coloured rooftops are present above the holy shrines.
-13_004
+13_004 
 
 
 
