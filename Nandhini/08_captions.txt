@@ -1,103 +1,103 @@
-08_001 There are some buildings and trees.
+08_001 There are some buildings and trees grown inbetween.
 08_001 There are some brick buildings,trees and tall cell tower and river along the ends of small road.
 08_001 There is a small road along with a cell tower, few buildings, canal, coconut trees and few other trees.
-08_001
-08_001
+08_001 A canal runs nearby the residential area having a cell tower, small buildings and trees.
+08_001 A residential area is located with a cell tower, small buildings, trees and a canal runs nearby.
 08_002 There are some buildings and trees near the canal.
 08_002 There are some brick buildings,trees and tall cell tower and river along the ends of small road.
 08_002 There is a small road along with a cell tower, few buildings, canal, coconut trees and few other trees. 
-08_002
-08_002
+08_002 A canal runs nearby the residential area having a cell tower, small buildings and trees.
+08_002 A residential area is located with a cell tower, small buildings, trees and a canal runs nearby.
 08_003 There are some buildings and trees near the barren land. 
 08_003 Some buildings are constructed near the vacant grounds filled with trees.
 08_003 Some buildings are seen near few barren lands that are filled with trees.
-08_003
-08_003
+08_003 Some buildings were located nar the barren land along with trees.
+08_003 Trees and buildings were located near the barren land.
 08_004 There are some buildings and trees near the highway.
 08_004 There is a highway and buildings are constructed near the ends.
 08_004 Few buildings and trees are spotted next to a highway.
-08_004
-08_004
+08_004 Buildings surrounded by trees are located near the highway roads.
+08_004 Buildings and trees exist near the highway.
 08_005 The trees were grown in between the buildings.
 08_005 There is a highway and buildings are constructed near the ends.
 08_005 Few buildings are constructed in the midst of thick tree cover which is adjacent to a road.
-08_005
-08_005
+08_005 A dense tree cover is present inbetween tne builings.
+08_005 Residential houses are spotted with a dense tree cover inbetween.
 08_006 There are some buildings and trees near the highway.
 08_006 There are some buildings in the midst of trees which are dense.
 08_006 Few buildings and trees are spotted next to a highway.
-08_006
-08_006
+08_006 A dense tree cover is present inbetween the builings next to a highway.
+08_006 Residential houses are spotted with a dense tree cover inbetween next to a highway.
 08_007 There is a triangle shaped building near the highway.
 08_007 It is an institution located near the highways.
 08_007 There is a grassland next to a highway comprising several buildings among which there is a triangle shaped one.
-08_007
-08_007
+08_007 A triangle shaped building and some small buildings and trees were located near the highway.
+08_007 Highways were located near some buildings and trees.
 08_008 There are two buildings near the highway.
 08_008 It is an institution located near the highways.
 08_008 There is a grassland next to a highway comprising two buildings among which one is of triangle shape.
-08_008
-08_008
-08_009 The buildings and trees were parallel to each other.
+08_008 A triangle shaped building and a large building was located near the highway.
+08_008 Highways are visible infront of the two buildings.
+08_009 The buildings and trees are parallel to each other.
 08_009 The rooftop of big building located in the midst of greenery area.
 08_009 A well and few buildings are spotted parallel to which trees are present.
-08_009
-08_009
+08_009 Trees and buildings are located, which are parallel to each other.
+08_009 Trees are lined up neatly which are parallel to the buildings.
 08_010 There are two buildings near the highway.
 08_010 It is an institution located near the highways.
 08_010 There is a grassland next to a highway comprising several buildings among which there is a triangle shaped one.
-08_010
-08_010
-08_011 There are some trees alongside the building near the highway. 
+08_010 Highways are visible infront of the two buildings.
+08_010 A triangle shaped building and a large building was located near the highway.
+08_011 There are some trees besides the red colored building near the highway. 
 08_011 A small dirty pond is present near the highways and red coloured building.
 08_011 A pond along with a well, a red colored building and few trees are spotted next to a grassland and highway.
-08_011
-08_011
+08_011 A red colored building, a pond and a well surrounded by trees are spotted near a highway.
+08_011 A pond, a well with trees around next to a red colored building is present near the highway.
 08_012 There is a building surrounded by trees.
 08_012 There is a huge buidling near the barren lands surrounded by the trees.
 08_012 There is a barren land and a building adjacent to a road infront of which large number of trees are grown.
-08_012
-08_012
+08_012 A large white building surrounded by trees is located near the barren land.
+08_012 A large white building surrounded by trees is located near the barren land.
 08_013 There are two buildings surrounded by trees near the highway.
 08_013 There is a castle near to the highways.
 08_013 Few buildings are spotted near the highway infront of which trees are grown and maintained neatly.
-08_013
-08_013
+08_013 Two buildings surrounded by trees is located near the highway roads.
+08_013 Trees were grown inbetween and infront of the buildings was spotted near the highway.
 08_014 There are two buildings surrounded by trees near the highway.
 08_014 There is a castle near to the highways.
 08_014 There is a building spotted near a highway infront of which trees are grown and maintained neatly.
-08_014
-08_014
+08_014 Trees were grown neatly around a building  was spotted near the highway.
+08_014 A building surrounded by trees is located near the highway roads.
 08_015 There are some buildings surrounded by trees near the highway.
 08_015 There is a castle and some buildings at the ends of highways.
 08_015 Few buildings with solar cell panels on top of one are spotted near the highway infront of which trees are grown and maintained neatly.
-08_015
-08_015
+08_015 Trees were grown inbetween and infront of the buildings was spotted near the highway.
+08_015 Buildings surrounded by trees is located near the highway roads.
 08_016 There are some buildings surrounded by trees.
 08_016 There are lot of buildings located nearer to each other.
 08_016 Few buildings and trees are spotted next to a road.
-08_016
-08_016
+08_016 Trees were grown inbetween the buildings was present next to a road.
+08_016 Group of trees were grown inbetween several buildings was present next to a road.
 08_017 There are some buildings surrounded by trees.
 08_017 Variety of trees are grown near the buildings.
 08_017 Few buildings and trees are spotted next to a road.
-08_017
-08_017
+08_017 Trees were grown inbetween the buildings was spotted.
+08_017 Group of trees were grown inbetween several buildings.
 08_018 There are some buildings surrounded by trees.
 08_018 Variety of trees are grown near the buildings.
 08_018 A farmland, few buildings and trees are spotted next to a road.
-08_018
-08_018
+08_018 Group of trees were grown inbetween several buildings was present near a farmland.
+08_018 Buildings, group of trees and farmlands were spotted.
 08_019 There are some buildings surrounded by trees near the canal.
 08_019 Some small roads linking each other are present in the midst of some brick buildings.
 08_019 Some buildings are seen in the midst of coconut trees neighbouring a canal and few small roads linking each other.
-08_019
-08_019
-08_020 There are some buildings surrounded by trees in one side of the road.
+08_019 Roads runs inbetween the residential area having houses and coconut trees was located near a canal.
+08_019 Roads runs inbetween the residential area having houses and coconut trees was located near a canal.
+08_020 There are some buildings and trees present on one side of a road.
 08_020 The small clean roads are laid near the barren lands containing some buildings.
 08_020 There is a small road with barren land on one side and few buildings surrounded by trees on the other side.
-08_020
-08_020
+08_020 Buildings and trees were present on one side of a road and a barren land on the other side.
+08_020 A road runs inbetween a land containing buildings and trees and a barren land.
 08_021 There are some buildings surrounded by trees.
 08_021 The small clean roads are laid near the barren lands containing some buildings.
 08_021 There is a small road with barren land on one side and a farmland, few buildings surrounded by trees on the other side.
@@ -198,64 +198,65 @@
 08_040 a small road is spotted with canal on one side and a residential area with houses and trees on the other side is spotted.
 08_040 Residential houses and trees were located on either sides of the road.
 08_040 Residential area is located near the canal.
-08_041 There are some trees alongside the building near the farm land.
+08_041 There are some trees around the houses near the farm land.
 08_041 There are set of farmlands present near some houses of smaller size.
 08_041 Houses are surrounded by trees and farmlands. 
-08_041 
-08_041
+08_041 Trees and farmlands surrounds the houses.
+08_041 Houses are located with farmlands and trees surrounding them.
 08_042 The buildings alongside the trees were located near a farm land.
 08_042 There is an institution with red coloured rooftop present on the back side of the farmlands.
-08_042 There is a huge building with trees grown and a barren land in the front.
-08_042
-08_042
+08_042 There is a huge building with trees grown and a farmland in the front.
+08_042 Farmlands and trees were present infront of a large white building.
+08_042 A large white building is located with trees and farmlands in the front
 08_043 There are some buildings surrounded by trees near a barren land.
 08_043 There are some buildings covered with trees and some vacant lands are present near it.
 08_043 There is a vacant land and dense thick tree cover with few buildings scattered on it which is next to a highway.
-08_043
-08_043
+08_043 Buildings are aligned parallely with trees surrounding them near a vacant ground.
+08_043 Residential buildings that are surrounded by trees which are parallel to each other neighbours a vacant ground.
 08_044 There are some buildings surrounded by trees near a barren land.
 08_044 There are some gardens present near the highways and some solar panels are installed near those gardens. 
 08_044 A small road next to a dense thick tree cover with few buildings scattered and a bunch of solar panels are spotted.
-08_044
+08_044 A grrenish vacant land exist inbetween some buildings surrounded by trees and a solar panel field.
+08_044 Some buildings surrounded by thick tree cover is present next to a greenish vacant land and a solar panel field.
 08_045 There are some residential houses surrounded by trees near a farm land.
 08_045 There are some vacant lands and some farmlands nearby each other located far away from some homes.
 08_045 A small pond, trees, houses and numerous farmlands are seen.
-08_045
-08_045
+08_045 A river, houses with trees and farmlands were spotted.
+08_045 There are some farmlands and greenish vacant land present near a residential area and a river running nearby.
 08_046 There are some residential houses surrounded by trees near a farm land.
 08_046 There are lot of smaller homes located nearby each other present near the farmlands.
 08_046 A small mud road is spotted with trees, houses and farmlands on either side of it.
-08_046
-08_046
+08_046 Reidential houses with trees and farmlands were spotted.
+08_046 Reidential houses with trees and farmlands were spotted.
 08_047 There are some buildings surrounded by trees on either side of the roads.
 08_047 There are some homes surrounded by trees located on both the sides of highways.
 08_047 Few buildings are scattered amidst a thick tree cover on either side of the highways.
-08_047
-08_047
+08_047 Buildings with trees surrounding them are located on either side of a highway.
+08_047 Highways runs inbetween the buildings surrounded by a dense tree cover.
 08_048 There are some buildings surrounded by trees on either side of the roads.
 08_048 There are some homes surrounded by trees located on both the sides of highways.
 08_048 Few buildings are scattered amidst a thick tree cover and farmlands on either side of the highways.
-08_048
-08_048
+08_048 Buildings with trees surrounding them are located on either side of a highway.
+08_048 Highways runs inbetween the buildings surrounded by a dense tree cover.
 08_049 There are some buildings surrounded by trees on either side of the roads.
 08_049 There are some homes surrounded by trees located on both the sides of highways.
 08_049 Few buildings are scattered amidst a thick tree cover and farmlands on either side of the highways.
-08_049
-08_049
+08_049 Buildings with trees surrounding them are located on either side of a highway.
+08_049 Highways runs inbetween the buildings surrounded by a dense tree cover.
 08_050 There are some buildings surrounded by trees near the highway.
 08_050 Some vacant grounds and residential buildings are covered by trees.
 08_050 There is a dense thick tree cover with buildings scattered on it and a vacant ground on one side of the highways.
-08_050
-08_050
+08_050 Buildings are aligned parallely with trees surrounding them near a vacant ground on one side of the highways.
+08_050 Buildings with trees surrounding them are located parallely near a vacant ground on one side of the highways.
 08_051 There are some buildings and trees.
 08_051 There is an institution with red coloured rooftop situated nearby the grounds.
 08_051 A huge red colored building is seen with trees grown at some places.
-08_051
-08_051
+08_051 Trees were grown inbetween large white buildings.
+08_051 Large white buildings were located with trees grown between.
 08_052 There are some buildings surrounded by trees on either side of the roads.
 08_052 There are buidlings surrounded by trees present at both the ends of road.
 08_052 Several neatly arranged buildings with trees surrounding them and connecting roads in between is spotted.
-08_052
+08_052 
 08_052
 08_053 There are some buildings surrounded by trees located parallely.
 08_053 There are some buildings covered fully with trees located nearby to each other.
