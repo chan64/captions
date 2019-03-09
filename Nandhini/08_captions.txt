@@ -256,48 +256,48 @@
 08_052 There are some buildings surrounded by trees on either side of the roads.
 08_052 There are buidlings surrounded by trees present at both the ends of road.
 08_052 Several neatly arranged buildings with trees surrounding them and connecting roads in between is spotted.
-08_052 
-08_052
+08_052 Buildings surrounded by trees were spotted with roads running inbetween them.
+08_052 Roads runs inbetween the buildings surrounded by trees.
 08_053 There are some buildings surrounded by trees located parallely.
 08_053 There are some buildings covered fully with trees located nearby to each other.
 08_053 A small road several buildings with coconut trees surrounding them and a farmland adjacent to it is spotted.
-08_053
-08_053
+08_053 Buildings with trees surrounding them are located parallely near a farmlands.
+08_053 Farmlands were spotted near buildings with trees surrounding them are located parallely.
 08_054 There are some buildings surrounded by trees located parallely.
 08_054 There are some buildings covered fully with trees located nearby to each other.
 08_054 A small road and several buildings with coconut trees surrounding them and a farmland adjacent to it is spotted.
-08_054
-08_054
+08_054 Buildings with trees surrounding them are located parallely near a farmlands.
+08_054 Farmlands were spotted near buildings with trees surrounding them are located parallely 
 08_055 There are some buildings surrounded by trees in a four way road.
 08_055 There is a road passing through area which has lots of trees grown covering some buildings.
 08_055 A dense tree cover with buildings scattered and connecting roads in between is being spotted.
-08_055
-08_055
+08_055 Buildings surrounded by trees were spotted with roads running inbetween them.
+08_055 Roads runs inbetween the buildings surrounded by trees.
 08_056 There are some buildings surrounded by trees in a four way road.
 08_056 There is a road passing through area which has lots of trees grown covering some buildings. 
 08_056 Large number of trees are grown with buildings and connecting roads on either side of a main road.
-08_056
-08_056
+08_056 Roads runs inbetween the buildings surrounded by trees.
+08_056 Buildings surrounded by trees were spotted with roads running inbetween them.
 08_057 There are some buildings and trees near a playground.
 08_057 There is an institution present at the ends of playground.
 08_057 There is a huge building with trees at some places near a playground.
-08_057
-08_057
+08_057 A playground is located infront of large buildings with trees grown at some places.
+08_057 Large buildings were located along with some trees and playground.
 08_058 There are some buildings surrounded by trees on either side of the roads.
 08_058 There is a road passing through area which has lots of trees grown covering some buildings.
-08_058 buildings surrounded by trees are present on either side of the road.
-08_058
-08_058
+08_058 Buildings surrounded by trees are present on either side of the road.
+08_058 Buildings with trees surrounding them are located parallely near a three-way junction.
+08_058 Buildings with trees surrounding them are located parallely near a three-way junction.
 08_059 There is a triangle shaped building and trees near a playground.
 08_059 There is an institution present at the ends of playground.
 08_059 There is a triangle shaped building with trees at some places near a playground.
-08_059
-08_059
+08_059 A playground is located infront of large buildings with trees grown at some places.
+08_059 Large buildings were located along with some trees and playground.
 08_060 There are some buildings surrounded by trees.
 08_060 Trees covers some buildings which are present at the ends of playground.
 08_060 Large number of buildings surrounded by trees, a barren land and a farmland is present.
-08_060
-08_060
+08_060 Buildings with trees surrounding them are located parallely near a farmlands.
+08_060 Farmlands were spotted near buildings with trees surrounding them are located parallely 
 08_061 There are some buildings surrounded by trees near a three way junction.
 08_061 There is a road passing through area which has lots of trees grown covering some buildings.
 08_061 A barren land and a dense tree cover with buildings scattered on it are present near a three-way junction road.
