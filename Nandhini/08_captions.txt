@@ -398,160 +398,160 @@
 08_080 Few buildings and trees are present near cultivated farmlands.
 08_080 Buildings surrounded by trees were spotted near the farmlands.
 08_080 Farmlands neighbours some large buildings surrounded by trees.
-08_081 There is a building surrounded by trees near the farm land.
+08_081 There is a building surrounded by trees near the farmland.
 08_081 There are cultivated agricultural lands nearby the building and some trees are grown near it.
 08_081 Few buildings and trees are present near cultivated farmlands.
-08_081
-08_081
+08_081 Buildings surrounded by trees were spotted near the farmlands.
+08_081 A large building surrounded by trees is located near the farmland.
 08_082 There are some buildings and trees. 
 08_082 Some buildings and trees are seen nearer to each other.
 08_082 A small road, and few buildings and trees are present.
-08_082
-08_082
-08_083 There is a building and some trees. 
+08_082 Some buildings and trees are spotted.
+08_082 Greeneries were grown around the buildings.
+08_083 There is a building and some trees surrounding it. 
 08_083 There are some buildings on one side of the road.
 08_083 A small road, and few buildings and trees are present.
-08_083
-08_083
+08_083 Buildings and trees were present on one side of the road.
+08_083 Buildings and trees are spotted nearby a small road.
 08_084 There is a building and some trees on one side of the road.
 08_084 There are some buildings on one side of the road.
 08_084 A small road, few buildings and trees and a barren land is present.
-08_084
-08_084
+08_084 Buildings and trees were present on one side of a road and a barren land on the other side. 
+08_084 A road exist inbetween a land containing a buildings and trees and a barren land. 
 08_085 There are some huge buildings on one side of the road while the other side comprises of vacant lands.
 08_085 There are some buildings and trees on one side of the road.
 08_085 A small road with buildings and trees on one side and a barren land on the other side is present.
-08_085
-08_085
+08_085 A road exist inbetween a land containing a buildings and trees and a barren land. 
+08_085 Buildings and trees were present on one side of a road and a barren land on the other side. 
 08_086 There are some buidlings with red coloured rooftop surrounded by some trees.
 08_086 There are some buildings and trees on one side of the road.
 08_086 A small road with buildings and trees on one side and a barren land on the other side is present.
-08_086
-08_086
+08_086 Buildings and trees were present on one side of a road and a barren land on the other side. 
+08_086 A road exist inbetween a land containing a buildings and trees and a barren land. 
 08_087 There are some buildings and trees.
 08_087 There are some buidlings with red coloured rooftop surrounded by some trees.
 08_087 Few buildings, trees and cultivated farmlands are present.
-08_087
-08_087
+08_087 Greeneries were present around the buildings.
+08_087 Green trees were spotted around the buildings.
 08_088 There are some residential houses surrounded by trees on either side of the roads.
 08_088 There are lot of smaller houses and trees on both the sides of roadways.
 08_088 Buildings, coconut trees, roads and a small canal is being spotted.
-08_088
-08_088
+08_088 Residential houses and coconut trees were spotted at the ends of the roads near a canal.
+08_088 Residential houses and coconut trees were spotted at the ends of the roads near a canal.
 08_089 There are some residential houses surrounded by trees on either side of the roads.
 08_089 There are lot of smaller houses and trees on both the sides of roadways.
 08_089 Buildings and coconut trees are present on either side of a small road.
-08_089
-08_089
+08_089 Residential houses and coconut trees were spotted on either side of a road.
+08_089 A small road runs inbetween the residential area having coconut trees and houses.
 08_090 Series of smaller buildings are present near the smaller road which joins the highways.
 08_090 There are some residential houses and trees near the highway.
 08_090 Residential houses with trees at some places and connecting roads in between are present at one side of a highway.
-08_090
-08_090
+08_090 Small road runs inbetween the residential area having trees and houses near a highway.
+08_090 Residential houses and trees were spotted at both the ends of the roads.
 08_091 There is a building near the farm land.
 08_091 There is a farmland and gardens nearby the buildings.
 08_091 There is a building near a huge farmland and garden.
-08_091
-08_091
-08_092 There is a building near the farm land.
+08_091 A large white building exist near a garden containing trees and a farmland.
+08_091 Farmlands and a garden was located near a white building.
+08_092 There is a building near the farmland and a garden.
 08_092 There are some trees,gardens,farmlands and a huge building present in that area.
 08_092 Several buildings are seen near a huge farmland and garden.
-08_092
-08_092
+08_092 Several buildings were located with garden at its sides and farmlands at its front side.
+08_092 Farmlands with green bushes were present infront of the buildings.
 08_093 There are farm lands infront of the building.
-08_093 There are farmalnds and some gardens nearby the buidling which has shed in its front side.
+08_093 There are farmlands and some gardens nearby the buidling which has shed in its front side.
 08_093 Several buildings are seen near a huge farmland and garden.
-08_093
-08_093
+08_093 Farmlands with green bushes were present infront of the buildings. 
+08_093 Buildings were located with farmlands at its front side.
 08_094 There are farm lands infront of the building.
 08_094 There are farmalnds and some gardens nearby the buidling which has shed in its front side.
 08_094 Several farmlands and trees are present infront of few buildings.
-08_094
-08_094
+08_094 Farmlands with green bushes were present infront of the buildings. 
+08_094 Buildings were located with farmlands at its front side.
 08_095 There are farm lands infront of the building.
 08_095 There is a huge building near the farmalnd and some trees are present near that area.
 08_095 Several farmlands and trees are present with few buildings nearby.
-08_095
-08_095
+08_095 Group of trees were grown inbetween the buidings was located near the farmland.
+08_095 Farmlands were spotted infront of the buildings having trees inbetween.
 08_096 There are farm lands infront of the building.
 08_096 An institution with red coloured rooftop is present near the farmlands and trees.
 08_096 Several farmlands and trees are present with few buildings nearby and a small road to the buildings is seen.
-08_096
-08_096
+08_096 Group of trees were grown inbetween the buidings was located near the farmland.
+08_096 Farmlands were spotted infront of the buildings having trees inbetween.
 08_097 There are farm lands infront of the building.
 08_097 An institution with red coloured rooftop is present near the farmlands and trees. 
 08_097 Aerial view of several farmlands and trees are present with few buildings nearby and a small road to the buildings is seen.
-08_097
-08_097
+08_097 Farmlands were spotted infront of the buildings having trees inbetween.
+08_097 Group of trees were grown inbetween the buidings was located near the farmland.
 08_098 There are farm lands infront of the building.
 08_098 An institution with red coloured rooftop is present near the farmlands and trees. 
 08_098 Aerial view of several farmlands and trees are present with few buildings nearby and a small road to the buildings is seen.
-08_098
-08_098
+08_098 Group of trees were grown inbetween and at the sides of the buidings was spotted near the farmland.
+08_098 Farmlands were spotted infront of the buildings having trees inbetween.
 08_099 There are farm lands infront of the building.
 08_099 An institution with red coloured rooftop is present near the farmlands and trees.
 08_099 Aerial view of several farmlands and trees are present with few buildings nearby and a small road to the buildings is seen.
-08_099
-08_099
+08_099 Farmlands were spotted infront of the buildings having trees inbetween.
+08_099 Group of trees were grown inbetween and at the sides of the buidings was spotted near the farmland.
 08_100 There are some buildings and trees near the farm land.
 08_100 There are some residential buildings and some smaller houses in the midst of trees and farmlands.
 08_100 Buildings, farmlands and few trees are present with interconnecting connecting mud roads.
-08_100
-08_100
+08_100 Buildings and trees were spotted near the farmlands.
+08_100 Farmlands were located near a land containing buildings and trees.
 08_101 There are some residential houses and trees on either side of the roads near the highway. 
 08_101 Series of buildings of similar type are located nearer to each other present near the small road.
 08_101 A residential area with numerous houses and few trees and small roads are seen at one side of the highway.
-08_101
-08_101
+08_101 Small road runs inbetween the residential area having trees and houses near a highway.
+08_101 Residential houses with trees at some places and connecting roads in between are present at one side of a highway.
 08_102 There are some buildings and trees. 
 08_102 There is a small road passing through the area which has some buildings and lot of trees.
 08_102 Few buildings, trees and farmlands are seen with few mud roads in between.
-08_102
-08_102
+08_102 Buildings and trees were spotted on one side of the road.
+08_102 Greeneries were present around the buildings.
 08_103 There are some buildings and trees. 
 08_103 There is a small road passing through the area which has some buildings and lot of trees.
 08_103 A dense thick tree cover alongb with few buildings and farmlands is present with a small road nearby.
-08_103
-08_103
+08_103 Buildings and trees were present on one side of a road and a barren land on the other side. 
+08_103 A road exist inbetween a land containing a buildings and trees and a barren land. 
 08_104 There are some buildings and trees near the green house. 
 08_104 There are some greenhouse present near the huge building and it is covered with some trees.
 08_104 Aerial view of buildings, trees and farmlands are seen.
-08_104
-08_104
+08_104 Buildings, trees, farmlands and greenhouses are present. 
+08_104 Greenhouses were surrounded by buildings, trees and farmlands.
 08_105 There are some buildings and trees near the farm land.
 08_105 There is a farmland present near the huge building which has red coloured rooftop.
 08_105 Aerial view of buildings, trees and cultivated farmlands are seen.
-08_105
-08_105
+08_105 Buildings, trees, farmlands and greenhouses are present.  
+08_105 Farmlands and trees were present near the buildings.
 08_106 There are some buildings and trees near the farm land.
 08_106 There is a farmland present near the huge building which has red coloured rooftop.
 08_106 Aerial view of buildings, trees and cultivated farmlands are seen.
-08_106
-08_106
+08_106 Group of trees were grown in the midst of the building and farmlands at its front.
+08_106 Farmlands and trees were present near a huge building.
 08_107 There are some buildings and trees near the farm land.
 08_107 There is a farmland present near the huge building which has red coloured rooftop. 
 08_107 Aerial view of buildings, trees and cultivated farmlands are seen.
-08_107
-08_107
+08_107 Farmlands and trees were present near a huge building.
+08_107 Group of trees were grown in the midst of the building and farmlands at its front.
 08_108 There are some buildings and trees.
 08_108 There is a shed located near the area which is covered with trees.
 08_108 Few buildings and farmlands with trees are seen.
-08_108
-08_108
+08_108 Small green trees were grown on a grassland, infront of some buildings.
+08_108 Several buildings were located near a grassland containing small green trees.
 08_109 There are some buildings and trees near the green house.
 08_109 There is a building near to the greenhouse which is present near the farmland.
 08_109 Few buildings and farmlands with trees are situated near a greenhouse.
-08_109
-08_109
+08_109 Small green trees and a garden containing greenhouse is present near a building.
+08_109 Large buildings were located near a garden containing greenhouse and small trees were grown at its front.
 08_110 There are some residential houses and trees near the farm land.
 08_110 There is a farmland and lot of trees on one end of the road.
 08_110 Buildings and a bunch of trees are seen near an irrigated farmland with a small road nearby.
-08_110
-08_110
+08_110 Residential houses, trees and farmlands were present on one side of a road.
+08_110 Residential houses, trees and farmlands were spotted on one end of a road.
 08_111 There are some residential houses and trees on either side of the road.
 08_111 One side of the roads consists of lot of smaller buildings while the other side consists of some trees and farmlands.
 08_111 Buildings and a bunch of trees are seen near an irrigated farmland at one side of the road with buildings at other side.
-08_111
+08_111 
 08_111
 08_112 There are some residential houses and trees near the highway.
 08_112 There are several small building located nearby to each other present on one end of the road.
