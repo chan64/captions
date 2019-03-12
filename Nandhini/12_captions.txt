@@ -345,49 +345,49 @@
 12_069 A canal lined with bushes is present near a land containing buildings and trees.
 12_070 A canal is located near a land containing some small buildings and trees.
 12_070 There are some farmlands present near the canal water.
-12_070
-12_070
-12_070
+12_070 Farmlands, small buildings and trees were present on one side of a canal.
+12_070 A canal lined with bushes is located near an area having farmlands, houses and trees.
+12_070 Farmlands, small buildings and trees were spotted near a canal.
 12_071 There are some buidings,trees and farm lands near the canal.
 12_071 There are some farmlands present near the canal water.
-12_071
-12_071
-12_071
+12_071 Farmlands, small buildings and trees were spotted near a canal.
+12_071 A canal lined with bushes is located near an area having farmlands, houses and trees. 
+12_071 Farmlands, small buildings and trees were present on one side of a canal.
 12_072 There are some buidings,trees and farm lands near the canal.
 12_072 There are some farmlands present near the canal water.
-12_072
-12_072
-12_072
+12_072 Farmlands and trees were present on one side of a canal.
+12_072 A canal lined with bushes is located near farmlands along with trees. 
+12_072 Farmlands and trees were spotted near a canal.
 12_073 There are some buidings,trees and farm lands near the canal.
 12_073 There is small road situated near to the canal and some trees are residents are also present.
-12_073
-12_073
-12_073
+12_073 Farmlands, small buildings and trees were spotted near a canal.
+12_073 Coconut trees and small buildings were present near a canal.
+12_073 Farmlands, small buildings and trees were present on one side of a canal.
 12_074 There are some buidings,trees near the canal.
 12_074 There is small road situated near to the canal and some trees are residents are also present.
-12_074
-12_074
-12_074
+12_074 Small buildings and trees were present on one side of a canal. 
+12_074 A canal lined with bushes is spotted with small buildings, trees and a small road.
+12_074 A small road, a canal, trees and small buildings were spotted.
 12_075 There is a canal located near a land containing trees.
 12_075 There is small road situated near to the canal.
-12_075
-12_075
-12_075
+12_075 A road runs near a grassland having trees was present near a canal.
+12_075 A canal lined with bushes is located near a grassland containing trees.
+12_075 Trees were neatly grown in a grassland, which is located near a canal.
 12_076 There is a canal located near a land containing trees.
 12_076 There is small road situated near to the canal.
-12_076
-12_076
-12_076
+12_076 Trees were neatly grown in a grassland, which is located near a canal.
+12_076 A canal lined with bushes is located near a grassland containing trees.
+12_076 A road runs near a grassland having trees, which was present near a canal.
 12_077 There is a canal located near a land containing roads and trees.
-12_077 There is small road located near the canal whic is surrounded fully by trees.
-12_077
-12_077
-12_077
+12_077 There is small road located near the canal which is surrounded fully by trees.
+12_077 A road runs near a grassland having trees, which was present near a canal.
+12_077 Group of trees were neatly grown in a grassland, which is located near a canal.
+12_077 A road, a canal, a well and grouptrees were spotted.
 12_078 There is a canal located near a land containing roads and trees.
 12_078 There is small road located near the canal whic is surrounded fully by trees.
-12_078
-12_078
-12_078
+12_078 A road runs near a grassland having trees, which was present near a canal.
+12_078 Group of trees were neatly grown in a grassland, which is located near a canal.
+12_078 A road, a canal, a well and grouptrees were spotted.
 12_079 There is a canal located near some buildings and trees.
 12_079 The canal water flows near the area which is fully covered with trees and plants.
 12_079
