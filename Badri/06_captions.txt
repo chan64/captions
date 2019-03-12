@@ -229,14 +229,14 @@
 06_039 There is a highway along vacant lands
 06_039 Green patches of land are visible along with roads connecting to a wide highway
 06_039 Green grasses and bushes exist on either side of a highway.
-06_039
-06_039
+06_039 There is a neat and clean highway.
+06_039 There are some vacant lands present near the highways.
 
 06_040 There is a neat highway with smoother roads
 06_040 There are buildings, trees and farmlands neighbouring a highway.
 06_040 Buildings and trees exist on either side of a highway.
-06_040
-06_040
+06_040 There is a neat and clean highway.
+06_040 There are some vacant lands present near the highways.
 
 06_041 There is a neat highway nearer to houses
 06_041 A wide highway with a median is surrounded by trees, roads, farmlands and buildings.
