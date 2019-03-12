@@ -1,13 +1,13 @@
-12_001 Water is stored in a tank.
+12_001 A pond is spotted near a road along with some trees. 
 12_001 It is a pond located nearer to the roads.
 12_001 Roads run close to a water bath.
-12_001 Water tank is located alongside the roads.
-12_001 Green trees exist near the water tank.
+12_001 Roads runs near the pond along with green bushes.
+12_001 Green trees and roads exist near the pond.
 12_002 The rectangle shaped pond is found nearer to the roads.
-12_002 Water is stored in a tank.
+12_002 Water is stored in a rectangular shaped pond.
 12_002 A road borders a water bath having greenish water. 
-12_002 Water is stored in a rectangular sized tank.
-12_002 Greeneries exist near the water tank.
+12_002 Several roads, trees and a pond is spotted.
+12_002 A pond is spotted near a road along with some trees. 
 12_003 There are some green bushes and farm lands alongside the river.
 12_003 The coast of river is surrounded by trees.
 12_003 A river runs close to a land having farmlands and dense bush cover.
@@ -68,17 +68,17 @@
 12_014 There are a number of buldings and trees lying close to a canal containing dark green water.
 12_014 A canal is located near the residential houses surrounded by coconut trees.
 12_014 A road seperates the residential area and the canal.
-12_015 There are some buidings and trees to the right side of the canal. 
+12_015 There are some buidings and trees near the canal. 
 12_015 Lots of smaller buildings are present near to the water body.
 12_015 A road is present close to a tree grove and buildings lying close to a dark green canal.
 12_015 A canal is located near the residential houses surrounded by coconut trees.
 12_015 A road seperates the residential area and the canal.
-12_016 There are some buidings and trees to the right side of the canal.
+12_016 There are some buidings and trees near the canal.
 12_016 There is a small road near to the canal.
 12_016 There are roads running parallely on either sides of a canal containing dark green water.
 12_016 A canal is located with bushes and roads on its either sides.
 12_016 Greeneries were present on either side of the canal.
-12_017 There are some bushes on the right side of the canal.
+12_017 There are some bushes near the canal.
 12_017 Trees are dense on the ends of river.
 12_017 There is a dense tree cover lying close to a road running parallel to a canal.
 12_017 A dense tree cover were present near the canal.
@@ -93,7 +93,7 @@
 12_019 There are trees surrounding buildings present about the canal containing dark green water.
 12_019 A canal lined up with bushes is present near the residential area.
 12_019 Farmlands and residential area are present near the canal.
-12_020 There are some buidings,trees and farm lands to the left side of the canal.
+12_020 There are some buidings,trees and farm lands near the canal.
 12_020 It is a river contaminated and flowing at low speed.  
 12_020 There is a farmlands, some buildings and trees close to a canal containing dark green water.
 12_020 Farmlands and residential area are present near the canal.
@@ -103,7 +103,7 @@
 12_021 There are groups of trees, buildings and a farmland close to a canal.
 12_021 Canal is located near residential houses, trees and farmlands.
 12_021 Coconut trees, houses and farmlands were present near the canal.
-12_022 There are some buidings,trees and farm lands to the right side of the canal.
+12_022 There are some buidings,trees and farm lands near the canal.
 12_022 There are some farmlands near the side end of the river.
 12_022 A canal lined with bushes is present close to a farmland and buildings.
 12_022 Coconut trees, houses and farmlands were present near the canal.
@@ -364,7 +364,7 @@
 12_073 Coconut trees and small buildings were present near a canal.
 12_073 Farmlands, small buildings and trees were present on one side of a canal.
 12_074 There are some buidings,trees near the canal.
-12_074 There is small road situated near to the canal and some trees are residents are also present.
+12_074 There is small road situated near to the canal and some trees and residents are also present.
 12_074 Small buildings and trees were present on one side of a canal. 
 12_074 A canal lined with bushes is spotted with small buildings, trees and a small road.
 12_074 A small road, a canal, trees and small buildings were spotted.
@@ -390,111 +390,111 @@
 12_078 A road, a canal, a well and grouptrees were spotted.
 12_079 There is a canal located near some buildings and trees.
 12_079 The canal water flows near the area which is fully covered with trees and plants.
-12_079
-12_079
-12_079
+12_079 There is small road situated near  the canal and some trees and residents are also present.
+12_079 A canal lined with bushes is spotted with buildings, roads and trees at its sides.
+12_079 A small road, a canal, small houses and trees were spotted.
 12_080 There is a canal located near some buildings and trees.
 12_080 The sun rays are seen at one end of the canal water.
-12_080
-12_080
-12_080
+12_080 A canal lined with bushes is located near a residential area.
+12_080 Houses and trees were present on one side of a canal which has bushes at its either sides.
+12_080 Residential houses and trees were spotted near a canal.
 12_081 There is a canal located near some buildings and trees.
 12_081 It is a area consisting of lots of residents and trees near the canal.
-12_081
-12_081
-12_081
+12_081 Residential houses and trees were spotted near a canal.
+12_081 Houses and trees were present on one side of a canal which has bushes at its either sides.
+12_081 Residential houses and trees were located on one side of a canal.
 12_082 There is a canal located near some buildings and trees.
 12_082 Some coloured building and trees are present near the canal.
-12_082
-12_082
-12_082
+12_082 A road runs inbetween the canal and residential area.
+12_082 A small road is located which has a canal and residential area at its sides.
+12_082 A canal lined with bushes is located near a residential area.
 12_083 There is a canal located near some buildings and trees.
 12_083 Some coloured buildings and trees are present near the canal.
-12_083
-12_083
-12_083
+12_083 A canal lined with bushes is located near a residential area.
+12_083 A road runs inbetween the canal and residential area.
+12_083 A small road is located which has a canal and residential area at its sides.
 12_084 There is a canal located near the barren land and some buildings and trees.
 12_084 There are vacant lands near the canal.
-12_084
-12_084
-12_084
+12_084 A barren land, a canal, small houses and trees were spotted.
+12_084 A canal is located which has bushes, roads, houses and trees on its either sides.
+12_084 A canal, small roads, a barren land, trees and small houses were spotted.
 12_085 There is a canal located near the barren land and some buildings and trees.
 12_085 There are vacant lands near the canal.
-12_085
-12_085
-12_085
-12_086 Water is stored in a tank and there are some solar panels beside it.
+12_085 A canal lined with bushed has residential houses, trees and a barren lans on its sides.
+12_085 A barren land, small houses and trees were present on one side of a canal.
+12_085 A barren land, small houses and trees were present on one side of a canal.
+12_086  A pond is located with some solar panels beside it.
 12_086 Solar panels are seen at the ends of rectangular pond.
-12_086
-12_086
-12_086
-12_087 Water is stored in a tank and there are some trees beside it.
+12_086 Solar panels, a pond,roads and green trees were spotted.
+12_086 A road runs inbetween the pond and solar panel field.
+12_086 Water is stored in a rectangular shaped pond near a solar panel field. 
+12_087 A pond is located with some trees beside it.
 12_087 Roads and empty lands are seen at the ends of rectangular pond.
-12_087
-12_087
-12_087
-12_088 Water is stored in a tank near a green land conatining trees and bushes.
+12_087 Several roads, trees and a pond is spotted.
+12_087 Water is stored in a rectangular shaped pond. 
+12_087 A pond is spotted near a road along with some trees. 
+12_088 A pond is located near a green land conatining trees and bushes.
 12_088 It is a rectangular shaped pond with trees grown at its one side.
-12_088
-12_088
-12_088
+12_088 A pond is spotted near a grassland. 
+12_088 Grassland with some bushes are spotted near a water tank.
+12_088 Water is stored in a rectangular shaped pond. 
 12_089 There is a river.
 12_089 Some waves are seen in the river as it flows.
-12_089
-12_089
-12_089
+12_089 A river is spotted.
+12_089 There exist a river.
+12_089 A river is present.
 12_090 There are some green bushes near a river.
 12_090 Some waves are seen in the river as it flows.
-12_090
-12_090
-12_090
+12_090 The coast of the river is spotted with green bushes.
+12_090 Green bushes were grown at the ends of the river.
+12_090 A river is spotted with green bushes at its ends.
 12_091 There are some green bushes and farm land near a river.
 12_091 The coast of river consists of lot of trees.
-12_091
-12_091
-12_091
+12_091 A river is located which is adjacent to green bushes and farmlands.
+12_091 Green bushes exist inbetween the river and farmlands. 
+12_091 A river is located with green bushes and farmlands at its coast.
 12_092 There are some solar panel arranged near a river.
 12_092 Road and some grass lands are present on one end of the river.
-12_092
-12_092
-12_092
+12_092 A river runs inbetween a grassland and a solar panel field. 
+12_092 Solar farm is present on one side of a river and a grassland on the other side.
+12_092 A road runs over a grassland which is present on one side of a river.
 12_093 Solar panels were arranged on four sides of a muddy pond.
 12_093 Muddy water is deposited in the ground area.
-12_093
-12_093
-12_093
+12_093 A muddy water pond is spotted along with solar panels.
+12_093 A triangular shaped muddy water pond is spotted along with solar panels.
+12_093 Solar panels were arranged on the corners of a muddy water pond.
 12_094 Solar panels were arranged on one side of the river.
 12_094 Road and some grass lands are present on one end of the river.
-12_094
-12_094
-12_094
+12_094 A river runs inbetween a grassland and a solar panel field.
+12_094 Solar farm is present on one side of a river and a grassland on the other side .
+12_094 A river runs inbetween a grassland and a solar panel field.
 12_095 A pond with geenish foams exist alongside the roaad.
 12_095 There is a dirty water that appears in dark green colour. 
-12_095
-12_095
-12_095
+12_095 Trees and bushes were grown at the ends of a pond, present near a road.
+12_095 A pond is bordered with trees and bushes which has greenish foam in it. 
+12_095 A pond is located with greeneries grown at its edges near a road..
 12_096 Two ponds exist on either side of the highway.
 12_096 Green coloured water is present in ponds which are seperated by the highways.
-12_096
-12_096
-12_096
-12_097 Trees were surrounded aroun a pond with greenish foams.
+12_096 Small ponds were spotted on either sides of a highway.
+12_096 Small ponds exist on either sides of a highway.
+12_096 Highways are located with small ponds on its either sides.
+12_097 Trees were surrounds a pond which has greenish foam.
 12_097 There is a dirty water that appears in dark green colour. 
-12_097
-12_097
-12_097
+12_097 Trees and bushes were grown at the ends of a pond containing greenish foam.
+12_097 A pond is bordered with trees and bushes which has greenish foam in it.
+12_097 A pond is located with greeneries grown at its edges.
 12_098 Small pond exist in between the buildings.
 12_098 Some algae are deposited in the stagnated water surrounded by the trees.
-12_098
-12_098
-12_098
+12_098 A small pond is located near a grassland along with trees and buildings.
+12_098 Buildings and green trees are present around a small pond.
+12_098 A small pond is spotted with trees and buildings at its surroundings.
 12_099 Small pond exist in between the buildings.
 12_099 Some algae are deposited in the stagnated water surrounded by the trees.
-12_099
-12_099
-12_099
+12_099 Buildings and green trees are present around a small pond.
+12_099 A small pond is spotted with trees and buildings at its surroundings.
+12_099 A small pond is located near a grassland along with trees and buildings.
 12_100 There is a small pond near the highway.
 12_100 There is a rectangle shaped pond located near the highways.
-12_100
-12_100
-12_100
+12_100 A small pond is spotted on one side of a highway.
+12_100 Highway roads are spotted with a small pond.
+12_100 A small pond is present near a highway.
