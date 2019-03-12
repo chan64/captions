@@ -20,49 +20,49 @@
 04_004 A large number of trees are scattered over with buildings nearby.
 04_004 There are two ways to crossby the forest.
 04_004 The area consists of green lands with some trees grown in it.
-04_004 
+04_004 The growth of bushes are dense in that area.
 
 04_005 An industry is identified surrounded by forest areas.
 04_005 An open industrial area exists in the middle of a forest. 
 04_005 There are less number of trees surrounded by the industry.
 04_005 The area consists of green lands with some trees grown in it.
-04_005
+04_005 There are large number of trees which are grown near the industry.
 
 04_006 A mix up of trees and plains in the forests.
 04_006 Group of trees are present on the plains having sandy soil.
 04_006 This region is surrounded by the densed forests.
 04_006 The area has lots of trees grwon in it.
-04_006 
+04_006 There are large numeber of trees.
 
 04_007 The presence of barren land on one side of the forest.
 04_007 A group of uniformly spaced plants exist adjacent to a dense forest area.
 04_007 An irregular path which divides the forests and the farmland.
 04_007 The area consists of green lands with some trees grown in it.
-04_007 
+04_007 Trees are seen in large number near the green vacant lands
 
 04_008 The combination of barren land and trees in dense forest.
 04_008 A plain is present in the middle of a forest area. 
 04_008 An irregular path which divides the forests and the farmland.
 04_008 The area consists of green lands with some trees grown in it.
-04_008 
+04_008 There are some clean green lands present.
 
 04_009 The top view of areas covered by the forests.
 04_009 Trees are scattered around farmlands and buildings.
 04_009 There are some agricultural fields surrounded by the forests.
 04_009 That location consist of trees,farmlands and some residents.
-04_009 
+04_009 The area has mix up of Agricultural lands,trees and Residents.
 
 04_010 Aerial view of area where lot of trees are grown.
 04_010 Trees are scattered around farmlands and buildings.
 04_010 Half of the forests are occupied by the agricultural fields.
 04_010 That location consist of trees,farmlands and some residents.
-04_010 
+04_010 Aerial view of a city with mix up of Agricultural lands,trees and Residents.
 
 04_011 Roads are constructed inbetween the dense areas.
 04_011 There are trees densely spread over buildings.
 04_011 Roads are well developed inbetween the forests.
 04_011 There are roads which are covered fuly with trees on both sides.
-04_011 
+04_011 Roads are situated in the area which is covered fully with trees.
 
 04_012 A roundtana exists in the middle of a forest.
 04_012 A single road all the way through the forests leads to the roundtana.
@@ -74,25 +74,25 @@
 04_013 Roads, plains and buildings exists inbetween densely crowded trees.
 04_013 The houses are situated near to the roads.
 04_013 There are roads which are covered fuly with trees on both sides.
-04_013 
+04_013 Roads are situated in the area which is covered fully with trees.
 
 04_014 Lots of trees are grown in a particular area where roads are also constructed.
 04_014 Roads run inbetween group of trees and buildings.
 04_014 Groups of houses are located in some particular place of the forests. 
 04_014 There are roads which are covered fuly with trees on both sides.
-04_014 
+04_014 Roads are situated in the area which is covered fully with trees.
 
 04_015 A single way road and some apartments are present in the middle of dense region.
 04_015 A thick road passes with trees and buildings on either side.
 04_015 An industry is located inbetween the forests.
 04_015 There are roads which are covered fuly with trees on both sides.
-04_015 
+04_015 Roads are situated in the area which is covered fully with trees.
 
 04_016 Aerial view of area where lot of trees are grown.
 04_016 Trees are scattered over farmlands and buildings.
 04_016 Half of he forests sites are occupied by the farmlands.
 04_016 The area has some farmlands,trees and some buildings present.
-04_016 
+04_016 There are several trees,farmlands and some small buidlings in that location.
 
 04_017 There are some industries surrounded by large number of trees.
 04_017 A road passes with forests on either sides.
@@ -110,19 +110,19 @@
 04_019 A small number of buildings and roads exists inbetween dense tree covers.
 04_019 There are many industries located in this region.
 04_019 The trees are grown in large numbers near the roads.
-04_019
+04_019 The roads are present near the area consisting of trees.
 
 04_020 There are couple of roads laid inbetween the forest areas.
 04_020 A number of buildings are present with trees densely scattered around.
 04_020 A single road on the way to the forests diverges in to two.
 04_020 There are roads which are covered fuly with trees on both sides.
-04_020 
+04_020 The roads are present near the area consisting of trees.
 
 04_021 Several smaller roads are constructed inbetween the green area.
 04_021 There are arterial streets connected main roads crowded with tree cover.
 04_021 Groups of houses are located in some particular place of the forests.
 04_021 There are roads which are covered fuly with trees on both sides.
-04_021 
+04_021 The roads are present near the area consisting of trees.
 
 04_022 There is area near highways with very large number of trees grown.
 04_022 A dense tree cover exists adjacent to a two-lane highway.
@@ -140,7 +140,7 @@
 04_024 No houses or apartments are present inside the dense forests.
 04_024 The area is covered with trees.
 04_024 The area near roads are covered fully with trees.
-04_024
+04_024 The area is covered with trees.
 
 04_025 Lots of trees are grown on both the sides of the road.
 04_025 There are some buildings and roads passing between thick tree cover.
@@ -158,7 +158,7 @@
 04_027 Amidst of thick tree cover a playground and buildings are spotted.
 04_027 Apartments are situated far away from the indudstries.
 04_027 There are lands in which large number of trees are grown.
-04_027 
+04_027 There are small roads coverd fully with trees.
 
 04_028 There is a shorter path in between the forest.
 04_028 Half of the region is covered by the densed forests. 
@@ -170,31 +170,31 @@
 04_029 A playground and few buildings are seen amidst of thick tree cover beside a road.
 04_029 There are many industries located in this region. 
 04_029 The area is covered with trees.
-04_029 
+04_029 There are small roads coverd fully with trees.
 
 04_030 There is a shorter path in between the forest.
 04_030 A small path is spotted with forest on one side and few farmlands on other side.
 04_030 The path between the forests are not well developed.
 04_030 The area has some vacant lands and several trees.
-04_030 
+04_030 The area has some clean green grounds nearby which lots of trees are grown.
 
 04_031 The presence of barren lands in green area.
 04_031 Few farmlands with certain number of trees are seen.
 04_031 very less number of trees are found in this region.
 04_031 There are some barren lands present in that area.
-04_031 
+04_031 There are some dry lands in that area.
 
 04_032 The presence of barren lands in green area.
 04_032 Several farmlands with trees are present
 04_032 There is not a regular path in between the forests.  
 04_032 There are some barren lands present in that area.
-04_032 
+04_032 There are some dry lands in that area. 
 
 04_033 A large area of plain lands where trees are grown in large numbers.
 04_033 Two farmlands in which more trees are grown.
 04_033 Many agricultural fields are situated inside the forests. 
 04_033 There are some barren lands present in that area.
-04_033 
+04_033 There are some dry lands in that area.
 
 04_034 Aerial view of a city with mix up of Agricultural lands,trees and Residents.
 04_034 Many residents are surrounded by trees and farmlands.
@@ -302,55 +302,55 @@
 04_051 A small number of solar panels border a thick cover of trees.
 04_051 There are lots of trees grown near the solar panels.
 04_051 There are some barren lands located near the farmlands.
-04_051 
+04_051 The area has large number of trees.
 
 04_052 The large number of trees are grown and solar panels are installed near them.
 04_052 A solar panel field neighbours a densely crowded tree cover.
 04_052 There are large number of trees present near the solar panels.
-04_052 
-04_052 
+04_052 There are some vacant lands and lots of trees grown.
+04_052 The area has large number of trees. 
 
 04_053 A mere forest area with large number of trees and some vacant lands.
 04_053 A large of densely placed trees are present on the plains
 04_053 The area is covered fully with trees.
-04_053 
-04_053 
+04_053 The area has large number of trees.
+04_053 There are some vacant lands and lots of trees grown. 
 
 04_054 One side of image is filled with trees while other side contains barren lands.
 04_054 A thick tree cover is present next to a neglected land.
 04_054 The area consists of some vacant lands and large number of trees.
-04_054 
-04_054 
+04_054 The area has large number of trees.
+04_054 There are some vacant lands and lots of trees grown.
 
 04_055 The aerial view of barren lands where deforestation have been done.
 04_055 A mud pathway runs between poorly maintained lands.
 04_055 There are several barren lands present in that location.
-04_055 
-04_055 
+04_055 The area has dry and vacant lands.
+04_055 There are some dry places in which trees are grown in smaller heights.
 
 04_056 Dense growth of trees in large number at one end and area similair to plains at other end
 04_056 A thick tree cover exists close to a properly maintained vegetation.
 04_056 There are large number of trees and some vacant lands.
-04_056 
-04_056
+04_056 The area has largen number of trees and some vacant lands.
+04_056 The forest area covers some vacant grounds and bunch of trees.
 
 04_057 The growth of trees are dense in that area.
 04_057 There is a thick tree cover close to a highway and solar panels. 
 04_057 The area consists of large number of trees grown.
-04_057 
-04_057 
+04_057 Lots of trees are grown in continuous manner.
+04_057 The forest area consists of large number of trees.
 
 04_058 The forest area where trees have been cut down.
 04_058 There exists a forest with lot of bushes.
 04_058 Some barren lands are present near the trees and bushes.
 04_058 There are some barren lands located near the farmlands.
-04_058 
+04_058 That area has some dry lands present near the farmlands.
 
 04_059 The growth of trees which are in smaller heights.
 04_059 There is a vegetation with a lot of bushes around neighbouring farmlands and trees.
 04_059 There are some barren lands present near the farmlands
 04_059 There are some barren lands located near the farmlands.
-04_059 
+04_059 That area has some dry lands present near the farmlands.
 
 04_060 A mixture of farmlands,trees and greenary.
 04_060 Closely spaced trees are lined within a set of farmlands.
