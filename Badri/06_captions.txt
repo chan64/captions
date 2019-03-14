@@ -241,26 +241,26 @@
 06_041 There is a neat highway nearer to houses
 06_041 A wide highway with a median is surrounded by trees, roads, farmlands and buildings.
 06_041 Small roads connects to the highways having trees and buildings at its sides.
-06_041
-06_041
+06_041 There are some dirty lands near the highways.
+06_041 The highways are bordered by some dry vacant grounds.
 
 06_042 There is a neat highway nearer to residential buildings
 06_042 A bus runs on a highway road having buildings and farmlands nearby.
 06_042 Small roads connects to the highways having trees and buildings at its sides.
-06_042
-06_042
+06_042 The highways are bordered by some dry vacant grounds.
+06_042 There are some greeneries located near the highways. 
 
 06_043 There is a neat highway nearer to residential buildings
 06_043 A bunch of trees sheltering buildings is present near a highway.
 06_043 Trees and buildings are present nearer to highways.
 06_043
-06_043
+06_043 The highways are bordered by some dry vacant grounds.
 
 06_044 There is a neat highway nearer to residential buildings
 06_044 A section with buildings and trees is close to a wide highway.
 06_044 Trees and buildings are present on one side of a highway.
 06_044
-06_044
+06_044 There are some residents present near the highways.
 
 06_045 There is a highway situated between the forests
 06_045 A highway road with a median lined with trees connecting to a small road is present in a dense forest region.
@@ -320,7 +320,7 @@
 06_054 A two lane highway lined with trees has trees, playground and buildings on either side.
 06_054 Highways are located with buildings and trees pn its either sides.
 06_054
-06_054
+06_054 There are some residents present near the highways.
 
 06_055 The area is covered fully with trees and roads
 06_055 A two lane highway connects to a road having trees in a patched land.
@@ -409,254 +409,256 @@
 06_069 Highways are captured in the midst of trees
 06_069 There is a garden and dense tree cover on either sides of a road.
 06_069 Gardens are present on one side of the highway.
-06_069 
-06_069 
+06_069 There are some gardens near the highways.
+06_069 It is clean and neat garden situated near the highways.
 
 06_070 Highways are captured in the midst of trees
 06_070 Empty parking lot and neatly cropped grass and trees are spread on either sides of a highway road.
 06_070 Small trees were present on either side of a highway.
-06_070 
+06_070 The highways are located near the area where trees are grown.
 06_070 
 
 06_071 Highways are captured in the midst of trees
 06_071 A dense tree cover and a neatly cropped grass land is present about a highway road.
 06_071 Highways are located with dense tree cover on its either sides.
 06_071 
-06_071 
+06_071 The highways are located near the area where trees are grown.
 
 06_072 Highways are captured in the midst of trees
 06_072 A dense tree cover over a number of buildings is present close to a isolated highway.
 06_072 Large number of trees were present alongside the highways.
-06_072 
+06_072 The highways are located near the area where trees are grown.
 06_072 
 
 06_073 Vacant grounds are spotted alongside the highways
 06_073 Dense tree area covering buildings is visible adjacent to a two lane highway.
 06_073 Highways are located inbetween the dense tree cover.
-06_073
-06_073
+06_073 Lots of trees are seen at the ends of highways.
+06_073 Trees are grown in large numbers at the side of highways.
 
 06_074 A roundtana is found in the mere end of the highways 
 06_074 An empty land with small buildings, a shed and a number of trees is visible on either sides of a road.
 06_074 Highways are surrounded by trees, small buildings and an empty land.
-06_074 
-06_074 
+06_074 Some empty lands are seen near the highways.
+06_074 There are some vacant lands and trees near the highways.
 
 06_075 A series of highways surrounded by trees
 06_075 A neatly cropped grass land and few trees and buildings are visible surrounding a highway junction.
 06_075 A three way highway jumction is located.
-06_075
-06_075
+06_075 There is a circular roundtana connecting several roads.
+06_075 Some empty lands are seen near the highways.
 
 06_076 Highways are captured in the midst of trees
 06_076 Two crossing highway roads are visible surrounded by trees and grass. 
 06_076 Highways are located with trees on its either sides.
-06_076 
-06_076 
+06_076 Some empty lands are seen near the highways.
+06_076 There are some dry lands near highways.
 
 06_077 Highways are captured in the midst of trees
 06_077 A number of houses with gardens, covered by trees are visible close to a highway road.
 06_077 Small buildings surrounded by trees are located near the highways.
-06_077 
-06_077 
+06_077 Highways are covered with trees.
+06_077 Some smaller buildings are seen covered by trees.
 
 06_078 Highways are captured in the midst of trees
 06_078 An empty parking lot and a house with garden is visible on sides of a highway road.
 06_078 Small buildings surrounded by trees are located near the highways.
-06_078 
-06_078 
+06_078 There are lot of trees around the highways.
+06_078 Lots of trees are present near the highways.
 
 06_079 Highways are present in the middle of greenery region	
 06_079 A grass land and an empty parking lot is present on the side of a highway.
 06_079 greeneries are present on either side of the highway.
-06_079 
-06_079 
+06_079 Lots of trees are present near the highways.
+06_079 The highways are covered by trees.
 
 06_080 Highways are present in the middle of greenery region	
 06_080 A neglected land and a neatly cropped grass and mud roads connect to a highway.
 06_080 Three roads connects to a highway, surrounded by trees.
-06_080 
-06_080 
+06_080 There are some solar panels in the green grounds.
+06_080 Some green grounds are located near the highways.
 
 06_081 Some vacant lands are there at the end of highways
 06_081 Empty lands exists along with trees and grass lands about a highway connecting to mud roads.
 06_081 Trees, grassy lands and empty lands surrounds the highway.
-06_081 
-06_081 
+06_081 Some green and dry lands are located near the highways.
+06_081 It is a highway surrounded by trees.
 
 06_082 There are some vacant lands alongside the highways
 06_082 A highway roads cross each other and are surrounded by empty lands and trees.
 06_082 Two highways are connected surrounded by vacant lands and trees.
-06_082 
-06_082 
+06_082 Several roads join each other.
+06_082 Some green grounds are located near the highways.
 
 06_083 Highways are laid in the midst of forest areas
 06_083 There exists empty lands and dense tree covers adjacent to a highway road.
 06_083 Trees, grassy lands and empty lands surrounds the highway.
-06_083 
-06_083 
+06_083 It is a highway surrounded by trees.
+06_083 Some vacant and empty dry lands are seen near the highways.
 
 06_084 There exist highways which has large amount of trees at its one end
 06_084 A thick cover envelops a number of buildings and grounds on either sides of a highway road.
 06_084 There are several links to the highway surrounded by buildings and trees.
-06_084 
-06_084 
+06_084 Some vacant and empty dry lands are seen near the highways.
+06_084 It is a highway covered by trees.
 
 06_085 The area is covered with large number of tress with highways at its end
 06_085 There is dense tree cover, playgrounds and buildings near a highway.
 06_085 Dense tree cover and buildings surrounds the highway.
-06_085 
-06_085 
+06_085 It is a highway covered by trees.
+06_085 Lots of trees are present near the highways.
 
 06_086 Highways are laid in the midst of forest areas
 06_086 Houses with garden and buildings are spotted in the thick cover of trees close to a highway road.
 06_086 Highways are located near the dense forest cover.
-06_086 
-06_086 
+06_086 Lots of trees are seen near the highways.
+06_086 The highways are surrounded by trees.
 
 06_087 There are roads covered with trees 
 06_087 There are houses with garden and empty lands neighbouring a highway road.
 06_087 Some small buildings surrounded by thick tree cover is located near the highway.
-06_087 
-06_087 
+06_087 Lots of trees are present near the highways.
+06_087 Some dry lands are seen near the highways.
 
 06_088 Trees are found at both the ends of highways
 06_088 Two highways cross each other and there are empty lands and bunch of trees close to a highway road.
 06_088 Trees, grassy lands and empty lands surrounds the highway.
-06_088 
-06_088 
+06_088 Some dry and green lands are seen near the highways.
+06_088 It is a highway with some lands present in one side of it.
 
 06_089 Vacant lands are found near highways 
 06_089 There is a house with a garden and a empty parking lot near a narrow two lane highway.
 06_089 Trees, grassy lands and empty lands surrounds the highway.
-06_089 
-06_089
+06_089 It is a highway with some lands present in one side of it.
+06_089 Some vacant and empty dry lands are seen near the highways.
 
 06_090 Vacant lands are found near highways
 06_090 There is a empty land and roads connecting to a highway.
 06_090 Vacant lands are present lomgide the highways.
-06_090 
-06_090 
+06_090 It is green area near the highways.
+06_090 Trees are found at both the ends of highways.
 
 06_091 Highways are laid in between trees
 06_091 A road connects to a highway and trees cover a number of buildings.
 06_091 Small buildings surrounded by thick tree cover is located near the highway.
-06_091 
-06_091 
+06_091 It is a highway.
+06_091 There are some lands similar to playground located near the highways.
 
 06_092 There is a highway
 06_092 There is a highway and a farmland, ground and green tree cover adjacent to it. 
 06_092 Highways are present near dense tree cover.
-06_092 
-06_092 
+06_092 There are multiple roads surrounded by trees.
+06_092 There are some lands near the roads.
 
 06_093 Highways are found with trees at its ends
 06_093 There is a highway connecting to a wide road and another two lane road with buildings and trees on either side.
 06_093 Highway junction is located with buildings and trees at its sides.
-06_093 
-06_093 
+06_093 Some industries are present near the highways.
+06_093 Nearer to highways some ndustries are situated.
 
 06_094 Some vacant lands and greenery are captured at the ends of highways
 06_094 There is dense tree cover enveloping buildings and a playground near a highway.
-06_094  Highway junction is located with buildings and trees at its sides.
-06_094 
-06_094 
+06_094 Highway junction is located with buildings and trees at its sides.
+06_094 Some industries are present near the highways.
+06_094 There are some industries near the roads.
 
 06_095 Highways are found in the middle of forest areas
 06_095 A ground and big buildings are present near a highway neighboured by thick forest cover.
 06_095 Buildings and thick forest area neighbours a highway.
-06_095 
-06_095 
+06_095 Some industries are present near the highways.
+06_095 Several industries are covered with trees.
 
 06_096 Highways are found with trees at its ends	 
 06_096 There is dense tree cover with tall trees adjacent to a highway.
 06_096 Small buildings surrounded by thick tree cover is located on either side of the highway.
-06_096 
-06_096
+06_096 The highways are covered by trees.
+06_096 It is a highway.
  
 06_097 There are highways
 06_097 There are a couple of buildings surrounded by trees close to a highway.
 06_097 Small buildings surrounded by thick tree cover is located near the highway.
-06_097 
-06_097 
+06_097 It is a residential area surrounded by trees.
+06_097 Some industries are present near the highways.
 
 06_098 There are highways in midst of forests
 06_098 There is a highway junction neighbouring a industrial area with parking lot and tall buildings.
 06_098 Buildings and thick forest area neighbours a highway junction.
-06_098 
-06_098 
+06_098 Several industries are covered with trees.
+06_098 Some industries are present near the highways.
 
 06_099 There exist highways in midst of trees 
 06_099 There is a building and a thick tree cover close to a highway.
 06_099 Buildings and thick forest area neighbours a highway.
-06_099 
-06_099 
+06_099 The highways are covered by trees.
+06_099 Some industries are present near the highways.
 
 06_100 There are roads in middle of forests 
 06_100 There is a playground and a garden adjacent to a highway. 
 06_100 greeneries were present alongside the highways.
-06_100 
+06_100 Some vacant dry lands are present near the highways.
 06_100
  
 06_101 Highways are present surrounded by trees
 06_101 There is a empty land and playgrounds close to a highway.
-06_101  Buildings surrounded by thick tree cover is located on either side of the highway.
-06_101
-06_101
+06_101 Buildings surrounded by thick tree cover is located on either side of the highway.
+06_101 There are highways near the vacant lands.
+06_101 Some vacant dry lands are present near the highways.
 
 06_102 There are highways
 06_102 There is cross junction with trees densely scatttered around.
-06_102 Highway jnction is located in the midst of the dense tree cover
-06_102
-06_102
+06_102 Highway junction is located in the midst of the dense tree cover
+06_102 It is highway surrounded by trees and bushes
+06_102 The growth of trees around the highways are dense.
 
 06_103 Large number of trees are grown around the highways
 06_103 There is a neatly croppped farm near highway junction.
 06_103 greeneries were grown around the highways.
-06_103 
-06_103 
+06_103 Some vacant dry lands are present near the highways.
+06_103 It is highway surrounded by trees and bushes
 
 06_104 Large number of trees are grown around the highways
 06_104 A highway lined with trees is present with dense tree covers enveloping buildings and playgrounds on either sides.
 06_104 Buildings and a dense tree cover was present near the highways.
-06_104 
-06_104 
+06_104 Some industries are present near the highways.
+06_104 here are lot of trees around the highways.
+
 
 06_105 There are highways surrounded by trees
 06_105 A highway junction connecting to two roads has a farmland and a dense tree cover with coconut trees.
 06_105 Buildings surrounded by thick tree cover is located on either side of a highway junction.
-06_105 
-06_105 
+06_105 There are lot of trees around the highways.
+06_105 It is a highway running through green area.
 
 06_106 There are highways surrounded by trees
 06_106 A highway junction lined with trees runs between bunch of trees and a ground.
 06_106 Buildings surrounded by thick tree cover surrounds the highway junction.
-06_106 
-06_106
+06_106 It is a highway.
+06_106 There are lot of trees around the highways.
+
 
 06_107 Highways are surrounded by trees
 06_107 A highway runs across a dense tree cover having a number of buildings around.
 06_107 Highway roads are surrounded by dense tree cover having  buildings inbetween.
-06_107 
-06_107 
+06_107 It is a highway.
+06_107 There are lot of trees around the highways.
 
 06_108 Highways are present with large number of trees grown at its ends
 06_108 A highway with dense tree cover having a number of coconut trees is present on either sides.
 06_108 Highways are located near thick tree cover.
-06_108 
-06_108 
+06_108 There are lot of trees around the highways.
+06_108 It is a highway.
 
 06_109 There are highways surrounded by trees
 06_109 Two roads connect to a highway surrounded by a thick tree cover enveloping buildings.
 06_109 Small roads connects to the highways which is surrounded by trees.
-06_109 
-06_109 
+06_109 It is a highway.
+06_109 There are lot of trees around the highways.
 
 06_110 Solar panels are installed at the ends of highways
 06_110 A road runs parallel to a highway connected by a bridge.
-06_110  Buildings surrounded by thick tree cover is located on either side of a highway.
-06_110 
-06_110 
+06_110 Buildings surrounded by thick tree cover is located on either side of a highway.
+06_110 It is a highway.
+06_110 There are lot of trees around the highways.
 
 06_111 There is a highways nearer to greenery region
 06_111 A road junction connects to a highway through a bridge
