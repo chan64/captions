@@ -133,7 +133,7 @@
 09126 The road runs through the area which has green grounds.
 09126 A main road connecting different areas
 09126 a main road branching to many sub roads
-09126
+09126 There is a road which passes through the plains.
 
 09127 Lot of trees cover small buildings located near the roads.
 09127 There are roads connecting each other surrounded by trees.
