@@ -124,7 +124,7 @@
 13_021 The crowd is stranded in the areas near the temple prakara.
 13_021 A rooftop view of a temple with people crowded inside the temple 
 
-13_022
+13_022 
 13_022 There are red coloured rooftops above the temple.
 13_022 Several people are waiting outside the shrines.
 13_022 A roof-top side of a temple with people crowded at the front 
@@ -133,7 +133,7 @@
 13_023 There is a terrace in which some crowd is waiting,
 13_023 There are some crowd standing in the terrace.
 13_023 Few people residing at the roof top of a temple 
-13_023
+13_023 
 13_023 The rooftops near the temple tower facilitates crowd to stand.
 
 13_024 The rooftops of the temple are viewed from the top.
