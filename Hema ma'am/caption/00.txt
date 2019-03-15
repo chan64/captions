@@ -1,6 +1,6 @@
 00101 This is a piece of barren land
 00101 A land with some trees around 
-00101 00234 A barren land is spotted with a thick tree cover.
+00101 A barren land is spotted with a thick tree cover.
 00101 Green trees were present near the barren land.
 00101 A thick tree cover was present near the barren land.
 00102 It is barren land with few trees
@@ -20,7 +20,7 @@
 00104 Dense tree cover exist on one side of the pathway in the barren lands
 00105 It is a piece of barren land with road in the middle
 00105 A road runs in the mid separating a open ground and a green land 
-00105
+00105 A pathway which splits the barren land and natural vegetation.
 00105
 00105
 00106 A piece of barren land with roads and trees
@@ -40,7 +40,7 @@
 00108
 00109 It is piece of land unused for cultivation
 00109 A vacant land with few residential buildings surrounded by trees 
-00109
+00109 It is a piece of unused area with buildings alongside.
 00109
 00109
 00110 It is land area with many neatly planted trees
@@ -65,7 +65,7 @@
 00113
 00114 A land area with vegetation and trees
 00114 Residential area surrounded by farm land 
-00114
+00114 A land with few trees, buildings and crop fields.
 00114
 00114
 00115 A piece of unused land with roads
