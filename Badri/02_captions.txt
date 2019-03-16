@@ -1,0 +1,153 @@
+02_001 Lot of crowd are waiting outside the shrines.
+02_001 The temple towers are seen from the top.
+02_001 Coconut trees around the temple is seen.
+02_001 From the top view one side ot the temple is seen.
+02_001 The rooftops of the buildings inside the temple are seen.
+
+02_002 People are sitting inside the temple.
+02_002 The temple walls are viewed.
+02_002 People are sitting inside the temple.
+02_002 Coconut trees around the temple is seen.
+02_002 The rooftops o temple accomodates some people.
+
+02_003 Coconut trees around the temple is seen.
+02_003 People are sitting inside the temple.
+02_003 The rooftops o temple accomodates some people.
+02_003 The temple walls are viewed.
+02_003 People are sitting inside the temple.
+
+02_004 The small towers near the temple is seen.
+02_004 The temple walls are viewed.
+02_004 Coconut trees around the temple is seen.
+02_004 People are sitting inside the temple.
+02_004 The rooftops o temple accomodates some people.
+
+02_005 People are sitting inside the temple.
+02_005 The temple walls are viewed.
+02_005 The rooftops of the temple building is seen.
+02_005 Coconut trees around the temple is seen.
+02_005 The rooftops of the temple has some people.
+
+02_006 The rooftops of the temple has some people.
+02_006 The small towers of the temple is seen.
+02_006 The rooftops of the temple building is seen.
+02_006 Several people are sitting over the roofs of the temple.
+02_006 Lot of people are there surrounding the temple towers.
+
+02_007 The rooftops of the temple has some people.
+02_007 Several people are sitting over the roofs of the temple.
+02_007 People are sitting inside the temple.
+02_007 The rooftops of the temple building is seen.
+02_007 The temple walls are viewed.
+
+02_008 The rooftops of the temple has some people.
+02_008 The rooftops of the temple building is seen.
+02_008 People are sitting inside the temple.
+02_008 The temple walls are viewed.
+02_008 The rooftops of temple accomodates some people.
+
+02_009 The rooftops of the temple building is seen.
+02_009 People are sitting inside the temple.
+02_009 The temple walls are viewed.
+02_009 The rooftops of the temple has some people.
+02_009 Lot of people are wearing white coloured dress.
+
+02_010 The rooftops of the temple building is seen.
+02_010 The rooftops of the temple has some people.
+02_010 People are sitting inside the temple. 
+02_010 The walls of the temple is seen.
+02_010 Lots of people are residing on top of the roofs.
+
+02_011 Lots of people are residing on top of the roofs.
+02_011 The small towers of the temple is being seen.
+02_011 The temple walls are viewed.
+02_011 Crowd is waiting outside the shrine.
+02_011 The rooftops of the temple has some people.
+ 
+02_012 Lots of people are residing on the floors.
+02_012 Lot of crowd are waiting outside the shrines.
+02_012 Crowd is waiting outside the shrine.
+02_012 The rooftops of the temple has some people.
+02_012 The temple walls are viewed.
+
+02_013 Crowd is waiting outside the shrine.
+02_013 Lots of people are residing on the floors.
+02_013 People are sitting on the floors outside the shrine.
+02_013 The rooftops of the temple has some people.
+02_013 The temple walls are viewed.
+
+02_014 Lots of people are residing on the floors.
+02_014 People are sitting on the floors outside the shrine.
+02_014 Lot of crowd are waiting outside the shrines.
+02_014 Crowd is waiting outside the shrine.
+02_014 The LED screens are noticed which is present besides the crowd.
+
+02_015 Crowd is waiting outside the shrine.
+02_015 The temple walls are viewed.
+02_015 Lot of crowd are waiting outside the shrines.
+02_015 People are waiting in orderly manner in the temple.
+02_015 People are sitting inside the temple.
+
+02_016 There are ends of the rooftops seen.
+02_016 There are couple of policemen protecting the shrines.
+02_016 Crowd is waiting outside the shrine.
+02_016 There are couple of policemen waiting near the shrines.
+02_016 People are waiting in orderly manner in the temple.
+
+02_017 People are waiting in orderly manner in the temple.
+02_017 Lots of crowd are present in one side of the place.
+02_017 The crowd is waiting near the shrine.
+02_017 Couple of cops wearing green dress are present. 
+02_017 There are couple of policemen protecting the shrines.
+
+02_018 There is a big lamp in front of the shrine.
+02_018 The temple hundi is present near the shrine.
+02_018 The temple hundi is present near the shrine.
+02_018 There are couple of policemen protecting the shrines.
+02_018 Couple of cops wearing green dress are present. 
+
+02_019 There are couple of policemen protecting the shrines.
+02_019 The crowd is waiting near the shrine.
+02_019 Couple of cops wearing green dress are present.
+02_019 People are standing outside the shrine.
+02_019 Lots of policemen are standing.
+
+
+02_020 There is a big lamp in front of the shrine.
+02_020 The crowd is waiting near the shrine.
+02_020 There are couple of policemen protecting the shrines.
+02_020 The temple hundi is present near the shrine.
+02_020 People are standing outside the shrine.
+
+02_021 There are couple of policemen protecting the shrines.
+02_021 The crowd is waiting near the shrine.
+02_021 There are couple of policemen protecting the shrines.
+02_021 Couple of cops wearing green dress are present.
+02_021 Lots of policemen are standing.
+
+02_022 The crowd is waiting near the shrine.
+02_022 There is a big lamp in front of the shrine.
+02_022 The temple hundi is present near the shrine.
+02_022 People are standing outside the shrine.
+02_022 The edges of rooftops are seen.
+
+02_023 There are couple of policemen protecting the shrines.
+02_023 Couple of cops wearing green dress are present.
+02_023 People are standing outside the shrine.
+02_023 It is mix up of people who are waiting along with cops.
+02_023 Lots of policemen are standing.
+
+02_024 The temple hundi is present near the shrine.
+02_024 People are waiting near the temple hundi.
+02_024 There are couple of policemen protecting the shrines.
+02_024 The temple hundi is present near the shrine.
+02_024 People are standing outside the shrine.
+
+02_025 There are couple of cops waiting outside the shrines.
+02_025 Several cops are standing.
+02_025 There are couple of policemen protecting the shrines.
+02_025 Couple of cops wearing green dress are present. 
+02_025 Lot of people are wearing white coloured dress.
+
+
+
