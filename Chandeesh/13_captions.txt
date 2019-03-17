@@ -65,7 +65,7 @@
 13_011
 
 13_012 The rooftops of the holy shrines are present.
-13_012
+13_012 
 13_012 The red coloured rooftops are seen.
 13_012 A roof top view of a temple with people crowded inside the temple surrounded by trees 
 13_012 The temple towers are seen along with rooftops and pathway.
