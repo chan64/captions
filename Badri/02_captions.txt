@@ -151,3 +151,124 @@
 
 
 
+
+
+
+
+
+
+02_051 It is a temple area surrounded by peoples
+02_051 A pathway seperates two temple buildings
+02_051 Trees are situated in between two temple buildings
+02_051
+02_051
+02_052 A number of peoples are situated in the temple area
+02_052 people are eagerly waiting for prayer in the temple
+02_052 trees are situated closely to the temple building
+02_052
+02_052
+02_053 It is a temple building on top of which camera mans are situated
+02_053 It is a temple area in which a bunch of trees and cars are loacted on the left side.
+02_053 The middle building seperates the temple area and the parking lot.
+02_053
+02_053
+02_054 It is a temple area in which peoples are walking on the top of the building.
+02_054 A van is parked outside the temple.
+02_054 Shelter for people is provided at the center of the pathway.
+02_054
+02_054
+02_055 The tomb of the temple is situated at the top of the temple.
+02_055 It is a temple area which covers the whole are with people and trees.
+02_055 It is temple area in which every people are performing their prayer.
+02_055
+02_055
+02_056 It is a temple area completely covered by people.
+02_056 The temple area consists of several buidings and numerous peoples.
+02_056 It is a temple area where polices are governing the people for their safety and convinience.
+02_056
+02_056
+02_057 It is a temple area surrounded with buidings.
+02_057 The temple is filled with humans, where they perform prayer
+02_057 It is a temple area where most of the people are resting themself on top of buildings.
+02_057
+02_057
+02_058 It is a temple where the huge white tomb is situated on the right side.
+02_058 The people are represented as colourful dots. 
+02_058 It is a temple area where tanks are situated in the top of the buidings.
+02_058
+02_058
+02_059 It is the main entrance of the temple.
+02_059 In the temple area polices are covered for the protection of people.
+02_059 In the temple area people are surrounded for prayer.
+02_059
+02_059
+02_060 It is a temple building where people gets shelter.
+02_060 The tall white stick is the lighting system of the temple.
+02_060 The colourful dots represents humans and green and kakhi dots represents police.
+02_060
+02_060
+02_061 It is a temple area where lots of people are arrived here for prayer. 
+02_061 A big screen has been projected alongside of the building.
+02_061 In the temple area polices ensures the safety for people.
+02_061
+02_061
+02_062 It is temple region with several buidings inside it.
+02_062 On top of each buidings people are located to see the prayer.
+02_062 The lighting system of the temple is located at the bottom.
+02_062
+02_062
+02_063 It is a temple area where the people and audio settings are located.
+02_063 The temple area is completely filled with people.
+02_063 In the temple area the priest is in the middle with the protection of police.
+02_063
+02_063
+02_064 It is a temple area where the tall white tomb is situated on the right side.
+02_064 On top of the building camer man , people and tanks are located.  
+02_064 In the temple area few people are sitting and few are standing.
+02_064
+02_064
+02_065 It is a temple area where audio settings are situated.
+02_065 The police fixed barricads for the safety of the preist and people.
+02_065 The temple building is used by people as a shelter.
+02_065
+02_065
+02_066 It is the top of the temple building , where camera are fixed.
+02_066 It is a temple area where several buildings and people are there.
+02_066 The black tank is at the top of the building
+02_066
+02_066
+02_067 The people are crowded in the temple area for prayer.
+02_067 Police ensures safety in the temple.
+02_067 People gets shelter from the buidings.
+02_067
+02_067
+02_068 The whole temple is filled with people.
+02_068 People are sitting on top of the buidings.
+02_068 Camera and audio settings are fixed in the temple.
+02_068
+02_068
+02_069 It is the top of the temple building.
+02_069 People and police are located at the top of the building.
+02_069 Few trees are there at the right corner.
+02_069
+02_069
+02_070 Few people are sitting at the top of the temple building and few are sitting in the ground.
+02_070 Camera man are also located in the top of the building. 
+02_070 Speakers and barricad are also fixed at the ground.
+02_070
+02_070
+02_071 Camera are fixed at the top of the temple building.
+02_071 Few people are sitting and few were standing at the top of the building.
+02_071 Few people were sleeping on top of the building.
+02_071
+02_071
+02_072 It is a temple where surrounded by several buildings.
+02_072 Numerous people are situatrd in the temple for prayer.
+02_072 Polices are also situated in the temple for safety.
+02_072
+02_072
+02_073 It is a temple where the tall white tomb is at the centre of the temple.
+02_073 Oneside of the temple if filled with people and the other side vacant. 
+02_073 It is a temple where several tombs are fixed at top of the temple buildings.
+02_073
+02_073
