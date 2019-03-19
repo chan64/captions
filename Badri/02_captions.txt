@@ -149,14 +149,31 @@
 02_025 Couple of cops wearing green dress are present. 
 02_025 Lot of people are wearing white coloured dress.
 
-
-
-
-
-
-
-
-
+02_026 A crowd is found standing.
+02_026 small empty space is found among a crowd.
+02_026 A group of people are standing of which most are men.
+02_026 A couple of cops is visible in a crowd.
+02_026 The crowd consists of cops wearing khakis and some men wearing white shirt with dhotis.
+02_027 A standing crowd is visible in a area.
+02_027 A number of cops wearing uniform forms a part of a standing group.
+02_027 A diverse group of people are standing with some space inbetween.
+02_027 A crowd is standing of which men are mostly present.
+02_027 The crowd consists of policemen, photographers, priests and common men.
+02_028 A tiled floor is visible in a crowd.
+02_028 An empty space in a crowd reveals a tiled floor.
+02_028 A group of people are standing of which most are men.
+02_028 A crowd is controlled by a group of policeman wearing khakis.
+02_028 A standing crowd is present.
+02_029 A crowd is visible of which most of them are standing.
+02_029 A sitting crowd is lined with policemen wearing radiant green coats.
+02_029 The crowd consists mostly of men and policemen.
+02_029 The crowd consists of men wearing dhotis and women wearing sarees mostly.
+02_029 There is some empty space infront of the policemen,
+02_030 An empty space is visible in a crowd. 
+02_030 
+02_030
+02_030
+02_030
 02_051 It is a temple area surrounded by peoples
 02_051 A pathway seperates two temple buildings
 02_051 Trees are situated in between two temple buildings
