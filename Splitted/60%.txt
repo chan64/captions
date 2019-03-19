@@ -554,12 +554,7 @@
 01_118 numerous trees covers the mountain
 01_118 sky gives bold look at the background of the mountain
 01_118 some people are standing on top of the rocks on a  mountain
-01_119 a hill with many rocks and some trees
-01_119 a montain with sloppy rocks at the bottom
-01_119 a mountain with many trees in the top
-01_119 many rocks on the surface of the mountain
-01_119 many trees cover the mmountain surface
-01_119 trees are spread all over the mountain
+
 
 *------------------------------------*
 
