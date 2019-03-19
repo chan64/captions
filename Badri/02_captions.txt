@@ -170,10 +170,35 @@
 02_029 The crowd consists of men wearing dhotis and women wearing sarees mostly.
 02_029 There is some empty space infront of the policemen,
 02_030 An empty space is visible in a crowd. 
-02_030 
-02_030
-02_030
-02_030
+02_030 A group of policemen are standing closeby.
+02_030 A crowd is seen of which most are men.
+02_030 Some of the policeman in a crowd are wearing a radiant green coat.
+02_030 There is a crowd with a little space exposing a tiled floor.
+02_031 There are group of cops wearing their khaki uniform.
+02_031 A crowd is present consisting majorly of cops.
+02_031 There is a crowd with little space inbetween.
+02_031 The crowd is found with a number of policemen wearing green coat.
+02_031 A tiled floor is exposed in a small space left by a crowd of people.
+02_032 A large amount of crowd is seen within a temple. 
+02_032 Groups of people are crowded in terraces and ground of a temple.
+02_032 A temple shrine is thickly crowded by large number of people.
+02_032 A dense group of people is visible with a small space in the middle. 
+02_032 A white temple tomb is seen in a temple surrounded by a thick crowd.
+02_033 Three thick and tall trees are visible close to a crowd.
+02_033 A number of trees and solar panel line is seen close to a crowd of people.
+02_033 A temple shrine and terrace of buildings with some trees is seen surrounding a dense crowd.
+02_033 There are temple buildings on either sides of a crowd of people.
+02_033 A large seated crowd is seen in the view.
+02_034 A large crowd of people is seated about a temple.
+02_034 A group of policemen enforce to leave a space.
+02_034 A red terrace of temple along with its tomb is present close to a large crowd.
+02_034 A large crowd is present witnessing an event near the entrance of a temple shrine.
+02_034 Most of the crowd around a temple is seated.
+02_035 
+02_035
+02_035
+02_035
+02_035
 02_051 It is a temple area surrounded by peoples
 02_051 A pathway seperates two temple buildings
 02_051 Trees are situated in between two temple buildings
