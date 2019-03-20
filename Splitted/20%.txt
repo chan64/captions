@@ -182,40 +182,41 @@
 01_025 rocks with an steepy edges all over the mountain
 01_025 some people standing on top of the mountains
 01_025 some people standing on top of the mountains
-02_044
-02_044
-02_044
-02_044
-02_045
-02_045
-02_045
-02_045
-02_045
-02_046
-02_046
-02_046
-02_046
-02_046
-02_047
-02_047
-02_047
-02_047
-02_047
-02_048
-02_048
-02_048
-02_048
-02_048
-02_049
-02_049
-02_049
-02_049
-02_049
-02_050
-02_050
-02_050
-02_050
-02_050
+02_044 The crowd is spotted in the main entrance of the temple.
+02_044 In the temple area polices are covered for the protection of the crowd.
+02_044 The temple area is surrounded by the crowd.
+02_044 Cops were controlling the crowd infront of a shrine.
+02_044 The crowd is waiting for dharshan.
+02_045 Cops were controlling the crowd infront of a shrine.
+02_045 The temple area is surrounded by the crowd.
+02_045 The crowd is spotted in the main entrance and at the roof tops of the temple.
+02_045 In the temple area polices are covered for the protection of the crowd.
+02_045 A huge crowd is spotted in a temple.
+02_046 The temple area is surrounded by the crowd.
+02_046 Cops were controlling the crowd infront of a shrine.
+02_046 A huge crowd is spotted in a temple.
+02_046 In the temple area polices are covered for the protection of the crowd.
+02_046 The crowd is spotted in the main entrance and at the roof tops of the temple.
+02_047 Trees are spotted inbetween the crowd in the temple.
+02_047 A huge crowd is spotted in the temple area
+02_047 A temple is spotted with huge crowd and green trees.
+02_047 Trees are spotted in between the crowd.
+02_047 A huge crowd is visible.
+02_048 The crowd is spotted in the main entrance of the temple.
+02_048 In the temple area polices are covered for the protection of the crowd.
+02_048 The temple area is surrounded by the crowd.
+02_048 Cops were controlling the crowd infront of a shrine.
+02_048 The crowd is waiting for dharshan. 
+02_049 Trees are spotted in between the crowd.
+02_049 A huge crowd is spotted in the temple area
+02_049 Green trees were grown inside the temple.
+02_049 Group of peoples are waiting for dharshan in a temple.
+02_049 Trees are spotted inbetween the crowd in the temple.
+02_050 A huge crowd is spotted infront of the temple.
+02_050 Cops were controlling the crowd infront of a shrine.
+02_050 The crowd is spotted in the main entrance and at the roof tops of the temple.
+02_050 In the temple area polices are covered for the protection of the crowd.
+02_050 The temple area is surrounded by the crowd.
 02_051 Crowd is waiting outside the shrine.
 02_051 Lots of people are residing on the floors.
 02_051 People are sitting on the floors outside the shrine.
