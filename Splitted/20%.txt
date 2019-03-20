@@ -1410,7 +1410,7 @@
 13_019 A temple is spotted having small towers on its top, surounded by trees.
 13_019 Several smaller towers are seen in the temple. 
 13_019 There are red coloured rooftops above the temple.
-13_019 A roof_top view of a temple surrounded by trees 
+13_019 A roof_top view of a temple surrounded by trees.
 13_019 The sanctum sanctorum of the temple is viewed from the top covered with rooftops.
 13_020 There are red coloured rooftops above the temple.
 13_020 Some small trees are grown near the walls of the temple.
