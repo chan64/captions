@@ -3,151 +3,126 @@
 13_001 One side of temple is captured along with some trees,hills,many buildings and temple rooftops.
 13_001 The top view of the temple is visible bordered with coconut trees near the residential area.
 13_001 Residential area and mountains are present near the temple, bordered with coconut trees.
-
 13_002 A rooftop view of a temple with trees linedup alongside 
 13_002 A temple rooftop is present next to a road lined with coconut trees.
 13_002 The sanctum sanctorum of the holy shrines are covered with roof tops.
 13_002 The temple rooftop is visible, having coconut trees at its borders.
 13_002  The top view of the temple is visible bordered with coconut trees.
-
 13_003 A huge crowd is spotted infront of the shrine.
 13_003 A topview of a temple with people crowded at the front 
 13_003 Crowd was present infront of the temple.
 13_003 The front part of the temple is crowded with lot of people.
 13_003 The temple is crowded with people on the ground.
-
 13_004 The rooftops of the temple is seen from top.
 13_004 Top view of the temple is visible.
 13_004 A rooftop view of a temple with trees along side 
 13_004 The red coloured rooftops are present above the holy shrines.
 13_004 The rooftop of a temple having arches is present.
-
 13_005 The rooftops of the temple is seen from top. 
 13_005 Crowd was spotted infront of the temple.
 13_005 The crowd is present around the temple.
 13_005 A topview of a temple with people crowded at the front 
 13_005 The red coloured rooftops are present above the holy shrines with some small temple towers.
-
 13_006 There are some holy shrines present in the temple.
 13_006 People are sitting on the floors outside the shrine.
 13_006 A top view of a temple with people crowded 
 13_006 The temple is partly crowded near a stage setup.
 13_006 There is crowd waiting outside the holy shrine.
-
 13_007 The rooftops of the temple is seen from top. 
 13_007 The top view of the temple is visible bordered with coconut trees.
 13_007 A roof top view of a temple with trees lined up alongside 
 13_007 The rooftop of a temple exists opposite to which a crowd is present.
 13_007 The temple towers are seen along with rooftops
-
 13_008 There are lot of people in front of the shrine.
 13_008 People are sitting on the floors outside the shrine.
 13_008 There are some holy shrines present in the temple.
 13_008 A top view of a temple with people crowded 
 13_008 There is crowd waiting outside the holy shrine.
-
 13_009 There are several shrines located in the temple.
 13_009 The top view of the temple is visible bordered with coconut trees.
 13_009 There are lot of trees grown around the temple.
 13_009 A roof top view of a temple with peoples residing at the roof and trees linep alongside 
 13_009 The temple towers are seen along with rooftops
-
 13_010 There are some high towers located in the temple.
 13_010 A temple is spotted with people crowded infront of a shrine.
 13_010 A rooftop view of a temple with people crowded at the walkway inside the temple surrounded by residential areas 
 13_010 An arch is present in front of the temple.
 13_010 Huge towers present in the entrance of temple are seen. 
-
 13_011 Lots of trees are grown around the temple.
 13_011 A densely crowded trees is present next to the temple.
 13_011 A side view of a temple with few peoples inside the temple and trees outside 
 13_011 Trees grown in dense manner near the temple are seen at the ends of shrine.
 13_011 Green trees were grown around the temple.
-
 13_012 The rooftops of the holy shrines are present.
 13_012 A temple is spotted with people crowded inside the temple, surrounded by trees.
 13_012 The red coloured rooftops are seen.
 13_012 A roof top view of a temple with people crowded inside the temple surrounded by trees 
 13_012 The temple towers are seen along with rooftops and pathway.
-
 13_013 The huge towers in front of the temple are seen.
 13_013 Some small and huge towers were spotted, surrounded by residential area and a thick tree cover.
 13_013 The city is viewed from the top.
 13_013 A rooftop view of a temple with people crowded at the walkway inside the temple surrounded by residential areas 
 13_013 Huge towers present in the entrance of temple are seen. 
-
 13_014 There are lot of trees grown around the temple.
 13_014 The growth of trees are dense around the temple.
 13_014 There are lot of trees grown near the shrines.
 13_014 A side view of a temple with few peoples inside the temple and trees outside  
 13_014 Trees grown in dense manner near the temple are seen at the ends of shrine.
-
 13_015 A temple is spotted having small towers on its top, surounded by trees.
 13_015 There are some small towers present in the rooftops.
 13_015 There are red coloured rooftops above the temple.
 13_015 A rooftop view of a temple with people crowded inside temple surrounded by residential areas and trees 
 13_015 The temple towers are seen along with rooftops and pathway.
-
 13_016 Some holy shrines are situated near the temple.
 13_016 Huge towers present in the entrance of temple are seen.
 13_016 There are some buildings present near the temple.
 13_016 A side view of a temple with few people along the walkway inside the temple surrounded by residential areas and trees 
 13_016 Some coconut trees covers the part of temple and huge towers are seen at the mere ends.
-
 13_017 There are lot of trees grown around the temple. 
 13_017 Several smaller towers are seen in the temple.
 13_017 A roof-top view of a temple surrounded by residential areas and trees 
 13_017 The city is seen with lots of buildings,coconut trees and shrines located in the temple.
 13_017 A temple is spotted having small towers on its top, surounded by residential area and trees.
-
 13_018 There are some small shrines situated in the temple.
 13_018 The growth of trees are dense around the temple.
 13_018 Green trees were grown around the temple, which is crowded by people.
 13_018 A side view of a temple with people crowded inside and trees outside  
 13_018 Trees grown in dense manner near the temple are seen at the ends of shrine.
-
 13_019 A temple is spotted having small towers on its top, surounded by trees.
 13_019 Several smaller towers are seen in the temple. 
 13_019 There are red coloured rooftops above the temple.
 13_019 A roof_top view of a temple surrounded by trees 
 13_019 The sanctum sanctorum of the temple is viewed from the top covered with rooftops.
-
 13_020 There are red coloured rooftops above the temple.
 13_020 Some small trees are grown near the walls of the temple.
 13_020 Green trees were grown alongside the temple, and some people were spotted inbetween.
 13_020 A roof top view of a temple with people along the walkway inside the temple 
 13_020 The crowd is stranded in the areas near the temple prakara.
-
 13_021 A temple is spotted, which is crowded by people.
 13_021 Some small trees are grown near the walls of the temple.
 13_021 Several people are waiting outside the shrines.
 13_021 The crowd is stranded in the areas near the temple prakara.
 13_021 A rooftop view of a temple with people crowded inside the temple 
-
 13_022 A huge crowd is spotted infront of the temple.
 13_022 There are red coloured rooftops above the temple.
 13_022 Several people are waiting outside the shrines.
 13_022 A roof-top side of a temple with people crowded at the front 
 13_022 There is huge crowd waiting near the entrance of the temple.
-
 13_023 There is a terrace in which some crowd is waiting,
 13_023 There are some crowd standing in the terrace.
 13_023 Few people residing at the roof top of a temple 
 13_023 Some people were spotted at the top of the temple building.
 13_023 The rooftops near the temple tower facilitates crowd to stand.
-
 13_024 The rooftops of the temple are viewed from the top.
 13_024 There are lot of people stading infront of the temple.
 13_024 A roof-top side of a temple with people crowded at the front surrounded by trees 
 13_024 A huge crowd is spotted infront of the temple.
 13_024 There is huge crowd waiting near the entrance of the temple
-
 13_025 A huge crowd is spotted infront of the temple.
 13_025 The temple towers are seen near which crowd is waiting.
 13_025 There are lot of people standing near the temple towers.
 13_025 A top view of temple with people crowded at the front 
 13_025 There is huge crowd waiting near the entrance of the temple.
-
 13_026 The top view of the temple is visible bordered with coconut trees near the residential area.
 13_026 The red coloured rooftops of the temple are seen.
 13_026 A roof- top view of a temple with trees in between the temple and residential area

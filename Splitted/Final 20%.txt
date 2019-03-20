@@ -1348,7 +1348,7 @@
 12_100 A small pond is spotted on one side of a highway.
 12_100 Highway roads are spotted with a small pond.
 12_100 A small pond is present near a highway.
-13_022 
+13_022 A huge crowd is spotted infront of the temple.
 13_022 There are red coloured rooftops above the temple.
 13_022 Several people are waiting outside the shrines.
 13_022 A roof-top side of a temple with people crowded at the front 
@@ -1356,22 +1356,20 @@
 13_023 There is a terrace in which some crowd is waiting,
 13_023 There are some crowd standing in the terrace.
 13_023 Few people residing at the roof top of a temple 
-13_023 
+13_023 Some people were spotted at the top of the temple building.
 13_023 The rooftops near the temple tower facilitates crowd to stand.
 13_024 The rooftops of the temple are viewed from the top.
 13_024 There are lot of people stading infront of the temple.
 13_024 A roof-top side of a temple with people crowded at the front surrounded by trees 
-13_024
+13_024 A huge crowd is spotted infront of the temple.
 13_024 There is huge crowd waiting near the entrance of the temple
-13_025
+13_025 A huge crowd is spotted infront of the temple.
 13_025 The temple towers are seen near which crowd is waiting.
 13_025 There are lot of people standing near the temple towers.
 13_025 A top view of temple with people crowded at the front 
 13_025 There is huge crowd waiting near the entrance of the temple.
-13_026
+13_026 The top view of the temple is visible bordered with coconut trees near the residential area.
 13_026 The red coloured rooftops of the temple are seen.
 13_026 A roof- top view of a temple with trees in between the temple and residential area
 13_026 The red coloured rooftops of the temple are seen from the top.
 13_026 The temple towers are seen along with rooftops.
-
-

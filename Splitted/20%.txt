@@ -1400,23 +1400,23 @@
 13_017 Several smaller towers are seen in the temple.
 13_017 A roof-top view of a temple surrounded by residential areas and trees 
 13_017 The city is seen with lots of buildings,coconut trees and shrines located in the temple.
-13_017
+13_017 A temple is spotted having small towers on its top, surounded by residential area and trees.
 13_018 There are some small shrines situated in the temple.
 13_018 The growth of trees are dense around the temple.
-13_018
+13_018 Green trees were grown around the temple, which is crowded by people.
 13_018 A side view of a temple with people crowded inside and trees outside  
 13_018 Trees grown in dense manner near the temple are seen at the ends of shrine.
-13_019
+13_019 A temple is spotted having small towers on its top, surounded by trees.
 13_019 Several smaller towers are seen in the temple. 
 13_019 There are red coloured rooftops above the temple.
 13_019 A roof_top view of a temple surrounded by trees 
 13_019 The sanctum sanctorum of the temple is viewed from the top covered with rooftops.
 13_020 There are red coloured rooftops above the temple.
 13_020 Some small trees are grown near the walls of the temple.
-13_020
+13_020 Green trees were grown alongside the temple, and some people were spotted inbetween.
 13_020 A roof top view of a temple with people along the walkway inside the temple 
 13_020 The crowd is stranded in the areas near the temple prakara.
-13_021
+13_021 A temple is spotted, which is crowded by people.
 13_021 Some small trees are grown near the walls of the temple.
 13_021 Several people are waiting outside the shrines.
 13_021 The crowd is stranded in the areas near the temple prakara.
