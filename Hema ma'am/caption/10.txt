@@ -258,11 +258,11 @@
 10_052 another section of landing area for the helicoptors
 10_052 a straight line for the helicopter to land
 10_052 a runway surrounded by a barren land
-10153 an end of a runway connected to a mud path
-10153 an airport in a remote area
-10153 a turn over area for the helicoptors
-10153 trees and grasses are well grown in and around helipads
-10153 a circular runway for making u turn
+10_053 an end of a runway connected to a mud path
+10_053 an airport in a remote area
+10_053 a turn over area for the helicoptors
+10_053 trees and grasses are well grown in and around helipads
+10_053 a circular runway for making u turn
 10_054 it is a part of runway surrounded by a land area with some trees
 10_054 long broad road for the helicoptors to land
 10_054 trees and grasses are well grown in a very big landscape
