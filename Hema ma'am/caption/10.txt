@@ -1,300 +1,300 @@
-10101 a runway for landing smaller aircrafts
-10101 an heliport landing road surrounded with shrubs
-10101 a runway for airplanes surrounded with shrubs
-10101 a runway with H marked on it
-10101 small shrubs grows on the both side of a runway
-10102 it is a runway for aircraft surrounded by barren land
-10102 a heliport for landing the helicopters
-10102 a runway with circular end
-10102 a barren land surrounding the run way
-10102 a shrub grown on the side of the runway
-10103 a part of runway surrounded by red soil
-10103 a narrow runway for the landing of aircrafts
-10103 a dry land area surrounding the runway
-10103 a runway for landing airplanes
-10103 a narrow runway for landing airplanes
-10104 a runway for smaller aircraft and a road joining it
-10104 small area of the landmasses are occupied with grasses
-10104 a truck moving to a runway
-10104 small grass grown around the runway
-10104 a runway with a turn
-10105 it is a runway surrounded by barren land and neatly planted trees
-10105 trees are grown on the side of a runway
-10105 tress are grown far away from a runway
-10105 the land area is covered with small frass 
-10105 a runway near a grass area
-10106 it is a piece of land with some plants on the ground
-10106 landing area for the aircrafts
-10106 a runway for landing airplanes 
-10106 small shrubs grown near the runway
-10106 grass land area surrounding the runway
-10107 a part of runway used by smaller aircrafts
-10107 a thin lane of road surrounded with grasses
-10107 a narrow runway for airplanes
-10107 a long runway for landing airplanes 
-10107 trees and shrun grown near runway
-10108 a piece of unused barren land
-10108 trees are grown across the runway
-10108 a barren land area with small plants
-10108 a group of plants grown on a land area
-10108 a land area with red soil
-10109 it shows a part of runway on a red soil
-10109 an runway surrounded by grassland
-10109 a runway in between barren land
-10109 a runway for landing airplanes
-10109 a small runway for landing airplanes
-10110 it shows a runway for taking off and landing aircrafts
-10110 a runway with a right turn
-10110 a runway with H marked on it
-10110 a runway with a turn
-10110 a barren land area near a runway
-10111 a land area with end of runway and solar panels
-10111 a runway for landing aeroplanes	
-10111 solar panels were installed near runway of helicoptors
-10111 solar panels are installed near helipad runway 
-10111 helicoptors runway is located near solar panels 
-10112 a part of runway with numbers marked for aircrafts
-10112 a runway with H5 marked on it
-10112 a number is marked on the runway of helicoptors
-10112 a runway contains the number
-10112 a part of runway with numbers are marked
-10113 a runway with intersection in the middle
-10113 a truck is moving towards the heliport
-10113 a runway with H marked on it
-10113 a helipad helicopters is located
-10113 a truck is moving beside the heliport
-10114 a runway with cut in the middle 
-10114 a heliport for landing the helicoptors
-10114 a runway is adjacent to a piece of barren land with grasses and trees
-10114 a runway with a mark in the middle 
-10114 a runway is marked with a numbered
-10115 a runway is adjacent to a piece of barren land
-10115 a large area covered by the trees and grasses
-10115 a very huge area covered by the trees and grasses
-10115 a land area covered with trees and grasses
-10115 more trees are grown near the runway
-10116 a top view of small runway for airplanes
-10116 a large field area cleared for the runway
-10116 the view shows the end of runway sorrounded by barren lands	
-10116 heliport in the middle of land area
-10116 a complete aerial view of a runway
-10117 a runway for aeroplanes and a helipad helicopters
-10117 a runway of the heliport has a left turn
-10117 a runway for aeroplanes and a helipad helicopters were marked
-10117 heliport in the side of land area
-10117 the land area covered with trees and gresses
-10118 a part of runway adjacent to barren land
-10118 solar pannels planted over the side of a heliport
-10118 solar pannels implemented at the side of a heliport 
-10118 solar pannels are planted 
-10118 a runway for aeroplanes and a helipad helicopters 
-10119 the view shows the end of runway sorrounded by barren lands	
-10119 a spoon shaped helicoptor landing area
-10119 a runway for aeroplanes and a helipad helicopters with spoon shape
-10119 more trees are grown near the heliport
-10119 a runway with seperate of helipad for helicopters
-10120 an end of the runway in the shape of a semicircle
-10120 more trees are grown near the heliport
-10120 a runway for aeroplanes and a helipad helicopters with spoon shape
-10120 a helicoptor landing area is in spoon shape
-10120 a spoon shaped heliport surrounded by trees and bushes
-10121 a runway marked with numbers in the middle
-10121 heliport in the middle of dry land area
-10121 a runway for aeroplanes and a helipad helicopters 
-10121 a runway for aeroplanes and a helipad helicopters with some mark
-10121 a top view of small runway for airplanes
-10122 a part of runway surrounded by barren land
-10122 a runway lane with H5 sybmol on it
-10122 a runway contains the number
-10122 a H5 symbol is marked on the runway
-10122 a vertical line for the landing of the helicopters
-10123 a helipad for landing of the helicopters
-10123 a heliport with an H on it
-10123 a H symbol is marked on the landing area  of helipad
-10123 a landing area with the symbol H
-10123 a helipad for landing of the helicopters with the symol H
-10124 a complete aerial view of a runway
-10124 a runway for the helicoptors to land
-10124 a runway for aeroplanes and a helipad helicopters with spoon shape
-10124 the view shows the end of runway sorrounded by barren lands	
-10124 the end of runway sorrounded by barren lands	
-10125 a runway with seperate of helipad for helicopters
-10125 an heliport for the take off of helicoptors
-10125 a heliport with an H on it
-10125 a top view of small heliport for helicopters
-10125 a complete aerial view of a heliport for helicopters
-10126 a helipad marked in white for landing and taking of helicopters
-10126 landing base for the helicoptors is surrounded with grass field
-10126 a helipad marked with symbol H for landing and taking of helicopters
-10126 a helipad marked with symbol H and surrounded by buildings 
-10126 landing base for the helicoptors and surrounded with buildings
-10127 it is a runway joined by a small road
-10127 a helipad for landing and taking off of helicoptors
-10127 a view of barren land showing part of a runway
-10127 small grass are grown along the sideway
-10127 it shows a part of runway
-10128 it is a part of runway
-10128 small grass are grown along the sideway
-10128 a runway for aeroplanes and a helipad helicopters were marked
-10128 a runway besides contains trees and grasses
-10128 a runway is marrked with the symbol H
-10129 it is an end for a runway
-10129 an u shaped area of runway
-10129 a spoon shaped helicoptor landing area
-10129 a spoon shaped heliport surrounded by trees and bushes
-10129 an u shaped area of runway surrounded by trees and bushes
-10130 a view of barren land showing part of a runway
-10130 large area of the landmass is covered with grass
-10130 an u shaped area of runway at the side
-10130 an u shaped area of runway 
-10130 a large area of the landmass surrounded with trees
-10131 a part of runway is shown 
-10131 a runway for the helicoptors to land
-10131 a view of land area showing the part of a runway
-10131 a top view of runway at the middle of a barren land
-10131 a runway is located at the middle of land area
-10132 a part of a runway surround by red soil land area
-10132 a truck is moving over the heliport area
-10132 a truck is moving beside the heliport landing area
-10132 a part of a runway surround by trees and grasses
-10132 a truck is running paralle towards heliport 
-10133 a part of runway with some vegetations
-10133 the H5 named landing area is in the middle of grassed area
-10133 large area of the landmass is covered with bushes
-10133 a runway is marrked with the symbol H
-10133 a huge area of the landmass is covered with trees
-10134 a helipad for landing the helicopeter
-10134 an helicoptor is maintained well
-10134 landing base for the helicoptors and surrounded with buildings
-10134 heliport is surrounded with buildings and trees
-10134 heliport is marked with the symbol H
-10135 a part of runway with cuts in the middle
-10135 small grassed grow around the runway
-10135 a runway is marked with the symbol 
-10135 heliport is surrounded with bushes and trees
-10135 straight runway for the landing of airplanes
-10136 a helipad surrounded with barren land and trees
-10136 base for the helicoptors to land is made ready for landing
-10136 the heliport is surrounded with buildings and trees
-10136 the heliport is marked with the symbol H at center
-10136 the heliport is surrounded with buildings 
-10137 a part of runway adjacent to a runway
-10137 a landing area for helicopters to land
-10137 small grassed grow around the runway
-10137 a huge area of the landmass is covered with trees
-10137 a runway for the helicoptors to land
-10138 a view of barren land adjacent to a runway
-10138 a view of heliport surrounded by grass area
-10138 a U shaped airplane landing area
-10138 an airplan turning area with its runway
-10138 a runway is located at the side of land area runway is located at the middle of land area
-10139 it is a piece of barren land with mud path adjacent to a runway
-10139 a runway in the middle of a barren land
-10139 a part of a runway surround by trees
-10139 more trees are grown near the airplane runway
-10139 large area of the landmass is covered with grass
-10140 an end of the runway adjacent to solar panels
-10140 solar pannels are planted near the heliport
-10140 ample solar pannel is being planted near the heliport
-10140 U shaped for the heliport landing region
-10140 solar panels are installed near the U shaped for the heliport landing region
-10141 a view of runway surrounded with red soil area
-10141 straight runway for the landing of airplanes
-10141 straight lined roadway for the landing for the helicoptors
-10141 an heliport road is located in between the parched area
-10141 straight runway for the landing of airplanes are marked at the middle
-10142 a piece of barren land with building adjacent to helipad
-10142 a base for landing the air vehicles
-10142 base for the landing of the helicoptors is made clean
-10142 a view of helicopter landing which in left side area
-10142 the heliport is surrounded with buildings and trees
-10143 a view of the runway adjacent to solar panels
-10143 a road beside the heliport
-10143 the roadway beside the heliport designed like rivers
-10143 closed view for the landing of the heliports
-10143 solar panels are installed near by to the airplane runway
-10144 a helipad adjacent to a runway
-10144 solar pannel installed near a landing area
-10144 solar pannels were implemented near the helipad landing  area
-10144 heliports are designed in the middle of landscape
-10144 an heliport with H named on it is ready for landing
-10145 a part of runway surrounded by red soil barren land
-10145 a runway for landing airplanes
-10145 heliport area is being maintained well for landing
-10145 straight lined roadway is covered with some kinds of plants
-10145 runway with H named on its landing area 
-10146 shows the part of helipad with some dense trees
-10146 a dry land area surrounding the airport
-10146 sideway of the heliport landing is surrounded with dried landmass
-10146 an overview of landing surface with heliport roadway
-10146 trees planted in rows near a heliport
-10147 an ariel view of runway for landing aircrafts
-10147 many trees are grown far away from airport
-10147 far away from the heliport more number of trees grown
-10147 an heliport landing surface is designed in dry region
-10147 a narrow runway for landing airplanes
-10148 a helipad for landing helicopters adjacent to a small road
-10148 an heliport with H mark for landing
-10148 a vehicle is moving parallel to the heliport surface
-10148 an heliport with H named on it is ready for landing
-10148 a runway adjacent to a heliport
-10149 a heliport for landing the helicopters
-10149 a part of runway for airplanes
-10149 heliport landing roadway is well designed
-10149 a vertical line for the landing of the helicopters
-10149 small grass and shrub grown around a runway
-10150 a piece of runway adjacent to a barren land
-10150 a straight lane for the helicoptor landing
-10150 a straight lane for the helicoptor to land
-10150 different varieties of plant species are grown near the landing area
-10150 a long narrw runway for landing airplanes
-10151 a helipad adjacent to a building
-10151 a heliport for landing helicopters
-10151 landing base for helicoptors is maintained well
-10151 heliports are designed in the middle of landscape
-10151 a building adjacent to a heliport
-10152 a part of runway in red soil land area
-10152 part of airplane runway
-10152 another section of landing area for the helicoptors
-10152 a straight line for the helicopter to land
-10152 a runway surrounded by a barren land
+10_001 a runway for landing smaller aircrafts
+10_001 an heliport landing road surrounded with shrubs
+10_001 a runway for airplanes surrounded with shrubs
+10_001 a runway with H marked on it
+10_001 small shrubs grows on the both side of a runway
+10_002 it is a runway for aircraft surrounded by barren land
+10_002 a heliport for landing the helicopters
+10_002 a runway with circular end
+10_002 a barren land surrounding the run way
+10_002 a shrub grown on the side of the runway
+10_003 a part of runway surrounded by red soil
+10_003 a narrow runway for the landing of aircrafts
+10_003 a dry land area surrounding the runway
+10_003 a runway for landing airplanes
+10_003 a narrow runway for landing airplanes
+10_004 a runway for smaller aircraft and a road joining it
+10_004 small area of the landmasses are occupied with grasses
+10_004 a truck moving to a runway
+10_004 small grass grown around the runway
+10_004 a runway with a turn
+10_005 it is a runway surrounded by barren land and neatly planted trees
+10_005 trees are grown on the side of a runway
+10_005 tress are grown far away from a runway
+10_005 the land area is covered with small frass 
+10_005 a runway near a grass area
+10_006 it is a piece of land with some plants on the ground
+10_006 landing area for the aircrafts
+10_006 a runway for landing airplanes 
+10_006 small shrubs grown near the runway
+10_006 grass land area surrounding the runway
+10_007 a part of runway used by smaller aircrafts
+10_007 a thin lane of road surrounded with grasses
+10_007 a narrow runway for airplanes
+10_007 a long runway for landing airplanes 
+10_007 trees and shrun grown near runway
+10_008 a piece of unused barren land
+10_008 trees are grown across the runway
+10_008 a barren land area with small plants
+10_008 a group of plants grown on a land area
+10_008 a land area with red soil
+10_009 it shows a part of runway on a red soil
+10_009 an runway surrounded by grassland
+10_009 a runway in between barren land
+10_009 a runway for landing airplanes
+10_009 a small runway for landing airplanes
+10_010 it shows a runway for taking off and landing aircrafts
+10_010 a runway with a right turn
+10_010 a runway with H marked on it
+10_010 a runway with a turn
+10_010 a barren land area near a runway
+10_011 a land area with end of runway and solar panels
+10_011 a runway for landing aeroplanes	
+10_011 solar panels were installed near runway of helicoptors
+10_011 solar panels are installed near helipad runway 
+10_011 helicoptors runway is located near solar panels 
+10_012 a part of runway with numbers marked for aircrafts
+10_012 a runway with H5 marked on it
+10_012 a number is marked on the runway of helicoptors
+10_012 a runway contains the number
+10_012 a part of runway with numbers are marked
+10_013 a runway with intersection in the middle
+10_013 a truck is moving towards the heliport
+10_013 a runway with H marked on it
+10_013 a helipad helicopters is located
+10_013 a truck is moving beside the heliport
+10_014 a runway with cut in the middle 
+10_014 a heliport for landing the helicoptors
+10_014 a runway is adjacent to a piece of barren land with grasses and trees
+10_014 a runway with a mark in the middle 
+10_014 a runway is marked with a numbered
+10_015 a runway is adjacent to a piece of barren land
+10_015 a large area covered by the trees and grasses
+10_015 a very huge area covered by the trees and grasses
+10_015 a land area covered with trees and grasses
+10_015 more trees are grown near the runway
+10_016 a top view of small runway for airplanes
+10_016 a large field area cleared for the runway
+10_016 the view shows the end of runway sorrounded by barren lands	
+10_016 heliport in the middle of land area
+10_016 a complete aerial view of a runway
+10_017 a runway for aeroplanes and a helipad helicopters
+10_017 a runway of the heliport has a left turn
+10_017 a runway for aeroplanes and a helipad helicopters were marked
+10_017 heliport in the side of land area
+10_017 the land area covered with trees and gresses
+10_018 a part of runway adjacent to barren land
+10_018 solar pannels planted over the side of a heliport
+10_018 solar pannels implemented at the side of a heliport 
+10_018 solar pannels are planted 
+10_018 a runway for aeroplanes and a helipad helicopters 
+10_019 the view shows the end of runway sorrounded by barren lands	
+10_019 a spoon shaped helicoptor landing area
+10_019 a runway for aeroplanes and a helipad helicopters with spoon shape
+10_019 more trees are grown near the heliport
+10_019 a runway with seperate of helipad for helicopters
+10_020 an end of the runway in the shape of a semicircle
+10_020 more trees are grown near the heliport
+10_020 a runway for aeroplanes and a helipad helicopters with spoon shape
+10_020 a helicoptor landing area is in spoon shape
+10_020 a spoon shaped heliport surrounded by trees and bushes
+10_021 a runway marked with numbers in the middle
+10_021 heliport in the middle of dry land area
+10_021 a runway for aeroplanes and a helipad helicopters 
+10_021 a runway for aeroplanes and a helipad helicopters with some mark
+10_021 a top view of small runway for airplanes
+10_022 a part of runway surrounded by barren land
+10_022 a runway lane with H5 sybmol on it
+10_022 a runway contains the number
+10_022 a H5 symbol is marked on the runway
+10_022 a vertical line for the landing of the helicopters
+10_023 a helipad for landing of the helicopters
+10_023 a heliport with an H on it
+10_023 a H symbol is marked on the landing area  of helipad
+10_023 a landing area with the symbol H
+10_023 a helipad for landing of the helicopters with the symol H
+10_024 a complete aerial view of a runway
+10_024 a runway for the helicoptors to land
+10_024 a runway for aeroplanes and a helipad helicopters with spoon shape
+10_024 the view shows the end of runway sorrounded by barren lands	
+10_024 the end of runway sorrounded by barren lands	
+10_025 a runway with seperate of helipad for helicopters
+10_025 an heliport for the take off of helicoptors
+10_025 a heliport with an H on it
+10_025 a top view of small heliport for helicopters
+10_025 a complete aerial view of a heliport for helicopters
+10_026 a helipad marked in white for landing and taking of helicopters
+10_026 landing base for the helicoptors is surrounded with grass field
+10_026 a helipad marked with symbol H for landing and taking of helicopters
+10_026 a helipad marked with symbol H and surrounded by buildings 
+10_026 landing base for the helicoptors and surrounded with buildings
+10_027 it is a runway joined by a small road
+10_027 a helipad for landing and taking off of helicoptors
+10_027 a view of barren land showing part of a runway
+10_027 small grass are grown along the sideway
+10_027 it shows a part of runway
+10_028 it is a part of runway
+10_028 small grass are grown along the sideway
+10_028 a runway for aeroplanes and a helipad helicopters were marked
+10_028 a runway besides contains trees and grasses
+10_028 a runway is marrked with the symbol H
+10_029 it is an end for a runway
+10_029 an u shaped area of runway
+10_029 a spoon shaped helicoptor landing area
+10_029 a spoon shaped heliport surrounded by trees and bushes
+10_029 an u shaped area of runway surrounded by trees and bushes
+10_030 a view of barren land showing part of a runway
+10_030 large area of the landmass is covered with grass
+10_030 an u shaped area of runway at the side
+10_030 an u shaped area of runway 
+10_030 a large area of the landmass surrounded with trees
+10_031 a part of runway is shown 
+10_031 a runway for the helicoptors to land
+10_031 a view of land area showing the part of a runway
+10_031 a top view of runway at the middle of a barren land
+10_031 a runway is located at the middle of land area
+10_032 a part of a runway surround by red soil land area
+10_032 a truck is moving over the heliport area
+10_032 a truck is moving beside the heliport landing area
+10_032 a part of a runway surround by trees and grasses
+10_032 a truck is running paralle towards heliport 
+10_033 a part of runway with some vegetations
+10_033 the H5 named landing area is in the middle of grassed area
+10_033 large area of the landmass is covered with bushes
+10_033 a runway is marrked with the symbol H
+10_033 a huge area of the landmass is covered with trees
+10_034 a helipad for landing the helicopeter
+10_034 an helicoptor is maintained well
+10_034 landing base for the helicoptors and surrounded with buildings
+10_034 heliport is surrounded with buildings and trees
+10_034 heliport is marked with the symbol H
+10_035 a part of runway with cuts in the middle
+10_035 small grassed grow around the runway
+10_035 a runway is marked with the symbol 
+10_035 heliport is surrounded with bushes and trees
+10_035 straight runway for the landing of airplanes
+10_036 a helipad surrounded with barren land and trees
+10_036 base for the helicoptors to land is made ready for landing
+10_036 the heliport is surrounded with buildings and trees
+10_036 the heliport is marked with the symbol H at center
+10_036 the heliport is surrounded with buildings 
+10_037 a part of runway adjacent to a runway
+10_037 a landing area for helicopters to land
+10_037 small grassed grow around the runway
+10_037 a huge area of the landmass is covered with trees
+10_037 a runway for the helicoptors to land
+10_038 a view of barren land adjacent to a runway
+10_038 a view of heliport surrounded by grass area
+10_038 a U shaped airplane landing area
+10_038 an airplan turning area with its runway
+10_038 a runway is located at the side of land area runway is located at the middle of land area
+10_039 it is a piece of barren land with mud path adjacent to a runway
+10_039 a runway in the middle of a barren land
+10_039 a part of a runway surround by trees
+10_039 more trees are grown near the airplane runway
+10_039 large area of the landmass is covered with grass
+10_040 an end of the runway adjacent to solar panels
+10_040 solar pannels are planted near the heliport
+10_040 ample solar pannel is being planted near the heliport
+10_040 U shaped for the heliport landing region
+10_040 solar panels are installed near the U shaped for the heliport landing region
+10_041 a view of runway surrounded with red soil area
+10_041 straight runway for the landing of airplanes
+10_041 straight lined roadway for the landing for the helicoptors
+10_041 an heliport road is located in between the parched area
+10_041 straight runway for the landing of airplanes are marked at the middle
+10_042 a piece of barren land with building adjacent to helipad
+10_042 a base for landing the air vehicles
+10_042 base for the landing of the helicoptors is made clean
+10_042 a view of helicopter landing which in left side area
+10_042 the heliport is surrounded with buildings and trees
+10_043 a view of the runway adjacent to solar panels
+10_043 a road beside the heliport
+10_043 the roadway beside the heliport designed like rivers
+10_043 closed view for the landing of the heliports
+10_043 solar panels are installed near by to the airplane runway
+10_044 a helipad adjacent to a runway
+10_044 solar pannel installed near a landing area
+10_044 solar pannels were implemented near the helipad landing  area
+10_044 heliports are designed in the middle of landscape
+10_044 an heliport with H named on it is ready for landing
+10_045 a part of runway surrounded by red soil barren land
+10_045 a runway for landing airplanes
+10_045 heliport area is being maintained well for landing
+10_045 straight lined roadway is covered with some kinds of plants
+10_045 runway with H named on its landing area 
+10_046 shows the part of helipad with some dense trees
+10_046 a dry land area surrounding the airport
+10_046 sideway of the heliport landing is surrounded with dried landmass
+10_046 an overview of landing surface with heliport roadway
+10_046 trees planted in rows near a heliport
+10_047 an ariel view of runway for landing aircrafts
+10_047 many trees are grown far away from airport
+10_047 far away from the heliport more number of trees grown
+10_047 an heliport landing surface is designed in dry region
+10_047 a narrow runway for landing airplanes
+10_048 a helipad for landing helicopters adjacent to a small road
+10_048 an heliport with H mark for landing
+10_048 a vehicle is moving parallel to the heliport surface
+10_048 an heliport with H named on it is ready for landing
+10_048 a runway adjacent to a heliport
+10_049 a heliport for landing the helicopters
+10_049 a part of runway for airplanes
+10_049 heliport landing roadway is well designed
+10_049 a vertical line for the landing of the helicopters
+10_049 small grass and shrub grown around a runway
+10_050 a piece of runway adjacent to a barren land
+10_050 a straight lane for the helicoptor landing
+10_050 a straight lane for the helicoptor to land
+10_050 different varieties of plant species are grown near the landing area
+10_050 a long narrw runway for landing airplanes
+10_051 a helipad adjacent to a building
+10_051 a heliport for landing helicopters
+10_051 landing base for helicoptors is maintained well
+10_051 heliports are designed in the middle of landscape
+10_051 a building adjacent to a heliport
+10_052 a part of runway in red soil land area
+10_052 part of airplane runway
+10_052 another section of landing area for the helicoptors
+10_052 a straight line for the helicopter to land
+10_052 a runway surrounded by a barren land
 10153 an end of a runway connected to a mud path
 10153 an airport in a remote area
 10153 a turn over area for the helicoptors
 10153 trees and grasses are well grown in and around helipads
 10153 a circular runway for making u turn
-10154 it is a part of runway surrounded by a land area with some trees
-10154 long broad road for the helicoptors to land
-10154 trees and grasses are well grown in a very big landscape
-10154 small shrubs grown near a runway
-10154 a runway to near a land covered with shrubs
-10155 a helipad marked for landing of helipads
-10155 base area for the helicoptors to land
-10155 base area for the helicoptors to land is being maintained well
-10155 an overview of landing surface with heliport roadway
-10155 a runway and a helipad adjacent to it
-10156 a part of runway adjacent to barren land with some vegetations
-10156 a greenish area beside the heliport
-10156 a greenish area beside the heliport is well grown
-10156 a very closed view for the greenish part near heliport
-10156 a piece of barren land near a runway
-10157 a helipad adjacent to a building
-10157 a small airport wiith runway and helipad
-10157 rectangled area of land is used for the landing
-10157 a truck is moving on one side of the landing surface
-10157 a clean helipad designed on a barren land
-10158 a helipad adjacent to a building
-10158 a small building adjacent to a helipad
-10158 a long distance view of the helicopters landing surface
-10158 land area for the landing of the helicoptors is faced towards right
-10158 a runway and heliport adjacent a small road
-10159 a barren land with a part of helipad
-10159 long road area for the take off of the helicoptors 
-10159 land used for the take off the helicopters
-10159 a runway to land airplanes
-10159 a runway surrounded by barren land
-10160 it shows a part of runway for aircrafts
-10160 heliport is surrounded by grassy area
-10160 heliport is in the middle part of the landscape
-10160 a runway in the midst of a barren land
-10160 small plants surround the runway
+10_054 it is a part of runway surrounded by a land area with some trees
+10_054 long broad road for the helicoptors to land
+10_054 trees and grasses are well grown in a very big landscape
+10_054 small shrubs grown near a runway
+10_054 a runway to near a land covered with shrubs
+10_055 a helipad marked for landing of helipads
+10_055 base area for the helicoptors to land
+10_055 base area for the helicoptors to land is being maintained well
+10_055 an overview of landing surface with heliport roadway
+10_055 a runway and a helipad adjacent to it
+10_056 a part of runway adjacent to barren land with some vegetations
+10_056 a greenish area beside the heliport
+10_056 a greenish area beside the heliport is well grown
+10_056 a very closed view for the greenish part near heliport
+10_056 a piece of barren land near a runway
+10_057 a helipad adjacent to a building
+10_057 a small airport wiith runway and helipad
+10_057 rectangled area of land is used for the landing
+10_057 a truck is moving on one side of the landing surface
+10_057 a clean helipad designed on a barren land
+10_058 a helipad adjacent to a building
+10_058 a small building adjacent to a helipad
+10_058 a long distance view of the helicopters landing surface
+10_058 land area for the landing of the helicoptors is faced towards right
+10_058 a runway and heliport adjacent a small road
+10_059 a barren land with a part of helipad
+10_059 long road area for the take off of the helicoptors 
+10_059 land used for the take off the helicopters
+10_059 a runway to land airplanes
+10_059 a runway surrounded by barren land
+10_060 it shows a part of runway for aircrafts
+10_060 heliport is surrounded by grassy area
+10_060 heliport is in the middle part of the landscape
+10_060 a runway in the midst of a barren land
+10_060 small plants surround the runway
