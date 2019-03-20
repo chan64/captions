@@ -1,367 +1,395 @@
-09_001 Bunches of trees are seen near the roads.
-09_001 There are several roads joining each other.
-09_001 There are some vacant grounds and lots of trees are grown near the roads.
-09_001 Residential area with roads and trees
-09_001 a residential area with curved road and a high tower
-09_002 Roads are seen nearer to which solar panels are being installed.
-09_002 Lots of trees are seen in that area.
-09_002 Solar panels are installed near the roads.
-09_002 Two way road surrounded with plants and trees
-09_002 an ariel view two way road with plants in the divider
-09_003 There are some vacant grounds and lots of trees are grown near the roads.
-09_003 There are multiple roads located near the vacant lands.
-09_003 There are some vacant lands seen near the roads.
-09_003 Residential area and its road structure
-09_003 a residential area with many roads interconnecting each building
-09_004 Bunches of trees are seen near the roads.
-09_004 There are some vacant grounds and lots of trees are grown near the roads.
-09_004 Some dry and vacant lands are present near the roads.
-09_004 Top view of road connecting the residential area
-09_004 a road connecting the residential area with round anna in the middle
-09_005 Trees are in large numbers near the roads.
-09_005 It is a residential area located near to the roads.
-09_005 Lots of trees are seen in that area.
-09_005 Top view of residential area surrounded with trees
-09_005 a top view of the residential area with bigger trees
-09_006 It is a residential area covered with trees.
-09_006 Bunches of trees are seen near the roads.
-09_006 Lots of trees are grown in that area.
-09_006 Roads connecting the buildings of a residential area
-09_006 a residential area with small roads connecting the buildings
-09_007 The roads are surrounded by trees.
-09_007 There are small buildings located near the area covered with trees.
-09_007 Lots of trees are seen in that area.
-09_007 Residential area with small houses and trees
-09_007 small roads connecting through the residential area
-09_008 There are several roads connecting each other.
-09_008 Several roads are linking each other.
-09_008 The regions has some roads covered with trees.
-09_008 Roads connecting different streets in an area
-09_008 a wide road interconnects the two residential areas
-09_009 Lots of trees are grown near the roads.
-09_009 Large number of trees are grown near the roads.
-09_009 The area has some resident surrounded by trees.
-09_009 Residential area with trees and houses
-09_009 a residential area with many small houses and trees
-09_010 There are several roads connecting each other.
-09_010 Lots of trees are seen in that area.
-09_010 Several roads are linking each other.
-09_010 a junction connecting the houses
-09_010 a junction of four roads connecting houses in a residential area	
-09_011 There are multiple roads present near the vacant lands.
-09_011 The regions has some roads covered with trees.
-09_011 There are set of neat and clean roads.
-09_011 Three Wider roads connecting houses in the area
-09_011 three parallel roads to connect the houses in residential area	
-09_012 Some dry lands are present near the roads.
-09_012 Presence of some dry lands near the roads.
-09_012 There are some vacant lands present.
-09_012 A road with buildings and trees in one side and barren land on other side
-09_012 a road with an institution on side and barren land on other side
-09_013 Roads are constructed inbetween the plains.
-09_013 A single road is seen inmidst of the plains.
-09_013 There is a single lane road covered by bushes in both the ends.
-09_013 A road with trees and plants on both the sides
-09_013 a wide road with vegations on both sides of the road
-09_014 The roads are passing through the forest areas.
-09_014 There is a road inmidst of the forests.
-09_014 There is a single lane road covered by bushes in both the ends.
-09_014 A residential area surrounded with big trees
-09_014 a small road laid in between trees and buldings
-09_015 There are some industries located near the roads.
-09_015 There are several vacant lands and some industries.
-09_015 Several roads are seen near the vacant lands.
-09_015 Roads connecting the residential area and playground
-09_015 a curved road conncting an institution and playgrounds
-09_016 There are large number of trees near the roads.
-09_016 There is a road inmidst of the forests.
-09_016 There is a single lane road covered by trees in both the ends.
-09_016 Roads connecting the houses of a residential area with big trees
-09_016 a top view of a road connecting residential areas	
-09_017 Several roads are joining each other.
-09_017 There are several vacant lands and some industries.
-09_017 There exists some vacant lands near the roads.
-09_017 A highway connecting a residential area
-09_017 a top view of a curved road connecting the play area
-09_018 There are several dirty and waste lands near the highways. 
-09_018 There are several vacant lands near the highways.
-09_018 There is a highway near the vacant lands.
-09_018 A highway connecting a residential area
-09_018 a bulding of an institution adjacent to a highway
-09_019 It is a residential area covered with trees.
-09_019 There is a road inmidst of the forests.
-09_019 There are roads laid inbetween the area covered with trees.
-09_019 Roads connecting the houses of a residential area with big trees
-09_019 a densely populated residential area with many roads
-09_020 There is a circular road passing near the dry lands.
-09_020 Roads connecting the houses of a residential area with big trees
-09_020 There exists some vacant lands near the roads.
-09_020 Curved roads connecting the playground and a residential area
-09_020 a curved road seperating residential areas from the gardens
-09_021 The roads are fuly surrounded by trees.
-09_021 There are roads laid inbetween the area covered with trees.
-09_021 Several roads are linking each other.
-09_021 a junction connecting to the main road
-09_021 a junction of four roads connected to a main road
-09_022 There are some empty lands near the roads.
-09_022 There are several vacant lands near the highways.
-09_022 There are roads on back side of the building.
-09_022 A red color building next to a highway
-09_022 a red color building of an institution adjacent to a highwauy
-09_023 There are some empty lands near the roads.
-09_023 There is a road present in middle of the area covered with trees and vacant lands.
-09_023 The roads are present in the area which has some vacant lands and some trees.
-09_023 A road with vegitation on one side and barren land on the other side
-09_023 a residential area covered by densely planted trees
-09_024 There are large number of trees near the roads.
-09_024 There are lot of trees grown surrounding the roads.
-09_024 There are roads inbetween the forest areas.
-09_024 Two junctions connecting the houses in a residential area
-09_024 a neat layout of residential area with roads connecting the buildings
-09_025 There are large number of trees near the roads.
-09_025 There are lot of trees grown surrounding the roads.
-09_025 There are lot of trees grown surrounding the roads.
-09_025 Top view of a road connecting two areas
-09_025 a top view of a community with playgrounds and houses	
-09_026 There are roads inbetween the forest areas.
-09_026 The road runs through the area which has green grounds.
-09_026 A main road connecting different areas
-09_026 a main road branching to many sub roads
-09_026 There is a road which passes through the plains.
-09_027 Lot of trees cover small buildings located near the roads.
-09_027 There are roads connecting each other surrounded by trees.
-09_027 The roads are present in the area which has some vacant lands and some trees.
-09_027 top view of a road connecting many other roads in a residential area
-09_027 a view of road in a residential area branching to many side roads
-09_028 There are lot of trees near the roads.
-09_028 There are roads connecting each other surrounded by trees.
-09_028 There are lot of trees grown surrounding the roads.
-09_028 top view of big trees in a residential area
-09_028 a layout showing dense trees planted in a residential area
-09_029 There are lot of trees near the roads.
-09_029 There is a single way road surrounded by trees.
-09_029 There are several roads conencting each other.
-09_029 A road with dense trees and houses on one side and a barren land on other side
-09_029 a road dividing the residential area and a playground
-09_030 The highways are passing through the forests.
-09_030 The highways are fully covered with trees.
-09_030 There is a highways inmidst of the forest regions.
-09_030 A junction of two way roads with round anna in the middle
-09_030 a junction of four two way roads with round anna in the middle
-09_031 There are lot of trees near the roads.
-09_031 There are lot of trees grown near the roads.
-09_031 There are roads connecting each other which are covered with trees.
-09_031 A junction connecting a residential area and a main road
-09_031 a top view of a network of roads in a residential area
-09_032 There are some farmlands present near the roads.
-09_032 There are bushes and trees seen near the roads.
-09_032 Some gardens are present near the road.
-09_032 Top view of a road seperating trees and a lake
-09_032 a view of road separating trees and a canal
-09_033 There are lot of trees near the roads.
-09_033 Lots of trees are grown in that particular area.
-09_033 There are some clean roads which are surrounded with trees.
-09_033 Round anna connecting three roads with a tower surrounded by trees on other side
-09_033 a junction of three road with a round anna in the middle and a high tower on one side
-09_034 There are lot of trees near the roads.
-09_034 There are bushes and trees seen near the roads.
-09_034 There are some clean roads which are surrounded with trees.
-09_034 A junction connecting a residential area and a main road
-09_034 a view of a side road branching out of a main road
-09_035 There are lot of trees near the roads.
-09_035 There are certain set of roads linking each other.
-09_035 Lots of trees are seen in that area.
-09_035 A curved road with densed trees on one side and a barren land on the other side
-09_035 a view of a curved road and a garden on one side of the road
-09_036 There is a circular roundtana which links several roads.
-09_036 There are certain set of roads linking each other thorugh roundtana.
-09_036 There is a circular roundtana connecting various roads.
-09_036 A round anna counnecting three roads with a bus terminus
-09_036 a junction of roads with a bus terminus
-09_037 The roads are passing through the plains.
-09_037 The road runs through the area which has green grounds.
-09_037 There are some farmlands and vacant grounds present near the roads. 
-09_037 A road with bridges connecting two sides of a canal
-09_037 a road with bridges connecting the two sides of a canal
-09_038 There are some roads surrounded by trees.
-09_038 The single way road is surrounded fully with trees.
-09_038 There is a single lane road present inmidst of forest area.
-09_038 Roads connecting residential areas to the main road
-09_038 a road connecting the residential area
-09_039 There is a road passing above the canal.
-09_039 There is a single lane road crossing the canal.
-09_039 There are roads leading to canal.
-09_039 A land with well and a canal
-09_039 a cultivational area with well and canal
-09_040 There are lot of trees in that particular area.
-09_040 The road runs through the area covered fully with trees.
-09_040 Several roads are connecting each other.
-09_040 A round anna connecting three roads with residential areas on two sides and a barren land on other side
-09_040 a junction of three roads with roundtanna in the middle
-09_041 There are several roads located near the area covered with trees.
-09_041 The road runs through the area covered fully with trees.
-09_041 Lots of trees are seen in that area near the roads.
-09_041 Roads connectin the houses of a residential area
-09_041 a network of road interconnecting the residential area
-09_042 There is a road that passes through the forest area.
-09_042 The road runs through the area covered fully with trees.
-09_042 There is a road which is fully surrounded by trees.
-09_042 Two residential areas with dense trees seperated by a road
-09_042 a small village road connecting the houses
-09_043 There is a highway passing near the farmlands.
-09_043 There is a highway which runs near the farmlands.
-09_043 There are farmlands near to highways.
-09_043 A cultivation land near a highway
-09_043 a row of paddy fields adjacent to a highway
-09_044 Lot of trees are seen.
-09_044 The road runs through the area covered fully with trees.
-09_044 Lots of trees are seen in that area.
-09_044 a curved road with a barren land on one side and a towe surrounded with big trees on the other side
-09_044 a curved road with high tower on side of the road
-09_045 There is a road that passes through the forest area.
-09_045 The road runs through the area covered fully with trees.
-09_045 There is a road which is fully surrounded by trees.
-09_045 Roads of a residential area connecting to a main road
-09_045 a narrow road connecting the residential area with dense trees
-09_046 Trees and playgrounds are seen near the roads.
-09_046 Some playgrounds and trees are seen near the roads.
-09_046 There are some grounds and trees grown near the roads.
-09_046 A junction connecting the roads of a residential area
-09_046 two parllel roads connecting the playground, institution and residential area
-09_047 It is a area where lots of trees are seen.
-09_047 The road runs through the area covered fully with trees.
-09_047 There is a road which is fully surrounded by trees.
-09_047 A junction connecting the roads of a residential area with big trees
-09_047 a residential area covered by dense trees
-09_048 It is a residential area covered by trees.
-09_048 Several residents are seen covered by trees.
-09_048 Some residents are seen close to the forest regions.
-09_048 A dense residential area interconnected with roads
-09_048 a dense residential area interconnected with roads
-09_049 There are some dry lands near the roads.
-09_049 There are farlands and dry lands located on either side of the roads.
-09_049 There are some dry lands close to the roads.
-09_049 A road between cultivation lands
-09_049 a two way road between agricultural fields
+09101 Bunches of trees are seen near the roads.
+09101 There are several roads joining each other.
+09101 There are some vacant grounds and lots of trees are grown near the roads.
+09101 Residential area with roads and trees
+09101 a residential area with curved road and a high tower
+09102 Roads are seen nearer to which solar panels are being installed.
+09102 Lots of trees are seen in that area.
+09102 Solar panels are installed near the roads.
+09102 Two way road surrounded with plants and trees
+09102 an ariel view two way road with plants in the divider
+09103 There are some vacant grounds and lots of trees are grown near the roads.
+09103 There are multiple roads located near the vacant lands.
+09103 There are some vacant lands seen near the roads.
+09103 Residential area and its road structure
+09103 a residential area with many roads interconnecting each building
+09104 Bunches of trees are seen near the roads.
+09104 There are some vacant grounds and lots of trees are grown near the roads.
+09104 Some dry and vacant lands are present near the roads.
+09104 Top view of road connecting the residential area
+09104 a road connecting the residential area with round anna in the middle
+09105 Trees are in large numbers near the roads.
+09105 It is a residential area located near to the roads.
+09105 Lots of trees are seen in that area.
+09105 Top view of residential area surrounded with trees
+09105 a top view of the residential area with bigger trees
+09106 It is a residential area covered with trees.
+09106 Bunches of trees are seen near the roads.
+09106 Lots of trees are grown in that area.
+09106 Roads connecting the buildings of a residential area
+09106 a residential area with small roads connecting the buildings
+09107 The roads are surrounded by trees.
+09107 There are small buildings located near the area covered with trees.
+09107 Lots of trees are seen in that area.
+09107 Residential area with small houses and trees
+09107 small roads connecting through the residential area
+09108 There are several roads connecting each other.
+09108 Several roads are linking each other.
+09108 The regions has some roads covered with trees.
+09108 Roads connecting different streets in an area
+09108 a wide road interconnects the two residential areas
+09109 Lots of trees are grown near the roads.
+09109 Large number of trees are grown near the roads.
+09109 The area has some resident surrounded by trees.
+09109 Residential area with trees and houses
+09109 a residential area with many small houses and trees
+09110 There are several roads connecting each other.
+09110 Lots of trees are seen in that area.
+09110 Several roads are linking each other.
+09110 a junction connecting the houses
+09110 a junction of four roads connecting houses in a residential area	
+09111 There are multiple roads present near the vacant lands.
+09111 The regions has some roads covered with trees.
+09111 There are set of neat and clean roads.
+09111 Three Wider roads connecting houses in the area
+09111 three parallel roads to connect the houses in residential area	
+09112 Some dry lands are present near the roads.
+09112 Presence of some dry lands near the roads.
+09112 There are some vacant lands present.
+09112 A road with buildings and trees in one side and barren land on other side
+09112 a road with an institution on side and barren land on other side
+09113 Roads are constructed inbetween the plains.
+09113 A single road is seen inmidst of the plains.
+09113 There is a single lane road covered by bushes in both the ends.
+09113 A road with trees and plants on both the sides
+09113 a wide road with vegations on both sides of the road
+09114 The roads are passing through the forest areas.
+09114 There is a road inmidst of the forests.
+09114 There is a single lane road covered by bushes in both the ends.
+09114 A residential area surrounded with big trees
+09114 a small road laid in between trees and buldings
+09115 There are some industries located near the roads.
+09115 There are several vacant lands and some industries.
+09115 Several roads are seen near the vacant lands.
+09115 Roads connecting the residential area and playground
+09115 a curved road conncting an institution and playgrounds
+09116 There are large number of trees near the roads.
+09116 There is a road inmidst of the forests.
+09116 There is a single lane road covered by trees in both the ends.
+09116 Roads connecting the houses of a residential area with big trees
+09116 a top view of a road connecting residential areas	
+09117 Several roads are joining each other.
+09117 There are several vacant lands and some industries.
+09117 There exists some vacant lands near the roads.
+09117 A highway connecting a residential area
+09117 a top view of a curved road connecting the play area
+09118 There are several dirty and waste lands near the highways. 
+09118 There are several vacant lands near the highways.
+09118 There is a highway near the vacant lands.
+09118 A highway connecting a residential area
+09118 a bulding of an institution adjacent to a highway
+09119 It is a residential area covered with trees.
+09119 There is a road inmidst of the forests.
+09119 There are roads laid inbetween the area covered with trees.
+09119 Roads connecting the houses of a residential area with big trees
+09119 a densely populated residential area with many roads
+09120 There is a circular road passing near the dry lands.
+09120 Roads connecting the houses of a residential area with big trees
+09120 There exists some vacant lands near the roads.
+09120 Curved roads connecting the playground and a residential area
+09120 a curved road seperating residential areas from the gardens
+09121 The roads are fuly surrounded by trees.
+09121 There are roads laid inbetween the area covered with trees.
+09121 Several roads are linking each other.
+09121 a junction connecting to the main road
+09121 a junction of four roads connected to a main road
+09122 There are some empty lands near the roads.
+09122 There are several vacant lands near the highways.
+09122 There are roads on back side of the building.
+09122 A red color building next to a highway
+09122 a red color building of an institution adjacent to a highwauy
+09123 There are some empty lands near the roads.
+09123 There is a road present in middle of the area covered with trees and vacant lands.
+09123 The roads are present in the area which has some vacant lands and some trees.
+09123 A road with vegitation on one side and barren land on the other side
+09123 a residential area covered by densely planted trees
+09124 There are large number of trees near the roads.
+09124 There are lot of trees grown surrounding the roads.
+09124 There are roads inbetween the forest areas.
+09124 Two junctions connecting the houses in a residential area
+09124 a neat layout of residential area with roads connecting the buildings
+09125 There are large number of trees near the roads.
+09125 There are lot of trees grown surrounding the roads.
+09125 There are lot of trees grown surrounding the roads.
+09125 Top view of a road connecting two areas
+09125 a top view of a community with playgrounds and houses	
+
+09126 There are roads inbetween the forest areas.
+09126 The road runs through the area which has green grounds.
+09126 A main road connecting different areas
+09126 a main road branching to many sub roads
+09126 There is a road which passes through the plains.
+
+09127 Lot of trees cover small buildings located near the roads.
+09127 There are roads connecting each other surrounded by trees.
+09127 The roads are present in the area which has some vacant lands and some trees.
+09127 top view of a road connecting many other roads in a residential area
+09127 a view of road in a residential area branching to many side roads
+09128 There are lot of trees near the roads.
+09128 There are roads connecting each other surrounded by trees.
+09128 There are lot of trees grown surrounding the roads.
+09128 top view of big trees in a residential area
+09128 a layout showing dense trees planted in a residential area
+09129 There are lot of trees near the roads.
+09129 There is a single way road surrounded by trees.
+09129 There are several roads conencting each other.
+09129 A road with dense trees and houses on one side and a barren land on other side
+09129 a road dividing the residential area and a playground
+09130 The highways are passing through the forests.
+09130 The highways are fully covered with trees.
+09130 There is a highways inmidst of the forest regions.
+09130 A junction of two way roads with round anna in the middle
+09130 a junction of four two way roads with round anna in the middle
+09131 There are lot of trees near the roads.
+09131 There are lot of trees grown near the roads.
+09131 There are roads connecting each other which are covered with trees.
+09131 A junction connecting a residential area and a main road
+09131 a top view of a network of roads in a residential area
+09132 There are some farmlands present near the roads.
+09132 There are bushes and trees seen near the roads.
+09132 Some gardens are present near the road.
+09132 Top view of a road seperating trees and a lake
+09132 a view of road separating trees and a canal
+09133 There are lot of trees near the roads.
+09133 Lots of trees are grown in that particular area.
+09133 There are some clean roads which are surrounded with trees.
+09133 Round anna connecting three roads with a tower surrounded by trees on other side
+09133 a junction of three road with a round anna in the middle and a high tower on one side
+09134 There are lot of trees near the roads.
+09134 There are bushes and trees seen near the roads.
+09134 There are some clean roads which are surrounded with trees.
+09134 A junction connecting a residential area and a main road
+09134 a view of a side road branching out of a main road
+09135 There are lot of trees near the roads.
+09135 There are certain set of roads linking each other.
+09135 Lots of trees are seen in that area.
+09135 A curved road with densed trees on one side and a barren land on the other side
+09135 a view of a curved road and a garden on one side of the road
+09136 There is a circular roundtana which links several roads.
+09136 There are certain set of roads linking each other thorugh roundtana.
+09136 There is a circular roundtana connecting various roads.
+09136 A round anna counnecting three roads with a bus terminus
+09136 a junction of roads with a bus terminus
+09137 The roads are passing through the plains.
+09137 The road runs through the area which has green grounds.
+09137 There are some farmlands and vacant grounds present near the roads. 
+09137 A road with bridges connecting two sides of a canal
+09137 a road with bridges connecting the two sides of a canal
+09138 There are some roads surrounded by trees.
+09138 The single way road is surrounded fully with trees.
+09138 There is a single lane road present inmidst of forest area.
+09138 Roads connecting residential areas to the main road
+09138 a road connecting the residential area
+09139 There is a road passing above the canal.
+09139 There is a single lane road crossing the canal.
+09139 There are roads leading to canal.
+09139 A land with well and a canal
+09139 a cultivational area with well and canal
+09140 There are lot of trees in that particular area.
+09140 The road runs through the area covered fully with trees.
+09140 Several roads are connecting each other.
+09140 A round anna connecting three roads with residential areas on two sides and a barren land on other side
+09140 a junction of three roads with roundtanna in the middle
+09141 There are several roads located near the area covered with trees.
+09141 The road runs through the area covered fully with trees.
+09141 Lots of trees are seen in that area near the roads.
+09141 Roads connectin the houses of a residential area
+09141 a network of road interconnecting the residential area
+09142 There is a road that passes through the forest area.
+09142 The road runs through the area covered fully with trees.
+09142 There is a road which is fully surrounded by trees.
+09142 Two residential areas with dense trees seperated by a road
+09142 a small village road connecting the houses
+09143 There is a highway passing near the farmlands.
+09143 There is a highway which runs near the farmlands.
+09143 There are farmlands near to highways.
+09143 A cultivation land near a highway
+09143 a row of paddy fields adjacent to a highway
+09144 Lot of trees are seen.
+09144 The road runs through the area covered fully with trees.
+09144 Lots of trees are seen in that area.
+09144 a curved road with a barren land on one side and a towe surrounded with big trees on the other side
+09144 a curved road with high tower on side of the road
+09145 There is a road that passes through the forest area.
+09145 The road runs through the area covered fully with trees.
+09145 There is a road which is fully surrounded by trees.
+09145 Roads of a residential area connecting to a main road
+09145 a narrow road connecting the residential area with dense trees
+09146 Trees and playgrounds are seen near the roads.
+09146 Some playgrounds and trees are seen near the roads.
+09146 There are some grounds and trees grown near the roads.
+09146 A junction connecting the roads of a residential area
+09146 two parllel roads connecting the playground, institution and residential area
+09147 It is a area where lots of trees are seen.
+09147 The road runs through the area covered fully with trees.
+09147 There is a road which is fully surrounded by trees.
+09147 A junction connecting the roads of a residential area with big trees
+09147 a residential area covered by dense trees
+09148 It is a residential area covered by trees.
+09148 Several residents are seen covered by trees.
+09148 Some residents are seen close to the forest regions.
+09148 A dense residential area interconnected with roads
+09148 a dense residential area interconnected with roads
+09149 There are some dry lands near the roads.
+09149 There are farlands and dry lands located on either side of the roads.
+09149 There are some dry lands close to the roads.
+09149 A road between cultivation lands
+09149 a two way road between agricultural fields
+
 09_050 Certain vacant lands are present near the roads
 09_050 There are some dry lands located near the roads.
 09_050 There are several vacant lands present near the roads.
 09_050 A connection of three roads with buildings trees and barren lands on each sides
 09_050 a junction of three roads with a building in the corner of the junction
+
 09_051 Some dry lands are present near the roads.
 09_051 There are some dry lands located near the roads.
 09_051 There are several vacant lands present near the roads.
 09_051 A road connecting a highway
 09_051 a side road branching out of a highway
+
 09_052 Some residents are surrounded by trees.
 09_052 There is a road which is fully surrounded by trees.
 09_052 The roads are surrounded by trees.
 09_052 Junctions connecting buildings of a residential area with dense trees
 09_052 an interconnection roads covered by many trees
+
 09_053 There are some small buildings near the forest areas.
 09_053 There are several trees grown bordering the roads.
 09_053 A circular road is seen. 
 09_053 A curved road with trees and buildings on one side and a bus terminus on other side
 09_053 a curved road on one side of a bus terminus
+
 09_054 Some dry lands are present near the roads.
 09_054 Some vacant lands are seen near the roads.
 09_054 There are several vacant lands present near the roads.
 09_054 A road connecting the main road with buildings on one side
 09_054 a junction of three roads with industrial area on one side
+
 09_055 The highways runs through the forests.
 09_055 There is a highway running through the forest areas.
 09_055 The highways are constructed inmidst of the forests.
 09_055 A round anna connecting three roads and a bus terminus to a residential area
 09_055 a network of roads connecting a bus terminus and residential area
+ 
 09_056 The roads are surrounded fully by trees.
 09_056 The roads are laid inmidst of the forest areas.
 09_056 The roads are surrounded by lot of trees.
 09_056 A residential area surrounded with big trees
 09_056 a road separating some dense trees of the residential area
+
 09_057 The roads are surrounded fully by trees.
 09_057 There is a road which is fully surrounded by trees.
 09_057 The roads are surrounded by lot of trees.
 09_057 Roads connecting the residential area to the main road
 09_057 a long narrow road separting the residential area
+
 09_058 The roads are surrounded fully by trees.
 09_058 The area is very much denser with lot of trees grown.
 09_058 It is a forest area inbetween which a road is passing through.
 09_058 A junction of four roads connecting the residential area
 09_058 a small network of roads in a residential area
+
 09_059 Some vacant lands are seen near the roads.
 09_059 Some dry lands are seen near to the roads.
 09_059 There are several vacant lands present near the roads.
 09_059 A two way road connecting three parallel roads leading to residential area
 09_059 a two way road is connected to three parallel roads
+
 09_060 The area is very much denser with lot of trees grown.
 09_060 There are roads laid inbetween dense regions.
 09_060 Some roads are seen near the forest areas.
 09_060 A road connecting the residential area to the main road
 09_060 a network of road forming a triangular area between the roads
+
 09_061 There are farmlands near the roads.
 09_061 Near to the roads farmlands are situated.
 09_061 Some farmlands are present near the roads.
 09_061 A road seperating the agricultural fields
 09_061 a two way road with agricultural area on one side of the road
+ 
 09_062 It is a dense area where smaller roads are present.
 09_062 There are roads laid inbetween dense regions.
 09_062 It is a forest area with some roads.
 09_062 A junction of four roads connecting the residential area
 09_062 a junction of four roads in a residential area
+
 09_063 There are clean and neat lands near the roads.
 09_063 Multiple roads are seen near the plains.
 09_063 There are roads near clean grounds where solar panels are installed.
 09_063 Three parallel roads seperating the houses
 09_063 a three parallel roads connecting the houses
+
 09_064 Some vacant lands are seen near the roads.
 09_064 There are some vacant grounds near the roads.
 09_064 There are several vacant lands present near the roads.
 09_064 A road seperating the barren land and the trees
 09_064 a village road with barren lands and trees on either side
+
 09_065 There is a road passing through the dense areas.
 09_065 It is a dense area where smaller roads are present.
 09_065 It is a forest area with some roads.
 09_065 A network of roads connecting the residential area
 09_065 a network of small roads connecting the residential area
+
 09_066 There is a road passing through the dense areas.
 09_066 It is a dense area where smaller roads are present.
 09_066 It is a forest area with some roads.
 09_066 Road structure of a residential area
 09_066 a fork of road in a residential area
+
 09_067 There are roads laid inbetween dense regions.
 09_067 The roads are seen surrounded by trees.
 09_067 It is a forest area with some roads.
 09_067 A junction of four roads connecting the residential area to the main road
 09_067 a two way of parallel roads branching into a residential area
+
 09_068 There is small road covered fully with trees.
 09_068 There are roads laid inbetween dense regions.
 09_068 It is a residential area with lots of trees.
 09_068 A residential area with trees and houses
 09_068 a residential area with houses and roads
+
 09_069 There are roads laid inbetween dense regions.
 09_069 Some residents are seen near the dense regions covered with trees.
 09_069 The roads are constructed in the forest area.
 09_069 Roads connecting the residential area with high population
 09_069 a densely populated residential area with many houses
+
 09_070 There is a playgorund surrounded by trees.
 09_070 There is a small road passing thorugh area.
 09_070 The roads are connecting each other.
 09_070 A junction connecting different streets
-09_070 a road connecting playground and the houses09_071 The green plains are seen.
+09_070 a road connecting playground and the houses
+
+09_071 The green plains are seen.
 09_071 There is a road passing through the plains.
 09_071 There are some green lands inbetween which a road is passing through.
 09_071 A wide road across vegetations
 09_071 a network of roads branching out of a main road
+
 09_072 It is a forest area with some roads.
 09_072 It is a residential area with lots of trees.
 09_072 It is a forest area through which ther is a road passing.
 09_072 A network of roads in a residential area connecting to the main road
 09_072 a narrow road separting dense trees of a residential area
+
 09_073 There are roads passing through the area which has dirty lands.
 09_073 There are dry lands seen near the roads.
 09_073 There are several vacant lands present near the roads.
 09_073 A road acroos barren land and buildings
 09_073 a road with barren land and buildings on either side
+
 09_074 There are roads connecting each other.
 09_074 A residential area with trees and houses
 09_074 The roads are laid in the area which is covered fully with trees.

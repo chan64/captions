@@ -1,153 +1,153 @@
-00191 it is a piece of unused barren land
-00191 A piece of land with trees and pathways between them
-00191 There exist a dense tree cover on one side of the barren lands with mud paths
-00191 A mud path runs between the barren lands and dense tree cover
-00191 Dense tree cover exist on one side of the pathway in the barren lands
-00192 it is piece of barren land with many mud paths and canals
-00192 A piece of land with trees and pathways between them and few solar panels are laid along side 
-00192 Mud paths running inbetween the barren lands is located near a canal.
-00192 A canal is spotted near a barrenland containing mud paths.
-00192 A barren land with green grasses, mud paths and a canal is spotted.
-00193 it is a piece of unused and barren land area
-00193 A vacant land with few trees 
-00193 Green grasses and bushes were present over the dry lands.
-00193 Few grasses were spread over the dry land.
-00193 A dry land is spotted with green bushes.
-00194 a land area with red soil and plants growing randomly
-00194 A piece of land spread with trees and grasses
-00194 A dense tree cover was present near the reds soil area.
-00194 A red soil area is spotted near a dense tree cover.
-00194 Mud paths exists inbetween the dense tree cover.
-00195 a barren land with house and trees
-00195 A vacant land with few residential building along roadside 
-00195 Two buildings were present in a dry land, along with green bushes.
-00195 A dry land, buildings and trees were present.
-00195  A vacant land with few trees and buildings are spotted.
-00196 a piece of land with red soil and few plants and trees
-00196 A piece of land with mud spread over between trees 
-00196 A land is spotted with red soil and green patches over it.
-00196 There are some green patches of land over the red soil area.
-00196 Green grasses are grown on some places of the land.
-00197 a land area with house and road
-00197 A rry land with one residential building along roadside
-00197 A small buildings was present in a dry land alongside the road
-00197 A road with trees on its either sides and  a small building was spotted.
-00197 A dry land, building, trees and a road is present.
-00198 it is a land area with red sand and some dense plants
-00198 A piece of land spread with grasses trees and fewer soil
-00198 Red soil is spotted with greeneries.
-00198 A dense tree cover is present near the red soil area.
-00198 A thick tree cover is spotted near the red soil area.
-00199 it is a land area with canal and solar panels
-00199 A piece of land occupied with solar panels surrouded by trees 
-00199 Solar panels and green patches of land is present over the red soil area.
-00199 Red soil area is spotted with green patches of land and solar panels.
-00199 Solar panels are arranged on one side of a red soil area.
-00200 it is a land area with good vegetations and houses
-00200 A piece of land with few residential building surrounded by trees and solar panels are laid alongside
-00200 A solar farm exist at one corner of the barren land.
-00200 Some detached solar panels are found near the barren lands, having buildings and trees.
-00200 There exist a solar farm near a barren land containing grasses, buildings and trees.
-00201 it a land area with small plants covering the ground and a mud path
-00201 A piece of land spread with grasses and few trees and a pathway between them 
-00201 A barren land is spotted with green bushes and mud paths.
-00201 Small green bushes and mud paths exist on a barren land.
-00201 A barren land with green patches of lands are seen.
-00202 it is a land area with red soil and few plants
-00202 A land spread over with mud and few trees on it  
-00202 A land is spotted with red soil and green patches over it.
-00202 There are some green patches of land over the red soil area.
-00202 Green grasses are grown on some places of the land.
-00203 it is a land area with red soil covered with many plants 
-00203 Solar panels are laid alongside the land with trees and grasses
-00203 Green patches of land are spotted near a solar farm.
-00203 Solar farm exist near a grassland.
-00203 Solar panels are present close to a grassland.
-00204 it is a piece of land area with many trees and mud paths
-00204 A vacant land with trees grasses and pathway between them 
-00204 Green bushes were grown on a vacant grassy ground.
-00204 A vacant ground is spotted with green bushes.
-00204 Green bushes were present near a grassland.
-00205 it is land area with farm and canal for irrigation
-00205 A piece of land with fewer soil surrounded by trees 
-00205 Farmlands, green trees and a canal is present.
-00205 Farmlands surrounded by greeneries is present near a canal.
-00205 Greeneries were present around the farmlands near a canal.
-00206 it is a land area with many trees
-00206 A piece of land with trees 
-00206 A part of the land has green trees.
-00206 Green trees are present on one part of a land.
-00206 It is a piece of land with trees.
-00207 it is a piece of barren land with road
-00207 A vacant land with dry soil and a roadway run alongside
-00207 A road runs inbetween the barren lands.
-00207 Some green bushes exist over the dry land nearby a road.
-00207 A barren land is spotted with green bushes alongside a road.
-00208 it is a land area with water canal and many trees
-00208 A piece of land spread with trees and grasses and pathways between them 
-00208 A grassland is spotted with green bushes and mud paths.
-00208 Small green bushes, a canal and mud paths exist on a grassland.
-00208 Bushes, mud paths were spotted on  grassland near a canal.
-00209 it is a land area with red soil and dense trees
-00209 A land with fewer soil surrounded by trees
-00209 A barren land is spotted with a dense tree cover.
-00209 Some green patches of land, and a thick tree cover is present.
-00209 Group of trees were spotted on a barren land.
-00210 it is a piece of barren land area with few trees scattered
-00210 A land with dry soil with one residential building along road side 
-00210 An empty land containing some green bushes are spotted.
-00210 A building is present near a barren land containing green bushes.
-00210 A building, green bushes present over a barren land is visible.
-00211 it is a piece of unused barren land area
-00211 A dry land with fewer trees
-00211 Green bushes present over a barren land is visible.
-00211 A barren land is spotted with some green bushes.
-00211 An empty land containing some green bushes are spotted.
-00212 it is land area with coconut tree farms and roads
-00212 A roadway runs in the mid of a dry land
-00212 A road runs inbetween the dry land with some green trees.
-00212 Greeneries were present on the dry land and nearby the roads.
-00212 A road runs to connect to another road inbetween the dry lands. 
-00213 it is a land area with lot of green plants and trees
-00213 A pathway in the mid of the land with trees and grasses 
-00213 A mud path runs inbetween the grasslands along with trees.
-00213 Grasslands are spotted with a dense tree cover.
-00213 A thick tree cover is present near the grassland.
-00214 it is land area with mud paths between green plants
-00214 A land with pathways in the mid surrounded by trees and solar panels are laid alongside
-00214 Solar panels are spotted near the grasslands along with trees.
-00214 A neglected land is present near the solar farm along with trees.
-00214 Solar farm is located near a grassland.
-00215 it is a piece of land area with black soil and very few trees
-00215 A dry land with a roadway alongside 
-00215 A road runs inbetween the barren land containing few green bushes.
-00215 A dry land with green bushes and a road is visible.
-00215 A dry land with green bushes is located next to a road.
-00216 it is a piece of barren land with small green plants
-00216 A pathway runs in the mid of a land with trees and grasses
-00216 A mud path runs inbetween the grasslands along with trees.
-00216 Grasslands are spotted with a dense tree cover.
-00216 A thick tree cover is present near the grassland.
-00217 it is a piece of land area with red soil and neatly planted trees
-00217 A piece of land spread with fewer soil and trees 
-00217 Red soil area is spotted with some green patches of land.
-00217 A barren land is present with some green patces of land.
-00217 Green patches of land is present over the red soil area.
-00218 it is barren land with red soil
-00218 A land spread with soil and trees are lined up in the mid
-00218 Red soil area is spotted with some green patches of land.
-00218 Green patches of land is present over the red soil area.
-00218 A barren land is present with some green patces of land.
-00219 it is a piece of barren land with scarce trees
-00219 A dry land with fewer trees
-00219 A barren land is spotted with some green bushes.
-00219 Green bushes are visible on the dry land.
-00219 A dry land is spotted with green bushes.
-00220 it is a piece of land with trees
-00220 A piece of land with trees and fewer mud
-00220 A barren land is spotted with trees.
-00220 A dense tree cover is present near the barren land.
-00220 Green patches of land and a dense tree cover is visible. 
+00_091 it is a piece of unused barren land
+00_091 A piece of land with trees and pathways between them
+00_091 There exist a dense tree cover on one side of the barren lands with mud paths
+00_091 A mud path runs between the barren lands and dense tree cover
+00_091 Dense tree cover exist on one side of the pathway in the barren lands
+00_092 it is piece of barren land with many mud paths and canals
+00_092 A piece of land with trees and pathways between them and few solar panels are laid along side 
+00_092 Mud paths running inbetween the barren lands is located near a canal.
+00_092 A canal is spotted near a barrenland containing mud paths.
+00_092 A barren land with green grasses, mud paths and a canal is spotted.
+00_093 it is a piece of unused and barren land area
+00_093 A vacant land with few trees 
+00_093 Green grasses and bushes were present over the dry lands.
+00_093 Few grasses were spread over the dry land.
+00_093 A dry land is spotted with green bushes.
+00_094 a land area with red soil and plants growing randomly
+00_094 A piece of land spread with trees and grasses
+00_094 A dense tree cover was present near the reds soil area.
+00_094 A red soil area is spotted near a dense tree cover.
+00_094 Mud paths exists inbetween the dense tree cover.
+00_095 a barren land with house and trees
+00_095 A vacant land with few residential building along roadside 
+00_095 Two buildings were present in a dry land, along with green bushes.
+00_095 A dry land, buildings and trees were present.
+00_095  A vacant land with few trees and buildings are spotted.
+00_096 a piece of land with red soil and few plants and trees
+00_096 A piece of land with mud spread over between trees 
+00_096 A land is spotted with red soil and green patches over it.
+00_096 There are some green patches of land over the red soil area.
+00_096 Green grasses are grown on some places of the land.
+00_097 a land area with house and road
+00_097 A rry land with one residential building along roadside
+00_097 A small buildings was present in a dry land alongside the road
+00_097 A road with trees on its either sides and  a small building was spotted.
+00_097 A dry land, building, trees and a road is present.
+00_098 it is a land area with red sand and some dense plants
+00_098 A piece of land spread with grasses trees and fewer soil
+00_098 Red soil is spotted with greeneries.
+00_098 A dense tree cover is present near the red soil area.
+00_098 A thick tree cover is spotted near the red soil area.
+00_099 it is a land area with canal and solar panels
+00_099 A piece of land occupied with solar panels surrouded by trees 
+00_099 Solar panels and green patches of land is present over the red soil area.
+00_099 Red soil area is spotted with green patches of land and solar panels.
+00_099 Solar panels are arranged on one side of a red soil area.
+00_100 it is a land area with good vegetations and houses
+00_100 A piece of land with few residential building surrounded by trees and solar panels are laid alongside
+00_100 A solar farm exist at one corner of the barren land.
+00_100 Some detached solar panels are found near the barren lands, having buildings and trees.
+00_100 There exist a solar farm near a barren land containing grasses, buildings and trees.
+00_101 it a land area with small plants covering the ground and a mud path
+00_101 A piece of land spread with grasses and few trees and a pathway between them 
+00_101 A barren land is spotted with green bushes and mud paths.
+00_101 Small green bushes and mud paths exist on a barren land.
+00_101 A barren land with green patches of lands are seen.
+00_102 it is a land area with red soil and few plants
+00_102 A land spread over with mud and few trees on it  
+00_102 A land is spotted with red soil and green patches over it.
+00_102 There are some green patches of land over the red soil area.
+00_102 Green grasses are grown on some places of the land.
+00_103 it is a land area with red soil covered with many plants 
+00_103 Solar panels are laid alongside the land with trees and grasses
+00_103 Green patches of land are spotted near a solar farm.
+00_103 Solar farm exist near a grassland.
+00_103 Solar panels are present close to a grassland.
+00_104 it is a piece of land area with many trees and mud paths
+00_104 A vacant land with trees grasses and pathway between them 
+00_104 Green bushes were grown on a vacant grassy ground.
+00_104 A vacant ground is spotted with green bushes.
+00_104 Green bushes were present near a grassland.
+00_105 it is land area with farm and canal for irrigation
+00_105 A piece of land with fewer soil surrounded by trees 
+00_105 Farmlands, green trees and a canal is present.
+00_105 Farmlands surrounded by greeneries is present near a canal.
+00_105 Greeneries were present around the farmlands near a canal.
+00_106 it is a land area with many trees
+00_106 A piece of land with trees 
+00_106 A part of the land has green trees.
+00_106 Green trees are present on one part of a land.
+00_106 It is a piece of land with trees.
+00_107 it is a piece of barren land with road
+00_107 A vacant land with dry soil and a roadway run alongside
+00_107 A road runs inbetween the barren lands.
+00_107 Some green bushes exist over the dry land nearby a road.
+00_107 A barren land is spotted with green bushes alongside a road.
+00_108 it is a land area with water canal and many trees
+00_108 A piece of land spread with trees and grasses and pathways between them 
+00_108 A grassland is spotted with green bushes and mud paths.
+00_108 Small green bushes, a canal and mud paths exist on a grassland.
+00_108 Bushes, mud paths were spotted on  grassland near a canal.
+00_109 it is a land area with red soil and dense trees
+00_109 A land with fewer soil surrounded by trees
+00_109 A barren land is spotted with a dense tree cover.
+00_109 Some green patches of land, and a thick tree cover is present.
+00_109 Group of trees were spotted on a barren land.
+00_110 it is a piece of barren land area with few trees scattered
+00_110 A land with dry soil with one residential building along road side 
+00_110 An empty land containing some green bushes are spotted.
+00_110 A building is present near a barren land containing green bushes.
+00_110 A building, green bushes present over a barren land is visible.
+00_111 it is a piece of unused barren land area
+00_111 A dry land with fewer trees
+00_111 Green bushes present over a barren land is visible.
+00_111 A barren land is spotted with some green bushes.
+00_111 An empty land containing some green bushes are spotted.
+00_112 it is land area with coconut tree farms and roads
+00_112 A roadway runs in the mid of a dry land
+00_112 A road runs inbetween the dry land with some green trees.
+00_112 Greeneries were present on the dry land and nearby the roads.
+00_112 A road runs to connect to another road inbetween the dry lands. 
+00_113 it is a land area with lot of green plants and trees
+00_113 A pathway in the mid of the land with trees and grasses 
+00_113 A mud path runs inbetween the grasslands along with trees.
+00_113 Grasslands are spotted with a dense tree cover.
+00_113 A thick tree cover is present near the grassland.
+00_114 it is land area with mud paths between green plants
+00_114 A land with pathways in the mid surrounded by trees and solar panels are laid alongside
+00_114 Solar panels are spotted near the grasslands along with trees.
+00_114 A neglected land is present near the solar farm along with trees.
+00_114 Solar farm is located near a grassland.
+00_115 it is a piece of land area with black soil and very few trees
+00_115 A dry land with a roadway alongside 
+00_115 A road runs inbetween the barren land containing few green bushes.
+00_115 A dry land with green bushes and a road is visible.
+00_115 A dry land with green bushes is located next to a road.
+00_116 it is a piece of barren land with small green plants
+00_116 A pathway runs in the mid of a land with trees and grasses
+00_116 A mud path runs inbetween the grasslands along with trees.
+00_116 Grasslands are spotted with a dense tree cover.
+00_116 A thick tree cover is present near the grassland.
+00_117 it is a piece of land area with red soil and neatly planted trees
+00_117 A piece of land spread with fewer soil and trees 
+00_117 Red soil area is spotted with some green patches of land.
+00_117 A barren land is present with some green patces of land.
+00_117 Green patches of land is present over the red soil area.
+00_118 it is barren land with red soil
+00_118 A land spread with soil and trees are lined up in the mid
+00_118 Red soil area is spotted with some green patches of land.
+00_118 Green patches of land is present over the red soil area.
+00_118 A barren land is present with some green patces of land.
+00_119 it is a piece of barren land with scarce trees
+00_119 A dry land with fewer trees
+00_119 A barren land is spotted with some green bushes.
+00_119 Green bushes are visible on the dry land.
+00_119 A dry land is spotted with green bushes.
+00_120 it is a piece of land with trees
+00_120 A piece of land with trees and fewer mud
+00_120 A barren land is spotted with trees.
+00_120 A dense tree cover is present near the barren land.
+00_120 Green patches of land and a dense tree cover is visible. 
 01_019 a hill with many rocks and some trees
 01_019 a montain with sloppy rocks at the bottom
 01_019 a mountain with many trees in the top

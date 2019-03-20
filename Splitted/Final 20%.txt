@@ -888,6 +888,46 @@
 08_150 A residential area with trees, houses and roads at some places are spotted.
 08_150 Residential houses along with trees are spotted on either sides of the road.
 08_150 Trees were grown inbetween the residential houses.
+09_121 Lots of empty lands are present near the industries.
+09_121 There are some industries present near the roads.
+09_121 There are some industries located near the vacant lands
+09_121 A junction of three roads with bannen land on one side and trres and buildings on the other side
+09_121 an industrial area with road on one side
+09_122 There are some vacant grounds and lots of trees are grown near the roads
+09_122 There are some vacant lands situated nearby the roads.
+09_122 Green grounds are seen near the roads.
+09_122 A crossing a residential area
+09_122 a road running in a village area
+09_123 The roads are covered with trees.
+09_123 There are large amount of trees surrounding the buildings.
+09_123 It is a residential area.
+09_123 A junction of four roads in a residential area
+09_123 a neatly arranged lanes connected to roads
+09_124 There are some buildings surrounded by trees.
+09_124 It is a residential area.
+09_124 There is a single way road passing through the forests.
+09_124 Network of roads in a residential area
+09_124 a neatky planned layout of residential area
+09_125 Small residents are seen near the roads.
+09_125 There are some vacant lands near the roads.
+09_125 There are some farmlands present near the roads.
+09_125 A road seperating buildings and plants
+09_125 a road in a village with few houses
+09_126 There is a road passing through froest area.
+09_126 Some playgrounds are located near the roads.
+09_126 There are some playgrounds near the roads.
+09_126 A road with play area on one side and trees on other side
+09_126 a narrow road with play area on side of the road
+09_127 There are some vacant lands near the roads.
+09_127 There are some vacant grounds and lots of trees are grown near the roads.
+09_127 There are some dry lands near the roads.
+09_127 A junction of roads with junction and mud paths
+09_127 a junction of roads and straight mud paths
+09_128 There are several roads linking each other.
+09_128 There are some vacant lands near the roads.
+09_128 It is a junction connecting several roads.
+09_128 A curved road with a playground on one side and buildings and trees on the other side
+09_128 a junction of roads connecting a residential area
 09_129 There are some vacant lands near the roads.
 09_129 There are some small residents surrounded by trees.
 09_129 The roads are covered by trees.
