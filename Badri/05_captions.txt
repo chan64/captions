@@ -186,127 +186,106 @@
 05_031 There exist a garden with a walking path and more number of trees in it.
 05_031 There is a fountain with walking path and there is a road for vehicles at one end.
 05_031 Some vacant green lands are present near the roadways.
-
 05_032 The mixture of garden,trees and some smaller buildings.
 05_032 A walking path in a garden with a fountain connects to a road. 
 05_032 A garden is located with a walking path and trees, alongside a road.
 05_032 Some smaller buildings are located alongside a road.
 05_032 Some vacant green lands are present near the highways.
-
 05_033 The mixture of garden,trees and some smaller buildings
 05_033 The view consists of a park with walking path, fountains and a water body.
 05_033 There is a garden with walking path and more trees at its borders.
 05_033 Some smaller buildings are located alongside a road.
 05_033 Some vacant green lands are present near the roadways.
-
 05_034 A roundtana is present in the midst of gardens.
 05_034 A park with a walking path lined with trees is surrounded by dense forest cover and roads.
 05_034 A garden with pathway and more no of trees is located near a highway.	
 05_034 Lots of trees are grown near the green area.
 05_034 More dense trees are present in the garden.
-
 05_035 The entry point from road to the gardens.
 05_035 A road runs close to the entrance of a park having walking path and neatly cropped green grass.
 05_035 The entry point of the garden connects to the road.
 05_035 Dense trees are present along the road and in the garden.
 05_035 Some vacant green lands are present near the roadways.
-
 05_036 Trees and cell tower are seen surronding the garden.
 05_036 A dense forest cover lies between a road and a garden with walking path.
 05_036 A garden with a pathway is surrounded by trees and a cell tower.
 05_036 Lots of trees and bushes are grown near the roads.
 05_036 A cell tower is located in the middle of bunch of trees.
-
 05_037 There is a garden near to road.
 05_037 Several small buildings with sheds are present close to a park.
 05_037 Coconut trees were lined up along the pathway of the park.
 05_037 A garden is present along with some buidings near it.
 05_037 Some vacant green lands are present near the roadways.
-
 05_038 Trees and cell tower are seen surronding the garden.
 05_038 A water body and dense tree cover lies close to a park.
 05_038 A garden with a pathway is surrounded by trees and a cell tower.
 05_038 There are lots of trees and bushes present near the Gardens
 05_038 A cell tower is present along with some buildings.
-
 05_039 It is a garden.
 05_039 There are patches of green grass close to a road.
 05_039 Small trees were grown parallely in a garden, close to a highway
 05_039 A garden is situated along side a road.
 05_039 The garden is located near the highways.
-
 05_040 The garden is covered with green grass and some of the trees.
 05_040 A wide road is visible next to a garden with patches of trees. 
 05_040 There is a garden adjacent to a road and trees.
 05_040 A road is present with well maintained trees inside the garden.
 05_040 The garden is located near the highways.
-
 05_041 The garden contains plethora of things in it.
 05_041 There are patches of soil visible in the garden having neatly arranged line of trees.
 05_041 Trees were grown in a garden parallely, having some soil patches of land.
 05_041 That are neat and clean Gardens in which some trees and bushes are being grown.
 05_041 The garden is has some soil paches and well-maintained trees in it.
-
 05_042 The garden contains plethora of things in it.
 05_042 A closely arranged groups of trees are present around a garden. 
 05_042 There is a garden with short trees grown parallely.
 05_042 Patches of soil is visible with some group of trees.
 05_042 There are some green lands similair to that of gardens present.
-
 05_043 Some trees are grown in the garden.
 05_043 There are patches of trees present parallely in a garden with patches of grass.
 05_043 Trees were grown parallely in a finely cropped grassy garden.	
 05_043 It is a garden.
 05_043 Trees are grown parallely and some soil patches are visible
-
 05_044 It is a clean garden.
 05_044 There are patches of soil visible in a garden with trees around.
 05_044 Trees were grown in a garden parallely, having some soil patches of land.
 05_044 The garden is filled with some some of the trees and bushes
 05_044 Trees are grown parallely and the grass is well cropped.
-
 05_045 It is a clean garden.
 05_045 Patches of soil are visible at few places in a garden with trees.
 05_045 There exist a garden having some soil patches of land with trees grown parallely.
 05_045 Trees are present and some soil patches are also visible.
 05_045 There are some vacant lands located near the gardens.
-
 05_046 The garden is bordered by trees.
 05_046 There are trees grouped at places around the garden.
 05_046 Garden is decorated with trees.
 05_046 Some soil patches are visible in the garden with some trees.
 05_046 There are some vacant lands located near the gardens.
-
 05_047 Highways are seen near the gardens.
 05_047 A wide road and a parking lot is visible close to a neat garden. 
 05_047 Trees were grown in more numbers near the garden.
 05_047 Lots of trees are grown near the roads where Gardens are present.
 05_047 Lot of trees are present.
-
 05_048 Trees are seen in the garden.
 05_048 A wide road is covered by dense tree cover close to a garden.
 05_048 Trees were grown in more numbers near the garden.
 05_048 Lots of trees are grown near the Highway.
 05_048 Lot of trees are present in the garden.
-
 05_049 It is a complete garden kept clean and pure.
 05_049 A grass garden is present with trees grouped together.
 05_049 Trees were grown parallely in a finely cropped grassy garden.
 05_049 Trees are grown parallely and some soil patches are visible in the garden.
 05_049 There are neat and clean gardens present in that area.
-
 05_050 It is a complete garden kept clean and pure.
 05_050 A garden is present close to a solar panel field bordered with trees.
 05_050 A garden bordered with trees is located near a solar farm.
 05_050 It is a garden with some trees and bushes.
 05_050 A solar panel farm is present in a finely cropped grassy garden.
-
 05_051 The garden is covered with green grass.
 05_051 A garden is present close to a solar panel field bordered with trees. 
 05_051 A garden bordered with trees is located near a solar farm.
 05_051 It is a clean garden.
 05_051 A solar panel farm is present in a finely cropped grassy garden.
-
 05_052 Trees are seen in the side of the garden.
 05_052 A dense tree cover is present close to a garden and a dismantled solar panel field.
 05_052 A garden with more number of trees is located near a solar farm.

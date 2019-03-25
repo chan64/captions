@@ -3,272 +3,363 @@
 02_001 Coconut trees around the temple is seen.
 02_001 From the top view one side ot the temple is seen.
 02_001 The rooftops of the buildings inside the temple are seen.
-
 02_002 People are sitting inside the temple.
 02_002 The temple walls are viewed.
 02_002 People are sitting inside the temple.
 02_002 Coconut trees around the temple is seen.
 02_002 The rooftops o temple accomodates some people.
-
 02_003 Coconut trees around the temple is seen.
 02_003 People are sitting inside the temple.
 02_003 The rooftops o temple accomodates some people.
 02_003 The temple walls are viewed.
 02_003 People are sitting inside the temple.
-
 02_004 The small towers near the temple is seen.
 02_004 The temple walls are viewed.
 02_004 Coconut trees around the temple is seen.
 02_004 People are sitting inside the temple.
 02_004 The rooftops o temple accomodates some people.
-
 02_005 People are sitting inside the temple.
 02_005 The temple walls are viewed.
 02_005 The rooftops of the temple building is seen.
 02_005 Coconut trees around the temple is seen.
 02_005 The rooftops of the temple has some people.
-
 02_006 The rooftops of the temple has some people.
 02_006 The small towers of the temple is seen.
 02_006 The rooftops of the temple building is seen.
 02_006 Several people are sitting over the roofs of the temple.
 02_006 Lot of people are there surrounding the temple towers.
-
 02_007 The rooftops of the temple has some people.
 02_007 Several people are sitting over the roofs of the temple.
 02_007 People are sitting inside the temple.
 02_007 The rooftops of the temple building is seen.
 02_007 The temple walls are viewed.
-
 02_008 The rooftops of the temple has some people.
 02_008 The rooftops of the temple building is seen.
 02_008 People are sitting inside the temple.
 02_008 The temple walls are viewed.
 02_008 The rooftops of temple accomodates some people.
-
 02_009 The rooftops of the temple building is seen.
 02_009 People are sitting inside the temple.
 02_009 The temple walls are viewed.
 02_009 The rooftops of the temple has some people.
 02_009 Lot of people are wearing white coloured dress.
-
 02_010 The rooftops of the temple building is seen.
 02_010 The rooftops of the temple has some people.
 02_010 People are sitting inside the temple. 
 02_010 The walls of the temple is seen.
 02_010 Lots of people are residing on top of the roofs.
-
 02_011 Lots of people are residing on top of the roofs.
 02_011 The small towers of the temple is being seen.
 02_011 The temple walls are viewed.
 02_011 Crowd is waiting outside the shrine.
 02_011 The rooftops of the temple has some people.
- 
 02_012 Lots of people are residing on the floors.
 02_012 Lot of crowd are waiting outside the shrines.
 02_012 Crowd is waiting outside the shrine.
 02_012 The rooftops of the temple has some people.
 02_012 The temple walls are viewed.
-
 02_013 Crowd is waiting outside the shrine.
 02_013 Lots of people are residing on the floors.
 02_013 People are sitting on the floors outside the shrine.
 02_013 The rooftops of the temple has some people.
 02_013 The temple walls are viewed.
-
 02_014 Lots of people are residing on the floors.
 02_014 People are sitting on the floors outside the shrine.
 02_014 Lot of crowd are waiting outside the shrines.
 02_014 Crowd is waiting outside the shrine.
 02_014 The LED screens are noticed which is present besides the crowd.
-
 02_015 Crowd is waiting outside the shrine.
 02_015 The temple walls are viewed.
 02_015 Lot of crowd are waiting outside the shrines.
 02_015 People are waiting in orderly manner in the temple.
 02_015 People are sitting inside the temple.
-
 02_016 There are ends of the rooftops seen.
 02_016 There are couple of policemen protecting the shrines.
 02_016 Crowd is waiting outside the shrine.
 02_016 There are couple of policemen waiting near the shrines.
 02_016 People are waiting in orderly manner in the temple.
-
 02_017 People are waiting in orderly manner in the temple.
 02_017 Lots of crowd are present in one side of the place.
 02_017 The crowd is waiting near the shrine.
 02_017 Couple of cops wearing green dress are present. 
 02_017 There are couple of policemen protecting the shrines.
-
 02_018 There is a big lamp in front of the shrine.
 02_018 The temple hundi is present near the shrine.
 02_018 The temple hundi is present near the shrine.
 02_018 There are couple of policemen protecting the shrines.
 02_018 Couple of cops wearing green dress are present. 
-
 02_019 There are couple of policemen protecting the shrines.
 02_019 The crowd is waiting near the shrine.
 02_019 Couple of cops wearing green dress are present.
 02_019 People are standing outside the shrine.
 02_019 Lots of policemen are standing.
-
-
 02_020 There is a big lamp in front of the shrine.
 02_020 The crowd is waiting near the shrine.
 02_020 There are couple of policemen protecting the shrines.
 02_020 The temple hundi is present near the shrine.
 02_020 People are standing outside the shrine.
-
 02_021 There are couple of policemen protecting the shrines.
 02_021 The crowd is waiting near the shrine.
 02_021 There are couple of policemen protecting the shrines.
 02_021 Couple of cops wearing green dress are present.
 02_021 Lots of policemen are standing.
-
 02_022 The crowd is waiting near the shrine.
 02_022 There is a big lamp in front of the shrine.
 02_022 The temple hundi is present near the shrine.
 02_022 People are standing outside the shrine.
 02_022 The edges of rooftops are seen.
-
 02_023 There are couple of policemen protecting the shrines.
 02_023 Couple of cops wearing green dress are present.
 02_023 People are standing outside the shrine.
 02_023 It is mix up of people who are waiting along with cops.
 02_023 Lots of policemen are standing.
-
 02_024 The temple hundi is present near the shrine.
 02_024 People are waiting near the temple hundi.
 02_024 There are couple of policemen protecting the shrines.
 02_024 The temple hundi is present near the shrine.
 02_024 People are standing outside the shrine.
-
 02_025 There are couple of cops waiting outside the shrines.
 02_025 Several cops are standing.
 02_025 There are couple of policemen protecting the shrines.
 02_025 Couple of cops wearing green dress are present. 
 02_025 Lot of people are wearing white coloured dress.
-
-
-
-
-
-
-
-
-
-02_051 It is a temple area surrounded by peoples
-02_051 A pathway seperates two temple buildings
-02_051 Trees are situated in between two temple buildings
-02_051 A temple is spotted with trees and peoples.
+02_026 A crowd is found standing.
+02_026 small empty space is found among a crowd.
+02_026 A group of people are standing of which most are men.
+02_026 A couple of cops is visible in a crowd.
+02_026 The crowd consists of cops wearing khakis and some men wearing white shirt with dhotis.
+02_027 A standing crowd is visible in a area.
+02_027 A number of cops wearing uniform forms a part of a standing group.
+02_027 A diverse group of people are standing with some space inbetween.
+02_027 A crowd is standing of which men are mostly present.
+02_027 The crowd consists of policemen, photographers, priests and common men.
+02_028 A tiled floor is visible in a crowd.
+02_028 An empty space in a crowd reveals a tiled floor.
+02_028 A group of people are standing of which most are men.
+02_028 A crowd is controlled by a group of policeman wearing khakis.
+02_028 A standing crowd is present.
+02_029 A crowd is visible of which most of them are standing.
+02_029 A sitting crowd is lined with policemen wearing radiant green coats.
+02_029 The crowd consists mostly of men and policemen.
+02_029 The crowd consists of men wearing dhotis and women wearing sarees mostly.
+02_029 There is some empty space infront of the policemen,
+02_030 An empty space is visible in a crowd. 
+02_030 A group of policemen are standing closeby.
+02_030 A crowd is seen of which most are men.
+02_030 Some of the policeman in a crowd are wearing a radiant green coat.
+02_030 There is a crowd with a little space exposing a tiled floor.
+02_031 There are group of cops wearing their khaki uniform.
+02_031 A crowd is present consisting majorly of cops.
+02_031 There is a crowd with little space inbetween.
+02_031 The crowd is found with a number of policemen wearing green coat.
+02_031 A tiled floor is exposed in a small space left by a crowd of people.
+02_032 A large amount of crowd is seen within a temple. 
+02_032 Groups of people are crowded in terraces and ground of a temple.
+02_032 A temple shrine is thickly crowded by large number of people.
+02_032 A dense group of people is visible with a small space in the middle. 
+02_032 A white temple tomb is seen in a temple surrounded by a thick crowd.
+02_033 Three thick and tall trees are visible close to a crowd.
+02_033 A number of trees and solar panel line is seen close to a crowd of people.
+02_033 A temple shrine and terrace of buildings with some trees is seen surrounding a dense crowd.
+02_033 There are temple buildings on either sides of a crowd of people.
+02_033 A large seated crowd is seen in the view.
+02_034 A large crowd of people is seated about a temple.
+02_034 A group of policemen enforce to leave a space.
+02_034 A red terrace of temple along with its tomb is present close to a large crowd.
+02_034 A large crowd is present witnessing an event near the entrance of a temple shrine.
+02_034 Most of the crowd around a temple is seated.
+02_035 Green trees were spotted inbetween the crowd in a temple.
+02_035 A temple is spotted with green trees and a huge crowd.
+02_035 A huge crowd is visible.
+02_035 A huge crowd is spotted in the temple area
+02_035 Trees are spotted in between the crowd.
+02_036 A huge crowd is spotted infront of a temple.
+02_036 Cops were controlling the crowd infront of a shrine.
+02_036 The temple area is surrounded by the crowd.
+02_036 Group of people are waiting in a temple.
+02_036 It is a temple area where polices are governing the crowd for their safety and convinience.
+02_037 Green trees were spotted inbetween the crowd in a temple.
+02_037 Lots of people are residing on the floors, having trees inbetween.
+02_037 A temple is spotted with trees and group of people.
+02_037 Group of people are there in front of a shrine.
+02_037 A temple is spotted with green trees and a huge crowd.
+02_038 It is a temple area completely covered by the crowd.
+02_038 Cops were controlling the crowd infront of a shrine.
+02_038 It is a temple area where polices are governing the crowd for their safety and convinience.
+02_038 Group of people are there in front of a shrine.
+02_038 Lots of people are waiting for dharshan.
+02_039 A temple is spotted with trees and group of people.
+02_039 Group of people are there in front of a shrine.
+02_039 Green trees were spotted inbetween the crowd in a temple.
+02_039 A temple is spotted with green trees and a huge crowd.
+02_039 Lots of people are residing on the floors, having trees inbetween.
+02_040 A huge crowd is spotted infront of a temple.
+02_040 The temple area is surrounded by the crowd.
+02_040 Cops were controlling the crowd infront of a shrine.
+02_040 A temple is spotted with huge crowd.
+02_040 A huge crowd is waiting for the dharshan infront of a temple.
+02_041 A temple is spotted with trees and group of people.
+02_041 Lots of people are residing on the floors, having trees inbetween.
+02_041 Green trees were spotted inbetween the crowd in a temple.
+02_041 Group of people are there in front of a shrine.
+02_041 A temple is spotted with green trees and a huge crowd.
+02_042 The temple area is surrounded by the crowd.
+02_042 A huge crowd is waiting for the dharshan infront of a temple.
+02_042 Cops were controlling the crowd infront of a shrine.
+02_042 A temple is spotted with huge crowd.
+02_042 A huge crowd is spotted infront of a temple.
+02_043 A temple is spotted with huge crowd and green trees.
+02_043 A huge crowd is spotted in the temple area
+02_043 Trees are spotted in between the crowd.
+02_043 A huge crowd is visible.
+02_043 Trees are spotted in between the crowd.
+02_044 The crowd is spotted in the main entrance of the temple.
+02_044 In the temple area polices are covered for the protection of the crowd.
+02_044 The temple area is surrounded by the crowd.
+02_044 Cops were controlling the crowd infront of a shrine.
+02_044 The crowd is waiting for dharshan.
+02_045 Cops were controlling the crowd infront of a shrine.
+02_045 The temple area is surrounded by the crowd.
+02_045 The crowd is spotted in the main entrance and at the roof tops of the temple.
+02_045 In the temple area polices are covered for the protection of the crowd.
+02_045 A huge crowd is spotted in a temple.
+02_046 The temple area is surrounded by the crowd.
+02_046 Cops were controlling the crowd infront of a shrine.
+02_046 A huge crowd is spotted in a temple.
+02_046 In the temple area polices are covered for the protection of the crowd.
+02_046 The crowd is spotted in the main entrance and at the roof tops of the temple.
+02_047 Trees are spotted inbetween the crowd in the temple.
+02_047 A huge crowd is spotted in the temple area
+02_047 A temple is spotted with huge crowd and green trees.
+02_047 Trees are spotted in between the crowd.
+02_047 A huge crowd is visible.
+02_048 The crowd is spotted in the main entrance of the temple.
+02_048 In the temple area polices are covered for the protection of the crowd.
+02_048 The temple area is surrounded by the crowd.
+02_048 Cops were controlling the crowd infront of a shrine.
+02_048 The crowd is waiting for dharshan. 
+02_049 Trees are spotted in between the crowd.
+02_049 A huge crowd is spotted in the temple area
+02_049 Green trees were grown inside the temple.
+02_049 Group of peoples are waiting for dharshan in a temple.
+02_049 Trees are spotted inbetween the crowd in the temple.
+02_050 A huge crowd is spotted infront of the temple.
+02_050 Cops were controlling the crowd infront of a shrine.
+02_050 The crowd is spotted in the main entrance and at the roof tops of the temple.
+02_050 In the temple area polices are covered for the protection of the crowd.
+02_050 The temple area is surrounded by the crowd.
+02_051 Crowd is waiting outside the shrine.
+02_051 Lots of people are residing on the floors.
+02_051 People are sitting on the floors outside the shrine.
+02_051 A temple is spotted with trees and group of people.
 02_051 Group of people are there in front of a shrine.
-02_052 A number of peoples are situated in the temple area
+02_052 A huge crowd is spotted in the temple area
 02_052 Group of  people are eagerly waiting for prayer in the temple
-02_052 trees are situated closely to the temple building
-02_052 trees are spotted inbetween the crowd.
+02_052 Trees are spotted in between the crowd.
+02_052 A huge crowd is visible.
 02_052 Lots of people are waiting for dharshan.
-02_053 It is a temple area surrounded by peoples
-02_053 It is a temple area in which a bunch of trees and cars are located.
-02_053 The middle building seperates the temple area and the parking lot.
-02_053 A dense tree cover was present near the temple.
+02_053 Crowd is waiting outside the shrine.
+02_053 It is a temple area in which a bunch of trees and a crowd i spotted.
+02_053 People are sitting on the floors outside the shrine.
+02_053 Lots of people are residing on the floors.
 02_053 Lots of people are waiting for dharshan.
-02_054 It is a temple area in which peoples are walking on the top of the building.
-02_054 A van is parked outside the temple.
-02_054 Shelter for people is provided at the center of the pathway.
+02_054 Crowd is waiting outside the shrine.
+02_054 Lots of people are residing on the floors.
+02_054 People are sitting on the floors outside the shrine.
 02_054 Lots of people are waiting for dharshan.
-02_054 trees are spotted inbetween the crowd.
-02_055 The tomb of the temple is situated at the top of the temple.
-02_055 It is a temple area which covers the whole are with people and trees.
-02_055 It is temple area in which every people are performing their prayer.
+02_054 Trees are spotted inbetween the crowd.
+02_055 The crowd is waiting near the shrine.
+02_055 It is a temple area which is surrounded by huge crowd and trees.
+02_055 It is temple area where huge crowd is waiting outside the shrine.
 02_055 Lots of people are waiting for dharshan.
 02_055 Group of people are there in front of a shrine.
-02_056 It is a temple area completely covered by people.
+02_056 It is a temple area completely covered by the crowd.
 02_056 The temple area consists of several buidings and numerous peoples.
-02_056 It is a temple area where polices are governing the people for their safety and convinience.
+02_056 It is a temple area where polices are governing the crowd for their safety and convinience.
 02_056 Group of people are there in front of a shrine.
 02_056 Lots of people are waiting for dharshan.
-02_057 It is a temple area surrounded with people.
-02_057 The temple is filled with humans, where they perform prayer
+02_057 It is a temple area surrounded by the crowd.
+02_057 Cops were controlling the crows in the temple.
 02_057 It is a temple area where most of the people are resting themself on top of buildings.
 02_057 Group of people are there in front of a shrine.
 02_057 Lots of people are waiting for dharshan.
-02_058 It is a temple where the huge white tomb is situated on the right side.
-02_058 The people are represented as colourful dots. 
-02_058 It is a temple area where tanks are situated in the top of the buidings.
+02_058 Cops were controlling the crows in the temple.
+02_058 The crowd is represented as colourful dots. 
+02_058 It is a temple area where polices are governing the crowd for their safety and convinience.
 02_058 A huge crowd is spotted in a temple.
 02_058 Group of people are waiting in a temple.
-02_059 It is the main entrance of the temple.
-02_059 In the temple area polices are covered for the protection of people.
-02_059 In the temple area people are surrounded for prayer.
+02_059 The crowd is spotted in the main entrance of the temple.
+02_059 In the temple area polices are covered for the protection of the crowd.
+02_059 The temple area is surrounded by the crowd.
 02_059 Cops were controlling the crowd infront of a shrine.
-02_059 people are waiting for dharshan.
-02_060 It is a temple building where people gets shelter.
-02_060 The tall white stick is the lighting system of the temple.
+02_059 The crowd is waiting for dharshan.
+02_060 Group of people are waiting in a temple.
+02_060 In the temple area polices are covered for the protection of the crowd.
 02_060 The colourful dots represents humans and green and kakhi dots represents police.
 02_060 Cops were controlling the crowd infront of a shrine.
 02_060 Group of people are waiting in a temple.
 02_061 It is a temple area where lots of people arrived for prayer. 
-02_061 A big screen has been projected alongside of the building.
-02_061 In the temple area polices ensures the safety for people.
+02_061 The crowd is waiting for dharshan.
+02_061 In the temple area polices ensures the safety of the crowd.
 02_061 Cops are controlling the crowd gathered in a temple.
 02_061 Group of peoples were seperated by cops for safety.
-02_062 It is temple region with several buidings inside it.
-02_062 On top of each buidings people are located to see the prayer.
-02_062 The lighting system of the temple is located at the bottom.
+02_062 It is temple region, spotted with crowd.
+02_062 Some groups of people were located on the top of the buildings.
+02_062 Group of people are waiting in a temple.
 02_062 Lots of people are waiting in and at the top of the buildings.
 02_062 Crowd is spotted in a temple.
-02_063 It is a temple area where the people and audio settings are located.
-02_063 The temple area is completely filled with people.
-02_063 In the temple area the priest is in the middle with the protection of police.
+02_063 Group of people are waiting in a temple.
+02_063 The temple area is completely filled with the crowd.
+02_063 In the temple area polices are covered for the protection of the crowd.
 02_063 Group of peoples were seperated by cops for safety.
 02_063 Cops are controlling the crowd gathered in a temple.
-02_064 It is a temple area where the tall white tomb is situated on the right side.
-02_064 On top of the building camer man , people and tanks are located.  
+02_064 The crowd is spotted in the main entrance of the temple.
+02_064 Some groups of people were located on the top of the buildings.
 02_064 In the temple area few people are sitting and few are standing.
 02_064 Lots of people are waiting for dharshan infront of a shrine.
 02_064 Water tank, Lighting system and a huge crowd are spotted in a temple.
-02_065 It is a temple area where audio settings are situated.
-02_065 The police fixed barricads for the safety of the preist and people.
-02_065 The temple building is used by people as a shelter.
+02_065 Group of people are waiting in a temple.
+02_065 The temple area is completely filled with the crowd.
+02_065 In the temple area polices are covered for the protection of the crowd.
 02_065 Group of peoples were seperated by cops for safety.
 02_065 Cops are controlling the crowd gathered in a temple.
-02_066 It is the top of the temple building , where camera are fixed.
-02_066 It is a temple area where several buildings and people are there.
-02_066 The black tank is at the top of the building
+02_066 The crowd is spotted in the main entrance of the temple.
+02_066 Some groups of people were located on the top of the buildings.
+02_066 Lots of people are waiting for dharshan infront of a shrine.
 02_066 Water tank and a huge crowd are spotted in a temple.
 02_066 People are waiting in and at the top of the buildings.
 02_067 The people are crowded in the temple area for prayer.
-02_067 Police ensures safety in the temple.
-02_067 People gets shelter from the buidings.
+02_067 Cops are controlling the crowd gathered in a temple.
+02_067 Some groups of people were located on the top of the buildings.
 02_067 Water tank, Lighting system and a huge crowd are spotted in a temple.
-02_067 People are waiting in and at the top of the buildings.
+02_067 Some groups of people are waiting in and at the top of the buildings.
 02_068 The whole temple is filled with people.
 02_068 People are sitting on top of the buidings.
-02_068 Camera and audio settings are fixed in the temple.
+02_068 The people are crowded in the temple area for prayer.
 02_068 People are waiting in and at the top of the buildings.
 02_068 Group of people are there in front of a shrine.
-02_069 It is the top of the temple building.
+02_069 Some people are spotted at the top of the temple building.
 02_069 People and police are located at the top of the building.
-02_069 Few trees are there at the corner.
+02_069 Some people are found at the top of the temple building..
 02_069 Some people were spotted at the top of the building.
 02_069 People were residing at the top of the building.
 02_070 Few people are sitting at the top of the temple building and few are sitting in the ground.
-02_070 Camera man are also located in the top of the building. 
-02_070 Speakers and barricad are also fixed at the ground.
+02_070 The huge crowd is waiting for dharshan.
+02_070 Group of people are waiting in a temple.
 02_070 Half of the group is sitting down and half were sitting at the top of the temple building.
 02_070 Group of  people are eagerly waiting for prayer in the temple
-02_071 Camera are fixed at the top of the temple building.
+02_071 Some groups of people were located on the top of the buildings.
 02_071 Few people are sitting and few were standing at the top of the building.
 02_071 Few people were sleeping on top of the building.
 02_071 People were residing at the top of the building.
 02_071 Some people were spotted at the top of the building.
-02_072 It is a temple where surrounded by several buildings.
-02_072 Numerous people are situatrd in the temple for prayer.
-02_072 Polices are also situated in the temple for safety.
+02_072 In the temple area polices are covered for the protection of the crowd.
+02_072 The temple area is completely filled with the crowd.
+02_072 Polices are also situated in the temple for the safety of the crowd.
 02_072 A huge crowd is spotted in front of a temple.
 02_072 A huge crowd is waiting outside the shrine for dharshan.
-02_073 It is a temple where the tall white tomb is at the centre of the temple.
+02_073 The crowd is waiting for dharshan infront of a shrine.
 02_073 Oneside of the temple if filled with people and the other side vacant. 
-02_073 It is a temple where several tombs are fixed at top of the temple buildings.
+02_073 The people are crowded in the temple area for prayer.
 02_073 Some people were spotted at the top of the building.
 02_073 People are waiting in and at the top of the buildings.

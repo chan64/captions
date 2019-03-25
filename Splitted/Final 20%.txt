@@ -1,0 +1,1375 @@
+00_121 it is piece of land area with many tall trees
+00_121 A piece of land with trees and fewer mud
+00_121 Green patches of land and a dense tree cover is visible. 
+00_121 A barren land is spotted with trees.
+00_121 A dense tree cover is present near the barren land.
+00_122 it is land area with black soil
+00_122 A dry land with fewer grasses
+00_122 A dry land is spotted with green grasses.
+00_122 A black soil area is spotted.
+00_122 A piece of land with black soil is present.
+00_123 the view shows land area with trees and houses
+00_123 A land with few residential buildings surrounded by trees and pathways between them 
+00_123 A canal, a grassland with bushes are present near residential area.
+00_123 Greeneries were present around the residential area.
+00_123 Grasslands and green trees were located near the residential area.
+00_124 it is a land area with black soil
+00_124 A dry land is spotted with some green grasses.
+00_124 Green grasses were present over the dry land.
+00_124 A dry land is spotted with some green grasses.
+00_124 Green grasses were present over the dry land.
+00_125 it is land area with few roads
+00_125 A roadway alongside of vacant land spread with trees
+00_125 An empty ground with green bushes were present alongside the road.
+00_125 A road is potted near a vacant land along with green bushes.
+00_125 A barren land with green bushes were present alongside the road.
+00_126 it is a land area with many plants adjacent to a highway
+00_126 Vehicles runs in the highway surrounded by green valley
+00_126 Grasslands with green bushes is present near the highways.
+00_126 Highways are located near a grassland along with green bushes.
+00_126 Grasslands with green bushes is present adjacent to the highways.
+00_127 it shows a land area with two buildings adjacent to a road
+00_127 A dry land with two residential building along roadside with few trees
+00_127 Two buildings were present in a dry land alongside the road
+00_127 A road with trees and buildings were spotted.
+00_127 A dry land, buildings, trees and a road is present.
+00_128 it is land area with very few trees
+00_128 A dry land with few trees and a roadway runs alongside
+00_128 A dry land is spotted with some green bushes.
+00_128 Some green bushes were present on the dry land.
+00_128 A barren land is spotted with some green bushes.
+00_129 it is land area with grounds and trees planted in a row
+00_129 A piece of land spread with trees and grasses leaving fewer soil
+00_129 Green bushes were present over the grasslands.
+00_129 The land is decorated with green bushes.
+00_129 Grasslands are spotted with green bushes.
+00_130 it is a piece of land area that is unused
+00_130 A dry land with few trees and pathways runs alongside
+00_130 A dry land is spotted with some green bushes and trees.
+00_130 Green bushes and trees are present on the dry land.
+00_130 Mud paths, trees and bushes were spotted on the dry lands.
+00_131 it is a piece of barren land with black soil
+00_131 A dry land with fewer trees 
+00_131 A dry land is spotted with green grasses.
+00_131 A black soil area is spotted.
+00_131 A piece of land with black soil is present.
+00_132 it is a piece of land area with few trees
+00_132 A roadway surrounded by a dry land with few trees 
+00_132 A road runs inbetween the barren land containing few green bushes.
+00_132 A dry land with green bushes and a road is visible.
+00_132 A dry land with green bushes is located next to a road.
+00_133 the view shows the land area with few bulidings 
+00_133 Two residential building along roadside surrounded by trees
+00_133 Two buildings were present in a dry land alongside the road
+00_133 A dry land, buildings, trees and a road is present.
+00_133 A road with trees on its either sides and two buildings were spotted.
+00_134 it is a barren land area with many tall trees
+00_134 A piece of land with trees
+00_134 A barren land is spotted with a thick tree cover.
+00_134 Green trees were present near the barren land.
+00_134 A thick tree cover was present near the barren land.
+00_135 it is a unused barren land with a mud path
+00_135 A piece of dry land with few trees and soil all over
+00_135 A dry land is spotted with green bushes.
+00_135 Green bushes are visible on the dry lands.
+00_135 A dry land is spotted with green bushes.
+00_136 it is piece of land area covered with plants and has a mud path in the middle
+00_136 A pathway in the mid of a land spread with grasses and trees
+00_136 A mud path exist inbetween the barren land along with a dense tree cover.
+00_136 A dense tree cover was present near the grasslands.
+00_136 A mud path, grasslands and a dense tree cover is visible.
+00_137 it is a land area with trees and a water canal
+00_137 Few residential building in the mid of a land covered with trees
+00_137 Green trees and a canal is visible.
+00_137 A dense tree cover and a canal is spotted.
+00_137 A canal and a dense tree cover is present.
+00_138 it is a land area with black soil and a road
+00_138 A roadway runs alongside the land spread with grasses 
+00_138 A black soil area is spotted alongside the road.
+00_138 A piece of land with black soil is present near the road.
+00_138 it is a piece of barren land with black soil.
+00_139 it is a land area with few plants
+00_139 A pathway runs in the mid of a land spread with grasses 
+00_139 A mud path runs inbetween the barren land.
+00_139 A mud path inbetween the grasslands are visible.
+00_139 Grasslands were spotted on either sides of a mud path
+00_140 it is a land area with few plants covering the ground
+00_140 A pathway runs in the mid of a land spread with grasses and trees
+00_140 Mud paths were spotted on the grasslands along with trees.
+00_140 Group of trees were grown near the grasslands having mud paths.
+00_140 Group of trees, mud paths and grasslands are visible.
+00_141 it is a land area with red soil and few plants
+00_141 A piece of land with grasses and trees and few solar panels laid alongside 
+00_141 Grasses were grown on red soil area.
+00_141 A land with red soil is spotted along with green grasses.
+00_141 Green patches of land is present over the red soil area. 
+00_142 it is land area with many plants covering the ground and a mud path
+00_142 A roadway runs in the mid of a land spread with trees and grasses
+00_142 A mud path exist inbetween the barren land along with a dense tree cover.
+00_142 A dense tree cover was present near the grasslands.
+00_142 A mud path, grasslands and a dense tree cover is visible.
+00_143 it is a land area with red soil and neatly planted trees
+00_143 A piece of land spread with soil and trees 
+00_143 Plantations were done near the red soil area.
+00_143 Small green plants were grown near the red soil area.
+00_143 Red soil area is spotted near a grassland.
+00_144 it is a piece of unused land with many plants and trees
+00_144 A piece of land with trees 
+00_144 Green trees were scattered around the land.
+00_144 A piece of unused land is spotted with green trees.
+00_144 A barren land is located adjacent to a grassland.
+00_145 it is a land area with many dense trees
+00_145 A piece of land with trees and pathways between them
+00_145 Mud paths exist inbetween the barren land along with a dense tree cover.
+00_145 A dense tree cover was present near the grasslands.
+00_145 Mud paths, grasslands and a dense tree cover is visible.
+00_146 it is a land area with covered with green plants and trees
+00_146 A land spread with grasses and trees and Few residential building along roadside 
+00_146 Residential houses surrounded by trees is spotted near the grasslands.
+00_146 A thick tree cover is spotted around the houses near the grasslands.
+00_146 Grasslands were present near the residential area having houses and trees.
+00_147 it is a piece of land are with big trees
+00_147 A pathway in the mid of a land spread with trees and grasses
+00_147 Mud paths exist inbetween the barren land along with a dense tree cover.
+00_147 A dense tree cover was present near the grasslands.
+00_147 Mud paths, grasslands and a dense tree cover is visible.
+00_148 it is unused land with black soil
+00_148 A dry land with fewer trees 
+00_148 A dry land is spotted with green bushes.
+00_148 Green bushes are visible on the dry lands.
+00_148 A dry land is spotted with green bushes.
+00_149 it is a land area with many plants and mud path
+00_149 A piece of land spread with grasses and trees and pathways run alongside 
+00_149 Mud paths, grasslands and a dense tree cover is visible.
+00_149 A dense tree cover was present near the grasslands.
+00_149 Mud paths exist inbetween the barren land along with a dense tree cover.
+00_150 it is a land area with neatly planted trees
+00_150 A piece of land with trees and grasses  
+00_150 A barren land is spotted with grasses and trees.
+00_150 Trees and grasses are visible on the grasslands.
+00_150 A barren land is present with grasses and trees.
+01_026 a natural scenary with temple buildings and mountains
+01_026 huge mountain gives a massive baackground for the city
+01_026 lots of coconut trees are surround the temple
+01_026 many bulidings are present in between the temple and hilly region
+01_026 some temples are situated at the bottom of the hilly region
+01_027 a greenish scenery is surrounding by the city
+01_027 a large no of small sizes trees are grows on the rocks
+01_027 a natural view of mountian houses and temple
+01_027 some buildings are buit in the middle of the mountain
+01_027 tiny brown shadded rocks fills mountaneous area
+01_028 a rocky mountaneous area with big rocks and trees
+01_028 few people having a peaceful mountaneous view
+01_028 on the top of the mountain,peoples are enjoying the nature
+01_028 small bushes hides the slippy rocks of the mountain
+01_028 the big slabs of rocks forms the mountain
+01_029 a natural scenary with mountains and buildings
+01_029 a natural scenary with mountains and buildings
+01_029 buildings are built below the mountain surface
+01_029 many buildings are built in the middle of the city
+01_029 mountaneous area gives the city a beautiful view
+01_030 bushy area covers the rocky side of the mountain
+01_030 huge block of rocks at the top of the mountian.
+01_030 many trees grown on the surface of the mountain
+01_030 mountaneous area with many rocks and trees
+01_030 mountaneous area with many rocks and trees
+01_031 a view of people climbing the mountain 					
+01_031 huge trees covers the rocky area of the mountain 
+01_031 people are climbing the mountain surface
+01_031 rocks are the part of the mountaneous area
+01_031 some people are climbing the mountain 
+01_032 a group of people are standing on the top of the mountain surface. 
+01_032 people are standing on top of the mountain
+01_032 people on top of the mountain look at the beatiful view of the city
+01_032 small group of people standing at the top of the mountain
+01_032 some people are standing on top of a mountain
+02_059 The crowd is spotted in the main entrance of the temple.
+02_059 In the temple area polices are covered for the protection of the crowd.
+02_059 The temple area is surrounded by the crowd.
+02_059 Cops were controlling the crowd infront of a shrine.
+02_059 The crowd is waiting for dharshan.
+02_060 Group of people are waiting in a temple.
+02_060 In the temple area polices are covered for the protection of the crowd.
+02_060 The colourful dots represents humans and green and kakhi dots represents police.
+02_060 Cops were controlling the crowd infront of a shrine.
+02_060 Group of people are waiting in a temple.
+02_061 It is a temple area where lots of people arrived for prayer. 
+02_061 The crowd is waiting for dharshan.
+02_061 In the temple area polices ensures the safety of the crowd.
+02_061 Cops are controlling the crowd gathered in a temple.
+02_061 Group of peoples were seperated by cops for safety.
+02_062 It is temple region, spotted with crowd.
+02_062 Some groups of people were located on the top of the buildings.
+02_062 Group of people are waiting in a temple.
+02_062 Lots of people are waiting in and at the top of the buildings.
+02_062 Crowd is spotted in a temple.
+02_063 Group of people are waiting in a temple.
+02_063 The temple area is completely filled with the crowd.
+02_063 In the temple area polices are covered for the protection of the crowd.
+02_063 Group of peoples were seperated by cops for safety.
+02_063 Cops are controlling the crowd gathered in a temple.
+02_064 The crowd is spotted in the main entrance of the temple.
+02_064 Some groups of people were located on the top of the buildings.
+02_064 In the temple area few people are sitting and few are standing.
+02_064 Lots of people are waiting for dharshan infront of a shrine.
+02_064 Water tank, Lighting system and a huge crowd are spotted in a temple.
+02_065 Group of people are waiting in a temple.
+02_065 The temple area is completely filled with the crowd.
+02_065 In the temple area polices are covered for the protection of the crowd.
+02_065 Group of peoples were seperated by cops for safety.
+02_065 Cops are controlling the crowd gathered in a temple.
+02_066 The crowd is spotted in the main entrance of the temple.
+02_066 Some groups of people were located on the top of the buildings.
+02_066 Lots of people are waiting for dharshan infront of a shrine.
+02_066 Water tank and a huge crowd are spotted in a temple.
+02_066 People are waiting in and at the top of the buildings.
+02_067 The people are crowded in the temple area for prayer.
+02_067 Cops are controlling the crowd gathered in a temple.
+02_067 Some groups of people were located on the top of the buildings.
+02_067 Water tank, Lighting system and a huge crowd are spotted in a temple.
+02_067 Some groups of people are waiting in and at the top of the buildings.
+02_068 The whole temple is filled with people.
+02_068 People are sitting on top of the buidings.
+02_068 The people are crowded in the temple area for prayer.
+02_068 People are waiting in and at the top of the buildings.
+02_068 Group of people are there in front of a shrine.
+02_069 Some people are spotted at the top of the temple building.
+02_069 People and police are located at the top of the building.
+02_069 Some people are found at the top of the temple building..
+02_069 Some people were spotted at the top of the building.
+02_069 People were residing at the top of the building.
+02_070 Few people are sitting at the top of the temple building and few are sitting in the ground.
+02_070 The huge crowd is waiting for dharshan.
+02_070 Group of people are waiting in a temple.
+02_070 Half of the group is sitting down and half were sitting at the top of the temple building.
+02_070 Group of  people are eagerly waiting for prayer in the temple
+02_071 Some groups of people were located on the top of the buildings.
+02_071 Few people are sitting and few were standing at the top of the building.
+02_071 Few people were sleeping on top of the building.
+02_071 People were residing at the top of the building.
+02_071 Some people were spotted at the top of the building.
+02_072 In the temple area polices are covered for the protection of the crowd.
+02_072 The temple area is completely filled with the crowd.
+02_072 Polices are also situated in the temple for the safety of the crowd.
+02_072 A huge crowd is spotted in front of a temple.
+02_072 A huge crowd is waiting outside the shrine for dharshan.
+02_073 The crowd is waiting for dharshan infront of a shrine.
+02_073 Oneside of the temple if filled with people and the other side vacant. 
+02_073 The people are crowded in the temple area for prayer.
+02_073 Some people were spotted at the top of the building.
+02_073 People are waiting in and at the top of the buildings.
+03_121 Geen land with trees on side of road
+03_121 Irrigated farm lands adjacent to a road
+03_121 Some green bushes exist on one side of the farmlands.
+03_121 There are green farmlands adjacent to a road decorated with bush.
+03_121 There are some green farmlands located near the highways.
+03_122 Irrigated farm lands adjacent to a road
+03_122 Fram lands adjacent to a road
+03_122 Green bushes and farmlands are located on either side of the road.
+03_122 There are green farmlands adjacent to a road decorated with bush.
+03_122 There are some green farmlands located near the highways.
+03_123 A road seperating farmlands
+03_123 Farm lands with trees at the sides next to a road
+03_123 Green bushes and farmlands are located on either side of the road.
+03_123 There are green farmlands close to a road decorated with bush.
+03_123 There are several cleanly cultivated croplands present near the highways.
+03_124 Green farmlands with trees 
+03_124 Grassy farm lands with some trees on the sides
+03_124 Green farmlands are located with bushes at their borders.
+03_124 There are green farmlands close to group of bushes.
+03_124 There are several cleanly cultivated croplands present near the highways.
+03_125 Green farmland cultivating crops evenly
+03_125 There are some grassy farm lands
+03_125 Several croplands are irrigated and they are cleanly cultivated.
+03_125 There are evenly cropped green farmlands.
+03_125 There are green farmlands with patches of uniformly cropped plants.
+03_126 There are some grassy farm lands
+03_126 Set of trees and a building near the farm lands
+03_126 Bushes bordering the green farmlands were located.
+03_126 Presence of some croplands which has some trees grown in its ends.
+03_126 There are group of bushes and buildings between green farmlands.
+03_127 Farmland beside building
+03_127 Buildings and trees surrounded with farm lands
+03_127 Bushes and buildings were located in between the green farmlands.
+03_127 Presence of some croplands which has some trees grown in its ends.
+03_127 There are green farmlands close to group of bushes and buildings.
+03_128 A bunch of trees near a building
+03_128 Grassy farm lands near buildings and trees
+03_128 Bushes and buildings were located near the green farmlands.
+03_128 There are green farmlands with buildings and bushes surrounding it.
+03_128 There are some buildings besides which some farmlands are cultivated.
+03_129 Farmland with houses
+03_129 Irrigated farm lands surrounded by houses
+03_129 Green farmlands were surrounded by bushes and buildings.
+03_129 There are green farmlands with buildings and bushes surrounding it.
+03_129 There are some buildings besides which some farmlands are cultivated.
+03_130 Grassy land surrounded by trees
+03_130 A river dividing grassy land and dry lands
+03_130 A river runs in between the barren land and farmlands.
+03_130 There are some brownish farmlands located in the forest regions.
+03_130 There is stream of water dividing group of farmlands and barren lands.
+03_131 Residential area near greenland
+03_131 Farm lands with some trees on one side
+03_131 Some farmlands are present near the areas which has vacant spaces and some buildings.
+03_131 There are farmlands and line of bushes closeby.
+03_131 There are some trees near the farmlands.
+03_132 Greenland with trees 
+03_132 Farm lands with trees in its border
+03_132 There are farmlands with some bushes at its border.
+03_132 There are farmlands.
+03_132 There are several croplands.
+03_133 Irrigated land with green farmland
+03_133 There are some grassy farm lands
+03_133 There are bunches of farmlands neatly arranged and equally shaped.
+03_133 There are farmlands of which some are irrigated.
+03_133 There are farmlands.
+03_134 Irrigated with covered with trees
+03_134 Farm lands of which some are irrigated adjacent to a road
+03_134 Some bushes exist near the green farmlands.
+03_134 There are some farmlands located near the roads.
+03_134 There is a road lined with bushes between group of farmlands.
+03_135 Road surrounded with large trees
+03_135 A road dividing farm lands with trees on its sides
+03_135 Irrigated and green farmlands exist on either side of the road decorated with bushes.
+03_135 There are some farmlands located near the roads.
+03_135 There is a road lined with bushes between group of farmlands.
+03_136 Road seperating greenland and irrigation land
+03_136 A road dividing farm lands with trees on its sides
+03_136 Irrigated and green farmlands exist on either side of the road decorated with bushes.
+03_136 There are green farmlands with trees and a greenhouse nearby.
+03_136 There are some highways inmidst of the area which are covered fully with farmlands.
+03_137 Greenland with some bushes
+03_137 Farm lands with some bushes on few lands
+03_137 Some plantation were done near the green farmlands. 
+03_137 There are green farmlands some of which are irrigated.
+03_137 There are several croplands.
+03_138 Irrigating land covered with trees
+03_138 There are farm lands of which some are irrigated
+03_138 Irrigated farmlands exist near the green farmlands.
+03_138 There are farmlands some of which are irrigated.
+03_138 There are some irrigated farmlands which is situated in the area near which some trees are grown.
+03_139 Evenly cultivated crops on farmland
+03_139 Fram lands with some trees and bushes
+03_139 Irrigated and planted farmlands exist on either side of the road decorated with bushes.
+03_139 There are farmlands of which some are irrigated.
+03_139 There are some irrigated farmlands which is situated in the area near which some trees are grown.
+03_140 There are farmlands of which some are irrigated.
+03_140 Farm lands with some trees and bushes
+03_140 Irrigated and planted farmlands exist on either side of the road decorated with bushes.
+03_140 It is the mix up of planted farmlands and irrigated farmlands.
+03_140 Some planted farmlands are situated near the farmlands which are irrigated.
+03_141 Barren land near by greenland
+03_141 A farm land with bushes next to a barren land
+03_141 Planted farmlands were located near the playground.
+03_141 There are some farmlands located near the playground.
+03_141 There are some vacant grounds present near the cultivated croplands.
+03_142 Building covered with trees
+03_142 Farm lands with trees and bushes
+03_142 There are farmlands with neatly arranged bushes.
+03_142 There exist a building surrounded by trees near the farmlands.
+03_142 Those are farmlands present near the building and some bushes were grown.
+03_143 Road seperating two Farmland 
+03_143 Irrigated farm lands with some trees
+03_143 Some trees and bushes are seen inbetween the farmlands.
+03_143 Some trees exist inbetween the farmlands.
+03_143 There are farmlands with a road lined with coconut trees.
+03_144 Coconut trees on either side of roads
+03_144 Dry and green farmlands exist alongside the roads lined with coconut trees.	
+03_144 Grassy farm lands with trees and bushes next to irrigated farm lands
+03_144 There are farmlands of which some are ploughed adjacent to road lined with coconut trees.
+03_144 There is a road inmidst of area covered fully with farmlands.
+03_145 Two roads in between farmlands
+03_145 Grassy farm lands with trees and bushes next to irrigated farm lands
+03_145 A road dividing irrigated farm lands and grassy lands
+03_145 Dry and green farmlands exist alongside the roads lined with coconut trees.	
+03_145 There are several farmlands situated near the area which comprises of smaller roads and several trees.
+03_146 Farmland with coconut trees
+03_146 Dry lands with coconut trees on its sides next to a road
+03_146 Dry farmlands exist inbetween the roads lined with coconut trees.	
+03_146 There are farmlands and a waterbody with a road passing inbetween lined with coconut trees. 
+03_146 There are several farmlands situated near the area which comprises of smaller roads and several trees.
+03_147 Building are surrounded by trees
+03_147 Grassy farm lands surrounded by dry lands
+03_147 There are farmlands of which some are green.
+03_147 There are group of farmlands of which some are sowed.
+03_147 There are several brownish croplands cultivated for agricultural purposes.
+03_148 Bunch of trees on grassy land
+03_148 A residential area surrounded by trees and farm lands
+03_148 There are farmlands close to buildings.
+03_148 There are some buildings located nearer to the croplands.
+03_148 There exist some buildings and trees near to the farmlands.
+03_149 There are some buildings located nearer to the croplands.
+03_149 Grassy land surrounded by dry lands
+03_149 Greenhouse, trees and farmlands exist near the road.
+03_149 There are farmlands and a greenhouse close to a road.
+03_149 There are some dry farmlands present near the green regions. 
+03_150 Farmland with different kind of trees and plants
+03_150 Grassy and dry farm lands with bushes and trees
+03_150 Greenhouse and trees exist near the farmlands where plantations are done.
+03_150 There are farmlands with patches of trees.
+03_150 There are some dry farmlands present near the green regions.
+04_083 The image consists of cell tower,garden,trees and some smaller roads.
+04_083 A garden in a park exists next to a dense tree cover and a road.
+04_083 There are some green lands and variety of trees present near the roadways.
+04_083 There is a road present inmidst of the forest.
+04_083 Large number of trees are grown.
+04_084 A roundtana has been captured in the midst of dense forests.
+04_084 A round junction with buildings is surrounded by thick tree cover.
+04_084 There is a cicular roundtana present near the area surrounded fully with trees.
+04_084 There is a roundtana located in the forest area.
+04_084 Variety of trees are grown near the roads.
+04_085 The growth of trees are dense in that area.
+04_085 Buildings with a front garden exists in the middle of a thick tree cover. 
+04_085 The area is covered fully with trees.
+04_085 The area has some buildings covered by trees.
+04_085 There is a roundtana located in the forest area.
+04_086 The captured image contains trees,roads and some vacant grounds.
+04_086 A road and few buildings are present in major cover of trees.
+04_086 Some smaller roads are seen near the forest areas.
+04_086 There are lot of trees and some residents present near the roadways. 
+04_086 Short roads are constructed at the end of dense areas. 
+04_087 Roads are laid in between forest regions.
+04_087 A road passes inbetween a dense forest region.
+04_087 Some buildings are present inmidst of the trees.
+04_087 There are lot of trees and some residents present near the roadways.
+04_087 Lots of trees are grown near the small roads.
+04_088 There is a forest
+04_088 There is a thick and dense forest cover.
+04_088 There are dense growth of trees in that area.
+04_088 There are more number of trees located in that area.
+04_088 There are lot of trees in that particaular area.
+04_089 There is a forest.
+04_089 A thick forest area is present next to a vegetation.
+04_089 There are some barren lands and some trees grown in that location.
+04_089 There are more number of trees located in that area. 
+04_089 There are some vacant lands and lots of trees.
+04_090 The density of trees grown are high in number.
+04_090 There is a thick forest area.
+04_090 Lots of trees are grown near the small roads.
+04_090 There are more number of trees located in that area.
+04_090 The forest regions are situated.
+04_091 This area contains similar kind of trees.
+04_091 There is a thick forest area with some plains around.
+04_091 There are dense growth of trees in that area.
+04_091 The area is covered fully with trees.
+04_091 There are some vacant lands and lots of trees.
+04_092 One part of forest is covered with trees while the other one contains grass.
+04_092 There is a vegetation next to a thick forest cover.
+04_092 There are some trees and some vacant grounds in that area.
+04_092 The area comprises of lots of trees and some vacant lands.
+04_092 There are some vacant lands and lots of trees.
+04_093 The large number of trees are grown along with some walking path in them.
+04_093 There is a thick forest cover and some plains.
+04_093 Forest regions are covered with full of trees.
+04_093 The area is covered fully with trees.
+04_093 The forest region consists of large number of trees.
+04_094 Series of identical trees are grown in the forest area. 
+04_094 A thick forest area is present close to a road.
+04_094 Forest regions are covered with full of trees.
+04_094 The area is covered fully with trees.
+04_094 That is forest region located near the highways.
+04_095 Forest area which contains similar kind of trees have been spotted.
+04_095 A thick forest cover with some plains is present next to a forest area.
+04_095 There are some trees and some vacant grounds in that area.
+04_095 The area comprises of lots of trees and some vacant lands.
+04_095 Some vacant lands are present near the forest areas.
+04_096 Short roads are constructed at the end of dense areas. 
+04_096 A few coconut trees are present in the dense forest area close to a road.
+04_096 There are lot of trees in that particaular area.
+04_096 There are existence of dense growth of trees near the roadways.
+04_096 The area near roads are covered fully with trees.
+04_097 The forest area is covered with full of trees.
+04_097 The view consists of a thick forest area in major.
+04_097 There are lot of trees in that particaular area.
+04_097 That region is surrounded fully with trees.
+04_097 Some vacant lands are present near the area where trees are in larger number.
+05_042 The garden contains plethora of things in it.
+05_042 A closely arranged groups of trees are present around a garden. 
+05_042 There is a garden with short trees grown parallely.
+05_042 Patches of soil is visible with some group of trees.
+05_042 There are some green lands similair to that of gardens present.
+05_043 Some trees are grown in the garden.
+05_043 There are patches of trees present parallely in a garden with patches of grass.
+05_043 Trees were grown parallely in a finely cropped grassy garden.	
+05_043 It is a garden.
+05_043 Trees are grown parallely and some soil patches are visible
+05_044 It is a clean garden.
+05_044 There are patches of soil visible in a garden with trees around.
+05_044 Trees were grown in a garden parallely, having some soil patches of land.
+05_044 The garden is filled with some some of the trees and bushes
+05_044 Trees are grown parallely and the grass is well cropped.
+05_045 It is a clean garden.
+05_045 Patches of soil are visible at few places in a garden with trees.
+05_045 There exist a garden having some soil patches of land with trees grown parallely.
+05_045 Trees are present and some soil patches are also visible.
+05_045 There are some vacant lands located near the gardens.
+05_046 The garden is bordered by trees.
+05_046 There are trees grouped at places around the garden.
+05_046 Garden is decorated with trees.
+05_046 Some soil patches are visible in the garden with some trees.
+05_046 There are some vacant lands located near the gardens.
+05_047 Highways are seen near the gardens.
+05_047 A wide road and a parking lot is visible close to a neat garden. 
+05_047 Trees were grown in more numbers near the garden.
+05_047 Lots of trees are grown near the roads where Gardens are present.
+05_047 Lot of trees are present.
+05_048 Trees are seen in the garden.
+05_048 A wide road is covered by dense tree cover close to a garden.
+05_048 Trees were grown in more numbers near the garden.
+05_048 Lots of trees are grown near the Highway.
+05_048 Lot of trees are present in the garden.
+05_049 It is a complete garden kept clean and pure.
+05_049 A grass garden is present with trees grouped together.
+05_049 Trees were grown parallely in a finely cropped grassy garden.
+05_049 Trees are grown parallely and some soil patches are visible in the garden.
+05_049 There are neat and clean gardens present in that area.
+05_050 It is a complete garden kept clean and pure.
+05_050 A garden is present close to a solar panel field bordered with trees.
+05_050 A garden bordered with trees is located near a solar farm.
+05_050 It is a garden with some trees and bushes.
+05_050 A solar panel farm is present in a finely cropped grassy garden.
+05_051 The garden is covered with green grass.
+05_051 A garden is present close to a solar panel field bordered with trees. 
+05_051 A garden bordered with trees is located near a solar farm.
+05_051 It is a clean garden.
+05_051 A solar panel farm is present in a finely cropped grassy garden.
+05_052 Trees are seen in the side of the garden.
+05_052 A dense tree cover is present close to a garden and a dismantled solar panel field.
+05_052 A garden with more number of trees is located near a solar farm.
+05_052 It is a clean garden.
+05_052 Lot of trees are grown close to solar panel field.
+06_121 The highways are surrounded by large number of trees
+06_121 A road junction connection to another having a highway with dense cover of trees inbetween.
+06_121 A small road connects to the highway through a bridge surrounded by buildings and trees.
+06_121 There is a highway covered fully by trees. 
+06_121 The area has lot of trees which are grown on both the sides of highways.
+06_122 A highway is present in the midst of forests
+06_122 A highway connects to roads on either sides which inturn is surrounded by trees.
+06_122 Highway roads are connected to a small road through a bridge surrounded by buildings and trees.
+06_122 There is a highway covered fully by trees.
+06_122 The area has lot of trees which are grown on both the sides of highways.
+06_123 There is a highway surrounded by large number of trees
+06_123 Roads run parallely between dense tree covers shrouding buildings.
+06_123 Highway roads are surrounded by dense tree cover.
+06_123 The highways are constructed inmidst of the forest areas.
+06_123 The highways are present inmdist of forest.
+06_124 Some vacant lands are present at the ends of highways
+06_124 A house with a garden upfront and neglected lands are present at the corner of turning of a highway.
+06_124 A house surrounded by greeneries is located on one side of a highway.
+06_124 There is a highway surrounded fully by trees. 
+06_124 The highways are present near the area surrounded fully with trees.
+06_125 There is a highway which is fully covered with large number of trees
+06_125 A highway cuts to a small road on one side of which is an empty land filled with trees.
+06_125 Empty land that has trees on its either side is located near the highways.
+06_125 There are several roads located in the area which are surrounded by some vacant grounds.
+06_125 There are vacant lands present by side of highways.
+06_126 There is a highway which is fully covered with large number of trees
+06_126 A highway connects to a small road having dense tree covers around.
+06_126 Buildings surrounded by thick tree cover is located on either side of a highway.
+06_126 Highways are laid inbetween the areas those which are similar to forests.
+06_126 The highways are surrounded fully with trees.
+06_127 A garden is set up in the side of highways
+06_127 A highway road connects to a small road through a bridge having dense tree cover around.
+06_127 A small road connects to the highway through a bridge surrounded by buildings and trees.
+06_127 Highways are laid inbetween the areas those which are similar to forests.
+06_127 The highways are surrounded fully with trees. 
+06_128 There is a highway which is fully covered with large number of trees
+06_128 A house with a garden upfront is present close to a highway having a garden on the other side.
+06_128 A house surrounded by greeneries is located on one side of a highway.
+06_128 There is a highway surrounded by trees and gardens.
+06_128 The highways are surrounded fully with trees.
+06_129 Several roads are linked to highways which is present in the midst of forest region
+06_129 A couple of houses with garden upfront is present close to highway connecting to a wide road.
+06_129 Small houses surrounded by greeneries is located on one side of a highway.
+06_129 There is a highway surrounded by trees and gardens. 
+06_129 There are lots of trees grown near the highways.
+06_130 There is a highway which is carved in between the green region 
+06_130 An intersection connects four highways surrounded by dense thick tree cover.
+06_130 Highway jnction is surrounded by a dense tree cover.
+06_130 Couple of roads intersect at the junction which are surrounded fully by trees.
+06_130 Several roads intersect at a junction connecting to a highway with trees around.
+06_131 There is a highway 
+06_131 The view consists of two highways intersecting at a junction surrounded by a number of trees.
+06_131 Highway roads having trees on its either sides connects to the highway junction.
+06_131 Couple of roads intersect at the junction which are surrounded fully by trees. 
+06_131 Several roads intersect at a junction connecting to a highway with trees around.
+06_132 There is a highway with trees grown in large number in its both sides
+06_132 A couple of houses with a garden upfront is present close to a highway
+06_132 Small buildings surrounded by trees is loc ated on one side of the highway.
+06_132 There is a highway surrounded by trees and gardens.
+06_132 The highway runs through the area which has lot of trees.
+06_133 There is a highway
+06_133 An empty parking lot and a road connecting to a highway and a garden on the other side.
+06_133 Highway roads are surrounded greeneries.
+06_133 There is a highway surrounded by trees and gardens. 
+06_133 The highway runs through the area which has lot of trees. 
+06_134 There is a highway surrounded by large number of trees
+06_134 Several roads intersect at a junction connecting to a highway with trees around.
+06_134 Several highways connects to a junction, surrounded by buildingd and trees.
+06_134 Couple of roads intersect at the junction which are surrounded fully by trees.
+06_134 The highway runs through the area which has lot of trees.
+06_135 There is a highway
+06_135 A wide road connects to a highway having a garden on one side and empty plot with dense tree cover bordering it.
+06_135 Trees were present on either side of a highway.
+06_135 There is a highway surrounded by trees and gardens.
+06_135 Several trees are grown near the highways.
+06_136 The roads are constructed in the middle of green region
+06_136 There are roads running parallel to the highway having dense tree covers containing coconut trees.
+06_136 Buildings surrounded by thick tree cover is located on either side of a highway.
+06_136 Different types of trees are present on both sides of highways.
+06_136 Roads from different directions are connected to the highway.
+06_137 Highways are present
+06_137 A large of trees obscure the small roads connecting to a highway.
+06_137 Highways are located near a dense tree cover.
+06_137 Small lanes are present to connect the houses to highway.
+06_137 Few houses are present on the sides of highway.
+06_138 The dense region nearer to the highway
+06_138 A couple of houses with garden upfront are present close to a highway.
+06_138 Greeneries were present on either side of a highway.
+06_138 Plant cover is uneven on one side of highway.
+06_138 Thick trees are present amidst of few houses on one side of highway.
+06_139 It is a highway
+06_139 A number of houses enveloped by dense tree covers are present near a highway.
+06_139 Small buildings surrounded by thick tree cover is located on one side of a highway.
+06_139 Buildings with gardens are present on one side of highway.
+06_139 Trees are uneven on one side of highway.
+06_140 The highways are surrounded by trees
+06_140 A highway exists parallel to a road neighbouring houses covered by thick tree area.
+06_140 Small buildings surrounded by thick tree cover is located on either side of a highway.
+06_140 A road parallel to highway is present nearer to houses.
+06_140 Buildings in small number with large amount of trees are present on the two sides of highway.
+06_141 There is a highway which is fully covered with large number of trees
+06_141 A small road connects to a highway having dense tree cover. 
+06_141 Buildings surrounded by thick tree cover is located on one side of a highway which connects to small roads.
+06_141 There are lots of trees surrounding the buildings grown near the highways.
+06_141 There is a highway located near to the forest regions.
+06_142 The highways are surrounded by trees	 
+06_142 A highway connects to a two lane road with trees on the other side.
+06_142 Buildings surrounded by thick tree cover is located on one side of a highway which connects to another highway.
+06_142 There are some trees present near the highways.
+06_142 Roads are carved inmidst of the forest areas.
+06_143 There are some vacant lands at the ends of highways
+06_143 A building with empty front connects to a highway having cropped grassland on its side.
+06_143 Greeneries and some buildings were present near the highway.
+06_143 There are some vacant grounds and some trees grown in it which are present by side of the highways.
+06_143 It is a highway.
+06_144 Highways are present with tress covered fully
+06_144 The highway is connected to a small road having a large building on one side.
+06_144 Highways connects to small roads surrounded by buildings and trees.
+06_144 Trees are grown in large numbers near the highways. 
+06_144 Highways are present near the forest regions.
+06_145 There is a highway covered with some vacant lands and trees
+06_145 A highway road connects to a building with large garden in the front.
+06_145 Greeneries were present around the highways.
+06_145 There are couple of buildings covered with trees present near the highways.
+06_145 Some green coloured lands are situated near the highways.
+06_146 There is a highway covered with some vacant lands and trees
+06_146 There is a cropped grassland and some buildings around a highway.
+06_146 Highways are located with greeneries  on its either sides.
+06_146 There are couple of buildings covered with trees present near the highways.
+06_146 Some green coloured lands are situated near the highways.
+06_147 There is highway with trees grown at one side.
+06_147 There is a dense tree cover enveloping a number of buildings on the side of a highway.
+06_147 Highways are present near a dense tree cover.
+06_147 Trees are grown in one side of the highways while the other side has some vacant lands.
+06_147 There are some trees grown near the highways.
+06_148 The highway runs along the dense areas
+06_148 There is a vacant empty land and ground close to a highway.
+06_148 Empty lands, buildings and trees are present near the highways.
+06_148 Trees are grown in one side of the highways while the other side has some vacant lands.
+06_148 The areas near the highways are denser with lots of trees grown.
+06_149 There is a highway surrounded by trees
+06_149 There are a number of equally spaced buildings and a ground close to a highway.
+06_149 residential houses surrounded by thick tree cover is located on one side of a highway.
+06_149 There is a highway comprising of lots of trees,buildings and vacant grounds by its side.
+06_149 There are several trees and some buildings near the highways.
+06_150 There is a highway covered with trees
+06_150 A road connects to a highway close to a dense tree cover having a couple of houses with a garden upfront. 
+06_150 Small houses surrounded by dense tree cover is located on one side of a highway.
+06_150 There is a highway comprising of lots of trees,buildings and vacant grounds by its side.
+06_150 It is a highways consisting of bunches of trees.
+07_041 There is playground which has some trees grown around it.
+07_041 The playground is surrounded by small trees and there is a road beside it.
+07_041 Roads run parallel to a small playground surrounded by trees in concentric rectangle.
+07_041 A playground is surrounded by thick tree cover, roads and buildings.
+07_041 The playground is surrounded by greeneries and several roads beside it.
+07_042 The basketball court is surrounded by trees.
+07_042 The two basketball courts were surrounded by tress and roads.
+07_042 The orange and white basketball court and a blue court is surrounded by thick tree cover.
+07_042 The two basketball courts exist near a dense tree cover.
+07_042 Dense tree cover surroundes the basketball courts.
+07_043 There are two basketball courts in between two roads.
+07_043 The basketball court is surrounded by trees.
+07_043 Two basketball courts are present parallel to each other.
+07_043 The two basketball courts exist inbetween the roads lined up with trees.
+07_043 Small roads lines up with trees lies close to the basketball courts. 
+07_044 The road passes nearer to the basketball court which is covered with some trees.
+07_044 The two basketball courts were surrounded by tress and roads.
+07_044 Two parallel basketball courts are touched by roads and trees each.
+07_044 The two basketball courts exist inbetween the roads lined up with trees.
+07_044 Small roads lines up with trees lies close to the basketball courts. 
+07_045 A road lies close to the basketball courts.
+07_045 The two basketball courts lies close to the road.
+07_045 A tree area covers a part of white and orange basketball court.
+07_045 Group of trees were present near the basketball courts and there is a road beside it.
+07_045 A small road and group of trees lies close to the  basketball courts. 
+07_046 There are some buildings and trees alongside the playground.
+07_046 Some vacant lands and building are present near playground.
+07_046 A line of buildings are present parallel to a small road close to a playground.
+07_046 There is a playground which contains sand land and some buildings at its sides.
+07_046 A turning road separates a number of buildings and a playground bordered with trees.
+07_047 The Path of river which runs alongside the playground.
+07_047 The playground is located near the river.
+07_047 A river runs close to a playground parallel to a small road.
+07_047 A part of a playground is visible near a river channel.
+07_047 There is a river running nearby the playground.
+07_048 It is a playground.
+07_048 There are some trees besides the playground.
+07_048 A part of the running track along with grass ground is visible.
+07_048 Trees were lined up at the corners at the corners of the playground.
+07_048 A part of the playground is visible alon with trees.
+07_049 Some smaller roads are separated by basketball court.
+07_049 There is a basketball court in between two roads.
+07_049 A blue and unpainted basketball court with lines is present near the intersection of two roads.
+07_049 Small roads lines up with trees lies close to the basketball court. 
+07_049 The basketball court lies close to the road.
+07_050 There are two buildings and some trees near the playground.
+07_050 Lots of trees are grown near to the playground.
+07_050 A triangular building and a small building along with a small pond and dense tree cover is visible close to a playground.
+07_050 A small pond and a couple of buildings, surrounded by trees is found close to the playground.
+07_050 Buildings and trees were present near the playground.
+08_121 Green house exist near some buildings and trees.
+08_121 A big buidling is located near the farmlands consisting of green house.
+08_121 A bunch of trees and buildings are located near a greenhouse.
+08_121 Group of trees and greenhouses are present near several buildings.
+08_121 Buildings were spotted with greenhouses and trees present around.
+08_122 Some residential houses were located near the highway.
+08_122 Some brick buildings are present nar the highways.
+08_122 Number of residential houses are seen at one side of the highway.
+08_122 Residential houses were located near highway roads.
+08_122 Residential houses were present on one side of a highway. 
+08_123 Some trees exist in between the residential buildings near the barren land.
+08_123 There are some vacant barren lands with some trees grown in it.
+08_123 Few buildings and barren lands are seen.
+08_123 Small buildings were present along with trees near a barren land.
+08_123 A barren land is spotted near an area having residential houses and trees.
+08_124 Some trees exist in between the residential buildings near the barren land.
+08_124 There are some smaller residents present in the green area surrounded by some trees.
+08_124 Few buildings and barren lands are seen with trees at some places.
+08_124 Small buildings were present along with trees near a barren land.
+08_124 A barren land is spotted near an area having residential houses and trees.
+08_125 Residential houses were located in between the trees.
+08_125 There are some smaller residents present in the green area surrounded by some trees.
+08_125 Few buildings and farmlands are present with trees at some places.
+08_125 Residential houses and trees were spotted near a road.
+08_125 A road runs nearby a land containing residential houses and trees
+08_126 Some residential houses and trees were spotted alongside the road.
+08_126 There are some smaller roads present near the vacant grounds and some homes are present near it.
+08_126 A small road is spotted with houses,trees and farmlands being present along one side and barren lands with coconut trees at the other side.
+08_126 Residential houses and trees were present on one side of a road.  
+08_126 Small roads runs inbetween residential area which connects to a main road.
+08_127 Some residential houses and trees were spotted alongside the road.
+08_127 There are some smaller roads present near the vacant grounds and some homes are present near it.
+08_127 A small road is spotted with houses,trees and farmlands being present along one side and barren lands with coconut trees at the other side.
+08_127 Houses and trees were present on one side and a barren land with coconut trees were present on the other side of a road.
+08_127 Small roads runs inbetween residential area which connects to a main road.
+08_128 Residential houses and trees were located on either side of the road.
+08_128 There are some smaller roads nearby which some houses are present. 
+08_128 A small road, farmlands, coconut trees and electric lines are spotted.
+08_128 Small buildings, trees, farmlands and a small road are spotted.
+08_128 A small road, farmlands, coconut trees and electric lines are spotted.
+08_129 Residential houses and trees were located on either side of the road.
+08_129 There are some smaller roads nearby which some houses are present.
+08_129 A small road, farmlands, coconut trees, farmlands and electric lines are spotted.
+08_129 Trees and houses were present at both the ends of a road.
+08_129 Trees and houses were present on either side of a road.
+08_130 Residential houses and trees were spotted near a barren land.
+08_130 There is a vacant ground near to the highways
+08_130 Farmlands, trees and buildings are spotted.
+08_130 Residential houses and trees were spotted around a barren land.
+08_130 A barren land is located near reidential houses and trees.
+08_131 Residential houses and trees were spotted near a barren land.
+08_131 There are couple of houses arranged in a random manner located nearer to each other.
+08_131 Farmlands, trees, buildings with few electric lines and interconnecting mud roads are spotted.
+08_131 A barren land is located near reidential houses and trees.
+08_131 Residential houses and trees were spotted near a barren land.
+08_132 Residential houses and trees were spotted.
+08_132 There are couple of houses arranged in a random manner located nearer to each other.
+08_132 Farmlands, trees, buildings with few electric lines and interconnecting mud roads are spotted.
+08_132 Residential houses and trees were spotted.
+08_132 Small buildings were spotted along with green trees.
+08_133 There are some residential houses and a pond on either side of the road.
+08_133 There are some residents and canal near the highways. 
+08_133 Residential houses, coconut trees and a small pond are present along one side of the highway.
+08_133 A small road connects to a highway which has houses and trees on one side and a pond on its other side.
+08_133 A small road which has a small pond, houses and trees at its sides connects to a highway.
+08_134 There are some residential houses and trees.
+08_134 There are some buildings alongside the canal. 
+08_134 Buildings and trees are aligned along one side of a canal.
+08_134 Residential houses and trees were spotted near a canal.
+08_134 A canal lined up with bushes is located near a residential area.
+08_135 Some residential houses and trees were located near a canal.
+08_135 There are some buildings alongside the canal.
+08_135 Buildings and trees are aligned along one side of a canal and few electric lines are spotted.
+08_135 A canal lined up with bushes is located near a residential area.
+08_135 Residential houses and trees were spotted near a canal.
+08_136 Some residential houses and trees were located near a canal.
+08_136 There are some buildings alongside the canal.
+08_136 Buildings and trees are aligned along one side of a canal and few electric lines are spotted.
+08_136 Residential houses and trees were spotted near a canal.
+08_136 A canal lined up with bushes is located near a residential area.
+08_137 There are some buildings and trees alongside the road.
+08_137 Some residents are constructed in the vacant area covered with trees and there is a small road passing through.
+08_137 Residential houses, trees, farmlands and electric lines are spotted with a road being present nearby.
+08_137 Small buildings and trees were located on one side of a road.
+08_137 A small road runs near a land containing group of trees and small buildings.
+08_138 Some trees exists in between the residential houses alongside the road.
+08_138 Some residents are constructed in the vacant area covered with trees and there is a small road passing through.
+08_138 Residential houses, trees, farmlands and electric lines are spotted with a road being present nearby. 
+08_138 A small road runs near a land containing group of trees and small buildings.
+08_138 Small buildings and trees were located on one side of a road.
+08_139 Some trees were located in between the residential houses alongside the road.
+08_139 There are smaller roads on one side of which is covered with trees and homes while the other side has barren lands.
+08_139 There exists a road with farmlands being present on one side while the other side has farmlands with houses and trees in between.
+08_139 Small roads runs inbetween residential area which connects to a main road.
+08_139 Residential houses and trees were present on one side of a road.  
+08_140 Some trees were spotted in between the residential houses.
+08_140 There are some vacant lands present inbetween small houses. 
+08_140 Few houses are spotted in the barren lands with coconut trees and mud roads are laid at some places.
+08_140 Small roads runs inbetween the residential area having  houses and trees.
+08_140 Residential houses and trees were present at both the ends of the roads.
+08_141 Some trees exists in between the residential houses.
+08_141 There are some vacant lands present inbetween small houses.
+08_141 Few houses are spotted in the barren lands with coconut trees and mud roads are laid at some places.
+08_141 Roads runs inbetween the residential area, having houses, trees and barren lands.
+08_141 Small houses having tress inbetween was located.
+08_142 Some trees were spotted in between the residential houses near a barren land.
+08_142 There is a barren land located near the residential area.
+08_142 Few houses are spotted in the barren lands with coconut trees and mud roads are laid at some places.
+08_142 Small houses having tress inbetween was located near the barren land.
+08_142 Barren lands was located near the residential area.
+08_143 There are some buildings surrounded by trees located parallely near a three way junction.
+08_143 There are roads loacated by the side of trees and several houses are present inmidst of the trees.
+08_143 Buildings are aligned parallely with trees surrounding them near a three way junction.
+08_143 Buildings are aligned parallely with trees surrounding them near a three way junction.
+08_143 Buildings are aligned parallely with trees surrounding them near a three way junction.
+08_144 Some small buildings and trees were spotted near a barren land.
+08_144 Some smaller homes are present near the barren lands
+08_144 Few buildings and trees are seen near a barren land.
+08_144 Residential houses and trees were present near a barren land.
+08_144 Barren land was spotted near the residential area.
+08_145 Some small buildings and trees were spotted on a barren land.
+08_145 Some smaller homes are present near the barren lands
+08_145 Few buildings and trees are seen with a barren land nearby.
+08_145 Residential houses and trees were present near a barren land.
+08_145 Barren land was spotted near the residential area.
+08_146 There are some trees inbetween the residential houses near a canal.
+08_146 Several houses are situated near the canal.
+08_146 Residential area with houses, coconut trees and interconnecting mud roads are seen at one side of a canal.
+08_146 A road seperates the residential area an the canal.
+08_146 A canal lined up with bushes is located near the residential area.
+08_147 There are some trees inbetween the residential houses.
+08_147 There are lot of smaller houses present nearer to each other
+08_147 A residential area with trees and houses are seen.
+08_147 Residential houses along with trees are spotted.
+08_147 Trees were grown inbetween the residential houses.
+08_148 There are some trees inbetween the residential houses.
+08_148 There are lot of smaller houses present nearer to each other
+08_148 A residential area with trees and houses are seen.
+08_148 Residential houses along with trees are spotted.
+08_148 Trees were grown inbetween the residential houses.
+08_149 There are some trees inbetween the residential houses.
+08_149 There are set of small buldings nearer to each other.  
+08_149 A residential area with trees and houses are seen.
+08_149 Residential houses along with trees are spotted.
+08_149 Trees were grown inbetween the residential houses.
+08_150 There are set of small buldings nearer to each other.  
+08_150 There are some trees inbetween the residential houses.
+08_150 A residential area with trees, houses and roads at some places are spotted.
+08_150 Residential houses along with trees are spotted on either sides of the road.
+08_150 Trees were grown inbetween the residential houses.
+09_121 Lots of empty lands are present near the industries.
+09_121 There are some industries present near the roads.
+09_121 There are some industries located near the vacant lands
+09_121 A junction of three roads with bannen land on one side and trres and buildings on the other side
+09_121 an industrial area with road on one side
+09_122 There are some vacant grounds and lots of trees are grown near the roads
+09_122 There are some vacant lands situated nearby the roads.
+09_122 Green grounds are seen near the roads.
+09_122 A crossing a residential area
+09_122 a road running in a village area
+09_123 The roads are covered with trees.
+09_123 There are large amount of trees surrounding the buildings.
+09_123 It is a residential area.
+09_123 A junction of four roads in a residential area
+09_123 a neatly arranged lanes connected to roads
+09_124 There are some buildings surrounded by trees.
+09_124 It is a residential area.
+09_124 There is a single way road passing through the forests.
+09_124 Network of roads in a residential area
+09_124 a neatky planned layout of residential area
+09_125 Small residents are seen near the roads.
+09_125 There are some vacant lands near the roads.
+09_125 There are some farmlands present near the roads.
+09_125 A road seperating buildings and plants
+09_125 a road in a village with few houses
+09_126 There is a road passing through froest area.
+09_126 Some playgrounds are located near the roads.
+09_126 There are some playgrounds near the roads.
+09_126 A road with play area on one side and trees on other side
+09_126 a narrow road with play area on side of the road
+09_127 There are some vacant lands near the roads.
+09_127 There are some vacant grounds and lots of trees are grown near the roads.
+09_127 There are some dry lands near the roads.
+09_127 A junction of roads with junction and mud paths
+09_127 a junction of roads and straight mud paths
+09_128 There are several roads linking each other.
+09_128 There are some vacant lands near the roads.
+09_128 It is a junction connecting several roads.
+09_128 A curved road with a playground on one side and buildings and trees on the other side
+09_128 a junction of roads connecting a residential area
+09_129 There are some vacant lands near the roads.
+09_129 There are some small residents surrounded by trees.
+09_129 The roads are covered by trees.
+09_129 A residential area with trees on one side and barren land on other side
+09_129 a well planned layout of a community with houses
+09_130 There are lot of trees grown.
+09_130 Lots of trees are grown near the roads.
+09_130 It is a junction connecting several roads.
+09_130 Junction of roads connecting to the main road
+09_130 small lanes branching out of a main road in a residential area
+09_131 There are some vacant grounds and lots of trees are grown near the roads
+09_131 There are some vacant lands situated nearby the roads.
+09_131 There are some vacant lands near the roads.
+09_131 A road seperating trees and barren land
+09_131 a narrow clean village road with few houses
+09_132 There are some small path in the plains.
+09_132 There are empty green lands around the roads.
+09_132 There is a road passing through the plains.
+09_132 A network of roads connecting to the main road
+09_132 a main road with bridge for crossing a small canal
+09_133 There is a cell tower and lot of trees nearby the roads.
+09_133 There are lots of trees grown near the roads.
+09_133 There are several roads connecting each other.
+09_133 A junction of three roads with a tower surrounded by trees on one side
+09_133 a road network with high tower on the side
+09_134 There are some vacant lands.
+09_134 Several roads are situated near the empty grounds.
+09_134 There are multiple roads.
+09_134 A two way road connecting three parallel roads of a residential area
+09_134 a network of roads and solar panels on the side
+09_135 There are lot of coconut trees covering the buldings.
+09_135 It is a residential area.
+09_135 Several small buildings are seen covered with trees.
+09_135 A narroww road across a village area
+09_135 a road separating many houses in a community
+09_136 There is a canal near the road.
+09_136 Several farmlands are seen near the roads.
+09_136 There are some farmlands present near the roads.
+09_136 a road with trees on one side and a canal on the other side
+09_136 a road with canal on one side and agricultural area
+09_137 It is a residential area covered by trees.
+09_137 Trees are grown in large numbers near the roads.
+09_137 There are several roads connecting each other.
+09_137 A junction of a residential area connecting to the main road
+09_137 a junction of four lanes in a community
+09_138 There is a single road running through the forest area.
+09_138 Trees are grown in large numbers near the roads.
+09_138 There is road passing through the forests.
+09_138 Top view of a main road across a residential area
+09_138 a dense group of trees in a residential area
+09_139 There are some buildings covered with trees.
+09_139 Lot of trees are seen near the roads.
+09_139 It is a residential area covered by trees.
+09_139 Network of roads in a residential area
+09_139 many houses in a residential area connected with small lanes
+09_140 There are several roads connecting each other.
+09_140 There are some buildings covered with trees.
+09_140 It is a residential area covered by trees.
+09_140 A network of neatly planned roads
+09_140 a network of neatly planned roads
+09_141 Several roads connect each other in junction.
+09_141 It is a junction connecting several roads.
+09_141 The roads are linked with each other.
+09_141 Two roads connecting to the main road
+09_141 two roads branching out of a main road
+09_142 That particular area has large amount of trees.
+09_142 Lots of trees are grown in the given area.
+09_142 There are some vacant lands situated nearby the roads.
+09_142 Junction of roads in a area
+09_142 two junction of roads in a residential area
+09_143 The growth of trees are more dense.
+09_143 There are large number of trees grown.
+09_143 There is a highway running through the forest area.
+09_143 A long two way road with plants in the divider
+09_143 an overview of a large residential area connected with roads
+09_144 There are some vacant grounds and lots of trees are grown near the roads.
+09_144 There are lot of barren lands located near the roads.
+09_144 There is a large are of vacant lands present near the roads.
+09_144 A road seperating trees and a barren land
+09_144 two houses on a barren land with a road connecting the houses
+09_145 The area is similar to that of forests.
+09_145 There are severl residents surrounded by trees.
+09_145 It is a residential area covered by trees.
+09_145 A large residential area with dense trees
+09_145 a residential area with many houses and lanes
+09_146 There are some industries near the roads.
+09_146 Some vacant lands are present near the roads.
+09_146 There are several roads connecting each other.
+09_146 A road with playground on one side and buildings on other side
+09_146 a curved road with many junctions in the roads
+09_147 There is a canal near the roads.
+09_147 Several trees and bushes are grown near the farmland area.
+09_147 There are some farmlands present near the roads.
+09_147 A road seperating trees and a canal
+09_147 a large tree on a side of the road with canal in parallel to the road
+09_148 Some small residents are surrounded by trees.
+09_148 Smaller roads are fully covered with trees.
+09_148 Lot of trees are seen near the roads.
+09_148 A large residential area with big trees
+09_148 a large layout of the residential area
+09_149 There is a road passing through the forest.
+09_149 There are large amount of trees grown near the roads.
+09_149 There are some vacant grounds and lots of trees are grown near the roads
+09_149 A long road crossing a residential area
+09_149 a dense group of trees on a residential area
+09_150 Some farmlands are present near the roads.
+09_150 The roads are located near the farmlands.
+09_150 There are some farmlands present near the roads.
+09_150 Two roads seperating residential area and agricultural fields
+09_150 two parallel roads separating houses and agricultural lands
+10_049 a heliport for landing the helicopters
+10_049 a part of runway for airplanes
+10_049 heliport landing roadway is well designed
+10_049 a vertical line for the landing of the helicopters
+10_049 small grass and shrub grown around a runway
+10_050 a piece of runway adjacent to a barren land
+10_050 a straight lane for the helicoptor landing
+10_050 a straight lane for the helicoptor to land
+10_050 different varieties of plant species are grown near the landing area
+10_050 a long narrw runway for landing airplanes
+10_051 a helipad adjacent to a building
+10_051 a heliport for landing helicopters
+10_051 landing base for helicoptors is maintained well
+10_051 heliports are designed in the middle of landscape
+10_051 a building adjacent to a heliport
+10_052 a part of runway in red soil land area
+10_052 part of airplane runway
+10_052 another section of landing area for the helicoptors
+10_052 a straight line for the helicopter to land
+10_052 a runway surrounded by a barren land
+10_153 an end of a runway connected to a mud path
+10_153 an airport in a remote area
+10_153 a turn over area for the helicoptors
+10_153 trees and grasses are well grown in and around helipads
+10_153 a circular runway for making u turn
+10_054 it is a part of runway surrounded by a land area with some trees
+10_054 long broad road for the helicoptors to land
+10_054 trees and grasses are well grown in a very big landscape
+10_054 small shrubs grown near a runway
+10_054 a runway to near a land covered with shrubs
+10_055 a helipad marked for landing of helipads
+10_055 base area for the helicoptors to land
+10_055 base area for the helicoptors to land is being maintained well
+10_055 an overview of landing surface with heliport roadway
+10_055 a runway and a helipad adjacent to it
+10_056 a part of runway adjacent to barren land with some vegetations
+10_056 a greenish area beside the heliport
+10_056 a greenish area beside the heliport is well grown
+10_056 a very closed view for the greenish part near heliport
+10_056 a piece of barren land near a runway
+10_057 a helipad adjacent to a building
+10_057 a small airport wiith runway and helipad
+10_057 rectangled area of land is used for the landing
+10_057 a truck is moving on one side of the landing surface
+10_057 a clean helipad designed on a barren land
+10_058 a helipad adjacent to a building
+10_058 a small building adjacent to a helipad
+10_058 a long distance view of the helicopters landing surface
+10_058 land area for the landing of the helicoptors is faced towards right
+10_058 a runway and heliport adjacent a small road
+10_059 a barren land with a part of helipad
+10_059 long road area for the take off of the helicoptors 
+10_059 land used for the take off the helicopters
+10_059 a runway to land airplanes
+10_059 a runway surrounded by barren land
+10_060 it shows a part of runway for aircrafts
+10_060 heliport is surrounded by grassy area
+10_060 heliport is in the middle part of the landscape
+10_060 a runway in the midst of a barren land
+10_060 small plants surround the runway
+11_121 An abandoned land exists close to a solar farm. 
+11_121 Solar farm was located near a land containing trees.
+11_121 A green cover borders a blue solar panel field having a unmaintained garden nearby.
+11_121 Green bushes borders the neatly arranged solar panels, having a small white shed.
+11_121 Som e empty lands are present near which solar panels are installed.
+11_122 There exists a row of trees nearby a solar farm.
+11_122 Some trees were located near a neatly arranged solar farm.
+11_122 There are a number of blue solar panels above a green field.
+11_122 Green bushes borders the neatly arranged solar panels.
+11_122 There are lots of solar panels located near the empty lands.
+11_123 There exists a row of trees nearby a solar farm. 
+11_123 Some trees were located near a neatly arranged solar farm.
+11_123 There exists a green tree cover close to a blue solar panel field.
+11_123 Green bushes borders the neatly arranged solar panels, having a small white shed.A small white
+11_123 There are lots of solar panels located nearer to each other.
+11_124 There is a neatly packed solar panel field. 
+11_124 Solar panels were arranged in a field.
+11_124 A large number of blue solar panels is present on top of a green field.
+11_124 A small white shed exist inbetween the uniformly arranged solar panels.
+11_124 There are lots of solar panels located nearer to each other.
+11_125 A bridge connects two solar farms and a neglected land is present on one side. 
+11_125 Solar panels were arranged on either side of a small bridge connecting two roads.
+11_125 Equal lengths of blue solar panels are diagonally arranged next to a road and a grass land.
+11_125 There is a white shed and a bridge connecting roads close to a solar panel field.
+11_125 There are some solar panels arrenged in neat manner near the grounds. 
+11_126 A neglected land neighbours a solar farm.
+11_126 Solar farm exist near a barren land.
+11_126 A number of blue solar panels are present close to a patched green grass land.
+11_126 Solar farm exist near a barren land containing green patches of land.
+11_126 There are empty lands in which solar panels are set up.
+11_127 A solar farm is neighboured by an abandoned land.
+11_127 Solar farm exist near a barren land.
+11_127 A number of blue solar panels are present close to a patched green grass land.
+11_127 Solar farm exist near a barren land containing green patches of land.
+11_127 There are empty lands in which solar panels are set up.
+11_128 A waterbody and a neglected land exists close to a solar farm.
+11_128 Solar farm exist near a small muddy pond.
+11_128 A muddy water body and green patches of land exists close to a blue solar panel field.
+11_128 Solar farm exist near a muddy water body and green patches of land.
+11_128 Solar panels are installed near the ponds.
+11_129 A neglected land divides a solar farm. 
+11_129 Solar panels were arranged on either side of a neglected land and a muddy water pond.
+11_129 A muddy water body exists close to a blue solar panel field.
+11_129 A muddy water body and green patches of land exist inbetween the solar farm.
+11_129 Solar panels are set up in the area which has some empty lands.
+11_130 A solar farm is divided by a neglected land and a body of water. 
+11_130 Solar panels were arranged on either side of a neglected land and a muddy pond.
+11_130 A green patched land exists close to a blue solar panel field.
+11_130 A muddy water body and green patches of land exist inbetween the solar farm.
+11_130 Solar panels are set up in the area which has some empty lands.
+11_131 A white shed exists in the middle of a solar farm.
+11_131 A small white shed is present in the solar farm.
+11_131 A number of blue solar panels are present along with a white shed close to a muddy water body.
+11_131 A small white shed exist inbetween the uniformly arranged solar panels.
+11_131 Lots of solar panels are set up in orderly manner.
+11_132 A white shed is present in a solar farm next to a garden.
+11_132 A small white shed is present in the solar farm.
+11_132 A large number of blue solar panels is seen in the view along with a white building and a garden nearby.
+11_132 A solar farm having a small white shed is present near a garden, which is decorated with green bushes. 
+11_132 Lots of solar panels are set up in orderly manner.
+11_133 A road junctions runs across a partially mounted solar farm.
+11_133 Roads running across the solar farm in which most of panels were detached.
+11_133 A solar farm is present of which a major number of panels are dismantled exposing a green grass field.
+11_133 Solar panels are arranged on a grassland, in which most of the panels are detached.
+11_133 There are gardens in which solar panels are setup.
+11_134 A garden is present next to a solar farm.
+11_134 Solar farm exist near a garden.
+11_134 A blue solar panel field is present next to a green garden.
+11_134 A solar farm is present near a garden, which is decorated with green bushes. 
+11_134 There are gardens in which solar panels are setup.
+11_135 A body of water is present close to a solar farm.
+11_135 A muddy pond exist near the solar farm.
+11_135 A muddy water body is present next to a blue solar panel field.
+11_135 Solar farm is located near a muddy water body.
+11_135 Solar panels are installed near the ponds.
+11_136 An artificial water body is present close to a partially mounted solar farm along with forest cover.
+11_136 A water tank ispresent near  the solar farm in which most of panels were detached.
+11_136 A water body is seen close to a solar panel field of which most panels are dismantled exposing a green grass field.
+11_136 Solar farm is present close to a water body, wherein most of panels are detached.
+11_136 Solar panels are installed near the ponds.
+11_137 A deprecated canal runs between solar farms.  
+11_137 Solar panels were arranged on either side of a deprecated canal.
+11_137 A deprecated water channel runs between a solar farm having a small white building nearby.
+11_137 A water stream runs inbetween the neatly arranged solar panels, having a small white shed.
+11_137 Solar panels are installed near the vacant grounds.
+11_138 There is a neatly packed solar panel field.
+11_138 Solar farm exist near a deprecated canal.
+11_138 A blue solar panel field is present close to a depressed water channel.
+11_138 A deprecated water channel runs near the solar farm.
+11_138 Solar panels are installed in orderly manner.
+11_139 A uniformly packed solar panel field exists next to a neglected land.
+11_139 Solar farm were located near a barren land.
+11_139 Patches of green land is visible close to a blue solar panel field.
+11_139 Solar panels are arranged near a barren land containing green patches of land.
+11_139 Solar panels are installed in orderly manner.
+11_140 A canal runs to divide solar farms present next to a neglected land. 
+11_140 Solar farm exist near to a river.
+11_140 A dirty water channel and a green grass area exists close to a solar panel field.
+11_140 A river and a grassland are visible close to the solar panel field.
+11_140 Some solar panels are installed near the water bodies.
+11_141 A water stream runs to divide solar farms.
+11_141 Solar panels exist on either side of the river.
+11_141 Patches of green grass is visible close to a solar panel field.
+11_141 A river and a grassland are visible close to the solar panel field.
+11_141 Some solar panels are installed near the water bodies.
+11_142 A solar farm exists next to a neglected land.
+11_142 Solar panels were installed near a barren land.
+11_142 Patches of green is found near a solar panel field.
+11_142 Solar panels are arranged near a barren land containing green patches of land.
+11_142 Some solar panels are installed in the green grounds.
+11_143 Neglected lands borders a solar farm.
+11_143 Solar panels were installed near a barren land.
+11_143 A blue solar panel field is surrounded by patches of green grass.
+11_143 Solar panels are arranged near a barren land containing green patches of land.
+11_143 Solar panels are installed in the barren lands.
+11_144 A patch of land runs between solar farms.
+11_144 Solar panels were installed near a muddy pond.
+11_144 A muddy water body and a white building is present in the view containing blue solar panel field.
+11_144 A muddy water body and green patches of land exist inbetween the solar farm, having a small white shed in it.
+11_144 There are lot of solar panels installed in dry lands.
+11_145 Majority of panels are dismantled in a solar farm.
+11_145 There exist a solar farm in which most of the panels were detached.
+11_145 A major share of panels are dismounted in a solar panel field exposing a green grass field.
+11_145 Solar panels are arranged on a grassland, in which most of the panels are detached.
+11_145 The grounds facilitates some of the solar panels in it.
+11_146 A white shed is present in the middle of a solar farm.
+11_146 A small white shed exist in the solar farm.
+11_146 A small building and depreciated water channel is present close to a solar panel field.
+11_146 A small white shed and green patches of land exist inbetween the solar farm.
+11_146 There are some solar panels present near the grounds.
+11_147 A uniformly packed solar farm is present wherein most panels are dismantled.
+11_147 There exist a solar farm in which most of the panels were detached.
+11_147 A major share of solar panels are dismounted in a solar panel field exposing a green grass field.
+11_147 Solar panels are arranged on a grassland, in which most of the panels are detached.
+11_147 Several solar panels are located near the gardens.
+11_148 A neatly packed solar farm is present.
+11_148 A small white shed exist in the solar farm.
+11_148 A number of blue solar panels are uniformly arraned with a white building nearby.
+11_148 A small white shed exist inbetween the uniformly arranged solar panels.
+11_148 There are series of panels located near to each other.
+11_149 A solar panel field exists adjacent to a garden.
+11_149 A garden is located near a solar farm.
+11_149 There is a garden close to a partially exposed grass field.
+11_149 Solar panel field is present near a garden, which is decorated with green bushes. 
+11_149 There are some solar panels installed near the green grounds.
+11_150 There is a garden near to a solar farm.
+11_150 A barren land exist near the solar farm, in which most of the panels were detached.
+11_150 A dark green grass cover is present close to a solar panel field exposed green grass.
+11_150 Solar panel field is present near a grassland. 
+11_150 There are some solar panels installed near the green grounds.
+12_081 There is a canal located near some buildings and trees.
+12_081 It is a area consisting of lots of residents and trees near the canal.
+12_081 Residential houses and trees were spotted near a canal.
+12_081 Houses and trees were present on one side of a canal which has bushes at its either sides.
+12_081 Residential houses and trees were located on one side of a canal.
+12_082 There is a canal located near some buildings and trees.
+12_082 Some coloured building and trees are present near the canal.
+12_082 A road runs inbetween the canal and residential area.
+12_082 A small road is located which has a canal and residential area at its sides.
+12_082 A canal lined with bushes is located near a residential area.
+12_083 There is a canal located near some buildings and trees.
+12_083 Some coloured buildings and trees are present near the canal.
+12_083 A canal lined with bushes is located near a residential area.
+12_083 A road runs inbetween the canal and residential area.
+12_083 A small road is located which has a canal and residential area at its sides.
+12_084 There is a canal located near the barren land and some buildings and trees.
+12_084 There are vacant lands near the canal.
+12_084 A barren land, a canal, small houses and trees were spotted.
+12_084 A canal is located which has bushes, roads, houses and trees on its either sides.
+12_084 A canal, small roads, a barren land, trees and small houses were spotted.
+12_085 There is a canal located near the barren land and some buildings and trees.
+12_085 There are vacant lands near the canal.
+12_085 A canal lined with bushed has residential houses, trees and a barren lans on its sides.
+12_085 A barren land, small houses and trees were present on one side of a canal.
+12_085 A barren land, small houses and trees were present on one side of a canal.
+12_086  A pond is located with some solar panels beside it.
+12_086 Solar panels are seen at the ends of rectangular pond.
+12_086 Solar panels, a pond,roads and green trees were spotted.
+12_086 A road runs inbetween the pond and solar panel field.
+12_086 Water is stored in a rectangular shaped pond near a solar panel field. 
+12_087 A pond is located with some trees beside it.
+12_087 Roads and empty lands are seen at the ends of rectangular pond.
+12_087 Several roads, trees and a pond is spotted.
+12_087 Water is stored in a rectangular shaped pond. 
+12_087 A pond is spotted near a road along with some trees. 
+12_088 A pond is located near a green land conatining trees and bushes.
+12_088 It is a rectangular shaped pond with trees grown at its one side.
+12_088 A pond is spotted near a grassland. 
+12_088 Grassland with some bushes are spotted near a water tank.
+12_088 Water is stored in a rectangular shaped pond. 
+12_089 There is a river.
+12_089 Some waves are seen in the river as it flows.
+12_089 A river is spotted.
+12_089 There exist a river.
+12_089 A river is present.
+12_090 There are some green bushes near a river.
+12_090 Some waves are seen in the river as it flows.
+12_090 The coast of the river is spotted with green bushes.
+12_090 Green bushes were grown at the ends of the river.
+12_090 A river is spotted with green bushes at its ends.
+12_091 There are some green bushes and farm land near a river.
+12_091 The coast of river consists of lot of trees.
+12_091 A river is located which is adjacent to green bushes and farmlands.
+12_091 Green bushes exist inbetween the river and farmlands. 
+12_091 A river is located with green bushes and farmlands at its coast.
+12_092 There are some solar panel arranged near a river.
+12_092 Road and some grass lands are present on one end of the river.
+12_092 A river runs inbetween a grassland and a solar panel field. 
+12_092 Solar farm is present on one side of a river and a grassland on the other side.
+12_092 A road runs over a grassland which is present on one side of a river.
+12_093 Solar panels were arranged on four sides of a muddy pond.
+12_093 Muddy water is deposited in the ground area.
+12_093 A muddy water pond is spotted along with solar panels.
+12_093 A triangular shaped muddy water pond is spotted along with solar panels.
+12_093 Solar panels were arranged on the corners of a muddy water pond.
+12_094 Solar panels were arranged on one side of the river.
+12_094 Road and some grass lands are present on one end of the river.
+12_094 A river runs inbetween a grassland and a solar panel field.
+12_094 Solar farm is present on one side of a river and a grassland on the other side .
+12_094 A river runs inbetween a grassland and a solar panel field.
+12_095 A pond with geenish foams exist alongside the roaad.
+12_095 There is a dirty water that appears in dark green colour. 
+12_095 Trees and bushes were grown at the ends of a pond, present near a road.
+12_095 A pond is bordered with trees and bushes which has greenish foam in it. 
+12_095 A pond is located with greeneries grown at its edges near a road..
+12_096 Two ponds exist on either side of the highway.
+12_096 Green coloured water is present in ponds which are seperated by the highways.
+12_096 Small ponds were spotted on either sides of a highway.
+12_096 Small ponds exist on either sides of a highway.
+12_096 Highways are located with small ponds on its either sides.
+12_097 Trees were surrounds a pond which has greenish foam.
+12_097 There is a dirty water that appears in dark green colour. 
+12_097 Trees and bushes were grown at the ends of a pond containing greenish foam.
+12_097 A pond is bordered with trees and bushes which has greenish foam in it.
+12_097 A pond is located with greeneries grown at its edges.
+12_098 Small pond exist in between the buildings.
+12_098 Some algae are deposited in the stagnated water surrounded by the trees.
+12_098 A small pond is located near a grassland along with trees and buildings.
+12_098 Buildings and green trees are present around a small pond.
+12_098 A small pond is spotted with trees and buildings at its surroundings.
+12_099 Small pond exist in between the buildings.
+12_099 Some algae are deposited in the stagnated water surrounded by the trees.
+12_099 Buildings and green trees are present around a small pond.
+12_099 A small pond is spotted with trees and buildings at its surroundings.
+12_099 A small pond is located near a grassland along with trees and buildings.
+12_100 There is a small pond near the highway.
+12_100 There is a rectangle shaped pond located near the highways.
+12_100 A small pond is spotted on one side of a highway.
+12_100 Highway roads are spotted with a small pond.
+12_100 A small pond is present near a highway.
+13_022 A huge crowd is spotted infront of the temple.
+13_022 There are red coloured rooftops above the temple.
+13_022 Several people are waiting outside the shrines.
+13_022 A roof-top side of a temple with people crowded at the front 
+13_022 There is huge crowd waiting near the entrance of the temple.
+13_023 There is a terrace in which some crowd is waiting,
+13_023 There are some crowd standing in the terrace.
+13_023 Few people residing at the roof top of a temple 
+13_023 Some people were spotted at the top of the temple building.
+13_023 The rooftops near the temple tower facilitates crowd to stand.
+13_024 The rooftops of the temple are viewed from the top.
+13_024 There are lot of people stading infront of the temple.
+13_024 A roof-top side of a temple with people crowded at the front surrounded by trees 
+13_024 A huge crowd is spotted infront of the temple.
+13_024 There is huge crowd waiting near the entrance of the temple
+13_025 A huge crowd is spotted infront of the temple.
+13_025 The temple towers are seen near which crowd is waiting.
+13_025 There are lot of people standing near the temple towers.
+13_025 A top view of temple with people crowded at the front 
+13_025 There is huge crowd waiting near the entrance of the temple.
+13_026 The top view of the temple is visible bordered with coconut trees near the residential area.
+13_026 The red coloured rooftops of the temple are seen.
+13_026 A roof- top view of a temple with trees in between the temple and residential area
+13_026 The red coloured rooftops of the temple are seen from the top.
+13_026 The temple towers are seen along with rooftops.
