@@ -3,43 +3,36 @@
 04_001 There are many cell towers located in between the forests.
 04_001 The growth of trees are more dense in that area.
 04_001 The area consists of green lands with some trees grown in it.
-
 04_002 The presence of roads inbetween dense forests.
 04_002 Some buildings are scattered within a densely crowded group of trees.
 04_002 Few number of roads are there to pass the forest way.
 04_002 There is a highway running inmidst of forest regions.
 04_002 The highway passes through the area which s covered with trees in both ends.
-
 04_003 Existence of forests with roads inbetween them.
 04_003 Roads and buildings are present within an area of crowded trees.
 04_003 There are some industries located inside the forests.
 04_003 There are some smaller buildings present in the middle of forest regions.
 04_003 The highway passes through the area which s covered with trees in both ends.
-
 04_004 Trees are grown in large number in the forests.
 04_004 A large number of trees are scattered over with buildings nearby.
 04_004 There are two ways to crossby the forest.
 04_004 The area consists of green lands with some trees grown in it.
 04_004 The growth of bushes are dense in that area.
-
 04_005 An industry is identified surrounded by forest areas.
 04_005 An open industrial area exists in the middle of a forest. 
 04_005 There are less number of trees surrounded by the industry.
 04_005 The area consists of green lands with some trees grown in it.
 04_005 There are large number of trees which are grown near the industry.
-
 04_006 A mix up of trees and plains in the forests.
 04_006 Group of trees are present on the plains having sandy soil.
 04_006 This region is surrounded by the densed forests.
 04_006 The area has lots of trees grwon in it.
 04_006 There are large numeber of trees.
-
 04_007 The presence of barren land on one side of the forest.
 04_007 A group of uniformly spaced plants exist adjacent to a dense forest area.
 04_007 An irregular path which divides the forests and the farmland.
 04_007 The area consists of green lands with some trees grown in it.
 04_007 Trees are seen in large number near the green vacant lands
-
 04_008 The combination of barren land and trees in dense forest.
 04_008 A plain is present in the middle of a forest area. 
 04_008 An irregular path which divides the forests and the farmland.
@@ -558,25 +551,21 @@
 04_093 Forest regions are covered with full of trees.
 04_093 The area is covered fully with trees.
 04_093 The forest region consists of large number of trees.
-
 04_094 Series of identical trees are grown in the forest area. 
 04_094 A thick forest area is present close to a road.
 04_094 Forest regions are covered with full of trees.
 04_094 The area is covered fully with trees.
 04_094 That is forest region located near the highways.
-
 04_095 Forest area which contains similar kind of trees have been spotted.
 04_095 A thick forest cover with some plains is present next to a forest area.
 04_095 There are some trees and some vacant grounds in that area.
 04_095 The area comprises of lots of trees and some vacant lands.
 04_095 Some vacant lands are present near the forest areas.
-
 04_096 Short roads are constructed at the end of dense areas. 
 04_096 A few coconut trees are present in the dense forest area close to a road.
 04_096 There are lot of trees in that particaular area.
 04_096 There are existence of dense growth of trees near the roadways.
 04_096 The area near roads are covered fully with trees.
-
 04_097 The forest area is covered with full of trees.
 04_097 The view consists of a thick forest area in major.
 04_097 There are lot of trees in that particaular area.
