@@ -75,25 +75,21 @@
 06_013 Farmlands are located near the highway which connects to a small road.
 06_013 It is a highway running near the farmlands.
 06_013 There are some farmlands near the highways.
-
 06_014 There is a highway near water body
 06_014 A small road connects to a highway next to a pond.
 06_014 A small road having a water body on its one side connects to highway roads.
 06_014 Some water bodies are situated nearby the highways.
 06_014 There is a stagnated water body near the highways.
-
 06_015 There is a highway near water body
 06_015 A truck runs on a highway connected to a small road next to a pond.
 06_015 Highways are located with a truck running on it near a water body.
 06_015 Some water bodies are situated nearby the highways.
 06_015 There is a stagnated water body near the highways.
-
 06_016 There is a highway near barren land
 06_016 A highway is present next to a barren land having a pond.
 06_016 Highway roads are located near a barren land containing green bushes and a small pond.
 06_016 There are some barren lands located near the highways.
 06_016 Some dirty vacant lands are present near the highways.
-
 06_017 There is a highway near barren land.
 06_017 A highway is present next to a barren land having a plain.
 06_017 Highway is located near a barren land containing green bushes.
@@ -416,19 +412,19 @@
 06_070 Empty parking lot and neatly cropped grass and trees are spread on either sides of a highway road.
 06_070 Small trees were present on either side of a highway.
 06_070 The highways are located near the area where trees are grown.
-06_070 
+06_070 Highways are spotted with greeneries on its either sides.
 
 06_071 Highways are captured in the midst of trees
 06_071 A dense tree cover and a neatly cropped grass land is present about a highway road.
 06_071 Highways are located with dense tree cover on its either sides.
-06_071 
+06_071 Highways are spotted with greeneries on its either sides.
 06_071 The highways are located near the area where trees are grown.
 
 06_072 Highways are captured in the midst of trees
 06_072 A dense tree cover over a number of buildings is present close to a isolated highway.
 06_072 Large number of trees were present alongside the highways.
 06_072 The highways are located near the area where trees are grown.
-06_072 
+06_072 Highways are spotted with greeneries on its either sides.
 
 06_073 Vacant grounds are spotted alongside the highways
 06_073 Dense tree area covering buildings is visible adjacent to a two lane highway.

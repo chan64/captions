@@ -4151,5 +4151,9 @@
 13_015 There are red coloured rooftops above the temple.
 13_015 A rooftop view of a temple with people crowded inside temple surrounded by residential areas and trees 
 13_015 The temple towers are seen along with rooftops and pathway.
-
+13_016 Some holy shrines are situated near the temple.
+13_016 Huge towers present in the entrance of temple are seen.
+13_016 There are some buildings present near the temple.
+13_016 A side view of a temple with few people along the walkway inside the temple surrounded by residential areas and trees 
+13_016 Some coconut trees covers the part of temple and huge towers are seen at the mere ends.
 

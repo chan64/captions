@@ -297,10 +297,17 @@
 11_060 Solar panels were arranged on either side of a small bridge connecting two roads.
 11_060 A small bridge and a small white shed exist inbetween the solar farm.
 11_060 There is a white shed and a bridge connecting roads close to a solar panel field.
+<<<<<<< HEAD
+11_060 Solar panels were arranged on either side of a small bridge.
+11_061 There are rows of solar panels and a road passes inbetween.
+11_061 Solar panels were arranged near a small bridge connecting two roads.
+11_061 
+=======
 11_060 A small bridge connecting roads and a white shed is present inbetween the solar farm.
 11_061 There are rows of solar panels and a road passes inbetween.
 11_061 Solar panels were arranged near a small bridge connecting two roads.
 11_061 A small bridge connecting roads and a white shed is present inbetween the solar farm.
+>>>>>>> a4a960bd624aa83117c65cde00b2d1a3fd4eabba
 11_061 There is a white shed and a bridge connecting roads close to a solar panel field.
 11_061 A bridge passes to connect the road next to a solar panel field.
 11_062 A waterbody and a garden runs in the middle of a solar panel field.
@@ -497,254 +504,262 @@
 11_100 Green plants exist inbetween the neatly arranged solar panels.
 11_100 A number of blue solar panels are arranged surrounded by green grass around.
 11_100 Greeneries were present around the neatly arranged solar panels.
-11_100 Solar panels are installed in the area which has green grounds.
+11_100 
 11_101 A small bridge connects two separate solar farms.
 11_101 Solar panels were arranged on either side of a small bridge.
 11_101 Two small roads are connected by a white bridge with blue solar panels on either sides.
 11_101 There is a white shed and a bridge connecting roads close to a solar panel field.
-11_101 There are some solar panels near the forest areas.
+11_101 
 11_102 There is a uniformly arranged solar panel field and a road runs at the border.
 11_102 Solar panels were neatly arranged alongside the road.
 11_102 The view consist of a number of blue solar panels and a white shed.
 11_102 There is a white shed and a bridge connecting roads close to a solar panel field.
-11_102 Large sets of solar panels are being installed in that particular area.
+11_102 
 11_103 There are neatly arranged solar panels in a field.
 11_103 Two small white buildings exist in the farm where solar panels were installed.
 11_103 The view consists of two white sheds and a large number of blue solar panels.
 11_103 Small white sheds exist inbetween the neatly arranged solar panels. 
-11_103 Large sets of solar panels are being installed in that particular area.
+11_103 
 11_104 A water stream runs across a solar farm.
 11_104 Solar panels were installed on either side of the water body.
 11_104 A number of blue solar panels are visible and a dirty water stream runs inbetween.
 11_104 Solar panels are spotted on eiter sides of a canal, in which half of the canal is dry.
-11_104 There is a river flowing near the solar panel.
+11_104 
 11_105 A road junction runs in the middle of a solar panel field.
 11_105 A small white building exist in the solar farm.
 11_105 The view consists of a large number of solar panels and a white shed close to a small road.
 11_105 A white sheds exist inbetween the neatly arranged solar panels. 
-11_105 Lots of solar panels are arranged in sequential manner.
+11_105 
 11_106 Roads runs through a uniformly arranged solar farm.
 11_106 Two small white buildings exist in the farm where solar panels were installed.
 11_106 Two white sheds and a number of blue solar panels are present on top of a patched green field.
 11_106 Two white sheds exist inbetween the neatly arranged solar panels. 
-11_106 Lots of solar panels are arranged in sequential manner.
+11_106 
 11_107 A road runs through a uniformly packed solar farm.
 11_107 A small white shed exist in the solar farm.
 11_107 A number of blue solar panels are visible in a field.
 11_107 A white sheds exist inbetween the neatly arranged solar panels. 
-11_107 Lots of solar panels are arranged in sequential manner.
+11_107 
 11_108 A highway road exists beside a solar farm.
 11_108 A highway is located near a solar farm.
 11_108 A number of blue solar panels are present next to a green cover and a road.
 11_108 Highways are located with solar panels on one side and greeneries on other side.
-11_108 Solar panels are setup near the highways.
+11_108 
 11_109 Road run through a neatly packed solar panel field.
 11_109 Some small white sheds exist in the farm where solar panels were installed.
 11_109 A large number of blue solar panels and a number of white sheds is visible in a solar panel field.
 11_109 Small white sheds exist inbetween the neatly arranged solar panels. 
-11_109 Lots of solar panels are arranged in sequential manner.
+11_109 
 11_110 A road junction is present in a uniformly packed solar farm.
 11_110 Some small white sheds exist in the farm where solar panels were installed.
 11_110 A large number of solar panels is seen along with two white sheds.
 11_110 Small white sheds exist inbetween the neatly arranged solar panels. 
-11_110 Lots of solar panels are arranged in sequential manner.
+11_110 
 11_111 There is a uniformly packed solar farm.
 11_111 Some small white sheds exist in the farm where solar panels were installed.
 11_111 A large number of blue solar panels is seen in the view.
 11_111 Small white sheds exist inbetween the neatly arranged solar panels. 
-11_111 Lots of solar panels are arranged in sequential manner.
+11_111 
 11_112 There is a uniformly packed solar farm next to a forest cover.
 11_112 Two small white sheds exist in the solar farm near to a forest cover.
 11_112 A large number of blue solar panels is seen close to a dense green tree cover along with white sheds.
 11_112 A dense tree cover is present near a solar farm, having small white sheds exist inbetween.
-11_112 There are some trees present near the solar panels.
+11_112 
 11_113 A bridge above water stream connects two solar farms. 
 11_113 Solar panels were arranged on either side of a small bridge.
 11_113 A bridge below which is a deprecated water stream connects two solar farms having blue solar panels.
 11_113 There is a white shed and a bridge connecting roads close to a solar panel field.
-11_113 There is pathway inbetween two sets of solar panels.
+11_113 
 11_114 Solar farms with roads bordering them is present close to a abandoned land.
 11_114 Roads running at the borders of the solar farm were located near a barren land.
 11_114 A large number of blue solar panels is visible along with patches of green grass in a neglected land.
 11_114 Greeneries were present around the neatly arranged solar panels.
-11_114 There are lots of solar panels present in the green grounds.
+11_114 
 11_115 A waterbody and neglected land exists adjacent to a solar farm.
 11_115 Roads running at the borders of the solar farm were located near a barren land.
 11_115 The view mainly consists of green grass and blue solar panels.
 11_115 Solar panels are neatly arranged near a grassland.
-11_115 Some barren lands are present near the area which has solar panels.
+11_115 
 11_116 There exists a waterbody and neglected land next to a solar farm with bordering roads.
 11_116 Roads running at the borders of the solar farm were located near a muddy water body.
 11_116 A brown waterbody is present along with a blue solar panel field and a green grass field.
 11_116 A muddy water pond and greeneries were present near the solar farm.
-11_116 There are lot of solar panels installed near the mud coloured pond.
+11_116 
 11_117 A waterbody is surrounded by solar panel fields.
 11_117 Solar panels were installed on four sides of a muddy water body.
 11_117 A brown waterbody is surrounded by blue solar panel field along with patches of green grass.
 11_117 A muddy water pond ia present in th midst of the solar farm along with green patches of land.
-11_117 There are lot of solar panels installed near the mud coloured pond.
+11_117 
 11_118 A solar farm is present of which many panels are dismounted. 
 11_118 A small water body exist near a solar farm in which most of the panels were dismounted.
 11_118 A major share of solar panels are dismantled in a solar farm exposing a green farm.
 11_118 Solar panels are arranged on a grassland, in which most of the panels are dismounted.
-11_118 There are lots of solar panels located nearer to each other.
+11_118 
 11_119 A waterbody exists close to a solar farm.
 11_119 Roads running at the borders of the solar farm were located near a muddy water body.
 11_119 A blue solar panel field is present close to a muddy water body.
 11_119 A muddy water pond exist near the neatly arranged solar panels.
-11_119 There are lot of solar panels installed near the mud coloured pond.
+11_119 
 11_120 There is a neatly packed solar panel field.
 11_120 A small white building exist in a neatly arranged solar farm.
 11_120 The view consists of a number of blue solar panels on top of a green field along with a white shed. 
 11_120 A white shed exist inbetween the uniformly arranged solar panels.
-11_120 There are many sets of solar panels present.
+11_120 
 11_121 An abandoned land exists close to a solar farm. 
 11_121 Solar farm was located near a land containing trees.
 11_121 A green cover borders a blue solar panel field having a unmaintained garden nearby.
 11_121 Green bushes borders the neatly arranged solar panels, having a small white shed.
-11_121 Som e empty lands are present near which solar panels are installed.
+11_121 
 11_122 There exists a row of trees nearby a solar farm.
 11_122 Some trees were located near a neatly arranged solar farm.
 11_122 There are a number of blue solar panels above a green field.
 11_122 Green bushes borders the neatly arranged solar panels.
-11_122 There are lots of solar panels located near the empty lands.
+11_122 
 11_123 There exists a row of trees nearby a solar farm. 
 11_123 Some trees were located near a neatly arranged solar farm.
 11_123 There exists a green tree cover close to a blue solar panel field.
 11_123 Green bushes borders the neatly arranged solar panels, having a small white shed.A small white
-11_123 There are lots of solar panels located nearer to each other.
+11_123 
 11_124 There is a neatly packed solar panel field. 
 11_124 Solar panels were arranged in a field.
 11_124 A large number of blue solar panels is present on top of a green field.
 11_124 A small white shed exist inbetween the uniformly arranged solar panels.
-11_124 There are lots of solar panels located nearer to each other.
+11_124 
 11_125 A bridge connects two solar farms and a neglected land is present on one side. 
 11_125 Solar panels were arranged on either side of a small bridge connecting two roads.
 11_125 Equal lengths of blue solar panels are diagonally arranged next to a road and a grass land.
 11_125 There is a white shed and a bridge connecting roads close to a solar panel field.
-11_125 There are some solar panels arrenged in neat manner near the grounds. 
+11_125 
 11_126 A neglected land neighbours a solar farm.
 11_126 Solar farm exist near a barren land.
 11_126 A number of blue solar panels are present close to a patched green grass land.
 11_126 Solar farm exist near a barren land containing green patches of land.
-11_126 There are empty lands in which solar panels are set up.
+11_126 
 11_127 A solar farm is neighboured by an abandoned land.
 11_127 Solar farm exist near a barren land.
 11_127 A number of blue solar panels are present close to a patched green grass land.
 11_127 Solar farm exist near a barren land containing green patches of land.
-11_127 There are empty lands in which solar panels are set up.
+11_127 
 11_128 A waterbody and a neglected land exists close to a solar farm.
 11_128 Solar farm exist near a small muddy pond.
 11_128 A muddy water body and green patches of land exists close to a blue solar panel field.
 11_128 Solar farm exist near a muddy water body and green patches of land.
-11_128 Solar panels are installed near the ponds.
+11_128 
 11_129 A neglected land divides a solar farm. 
 11_129 Solar panels were arranged on either side of a neglected land and a muddy water pond.
 11_129 A muddy water body exists close to a blue solar panel field.
 11_129 A muddy water body and green patches of land exist inbetween the solar farm.
-11_129 Solar panels are set up in the area which has some empty lands.
+11_129 
 11_130 A solar farm is divided by a neglected land and a body of water. 
 11_130 Solar panels were arranged on either side of a neglected land and a muddy pond.
 11_130 A green patched land exists close to a blue solar panel field.
 11_130 A muddy water body and green patches of land exist inbetween the solar farm.
-11_130 Solar panels are set up in the area which has some empty lands.
+11_130 
 11_131 A white shed exists in the middle of a solar farm.
 11_131 A small white shed is present in the solar farm.
 11_131 A number of blue solar panels are present along with a white shed close to a muddy water body.
 11_131 A small white shed exist inbetween the uniformly arranged solar panels.
-11_131 Lots of solar panels are set up in orderly manner.
+11_131 
 11_132 A white shed is present in a solar farm next to a garden.
 11_132 A small white shed is present in the solar farm.
 11_132 A large number of blue solar panels is seen in the view along with a white building and a garden nearby.
 11_132 A solar farm having a small white shed is present near a garden, which is decorated with green bushes. 
-11_132 Lots of solar panels are set up in orderly manner.
+11_132 
 11_133 A road junctions runs across a partially mounted solar farm.
 11_133 Roads running across the solar farm in which most of panels were detached.
 11_133 A solar farm is present of which a major number of panels are dismantled exposing a green grass field.
 11_133 Solar panels are arranged on a grassland, in which most of the panels are detached.
-11_133 There are gardens in which solar panels are setup.
+11_133 
 11_134 A garden is present next to a solar farm.
 11_134 Solar farm exist near a garden.
 11_134 A blue solar panel field is present next to a green garden.
 11_134 A solar farm is present near a garden, which is decorated with green bushes. 
-11_134 There are gardens in which solar panels are setup.
+11_134 
 11_135 A body of water is present close to a solar farm.
 11_135 A muddy pond exist near the solar farm.
 11_135 A muddy water body is present next to a blue solar panel field.
 11_135 Solar farm is located near a muddy water body.
-11_135 Solar panels are installed near the ponds.
+11_135 
 11_136 An artificial water body is present close to a partially mounted solar farm along with forest cover.
 11_136 A water tank ispresent near  the solar farm in which most of panels were detached.
 11_136 A water body is seen close to a solar panel field of which most panels are dismantled exposing a green grass field.
 11_136 Solar farm is present close to a water body, wherein most of panels are detached.
-11_136 Solar panels are installed near the ponds.
+11_136 
 11_137 A deprecated canal runs between solar farms.  
 11_137 Solar panels were arranged on either side of a deprecated canal.
 11_137 A deprecated water channel runs between a solar farm having a small white building nearby.
 11_137 A water stream runs inbetween the neatly arranged solar panels, having a small white shed.
-11_137 Solar panels are installed near the vacant grounds.
+11_137 
 11_138 There is a neatly packed solar panel field.
 11_138 Solar farm exist near a deprecated canal.
 11_138 A blue solar panel field is present close to a depressed water channel.
 11_138 A deprecated water channel runs near the solar farm.
-11_138 Solar panels are installed in orderly manner.
+11_138 
 11_139 A uniformly packed solar panel field exists next to a neglected land.
 11_139 Solar farm were located near a barren land.
 11_139 Patches of green land is visible close to a blue solar panel field.
 11_139 Solar panels are arranged near a barren land containing green patches of land.
-11_139 Solar panels are installed in orderly manner.
+11_139  
 11_140 A canal runs to divide solar farms present next to a neglected land. 
 11_140 Solar farm exist near to a river.
 11_140 A dirty water channel and a green grass area exists close to a solar panel field.
 11_140 A river and a grassland are visible close to the solar panel field.
-11_140 Some solar panels are installed near the water bodies.
+11_140 
 11_141 A water stream runs to divide solar farms.
 11_141 Solar panels exist on either side of the river.
 11_141 Patches of green grass is visible close to a solar panel field.
 11_141 A river and a grassland are visible close to the solar panel field.
-11_141 Some solar panels are installed near the water bodies.
+11_141 
 11_142 A solar farm exists next to a neglected land.
 11_142 Solar panels were installed near a barren land.
 11_142 Patches of green is found near a solar panel field.
 11_142 Solar panels are arranged near a barren land containing green patches of land.
-11_142 Some solar panels are installed in the green grounds.
+11_142 
 11_143 Neglected lands borders a solar farm.
 11_143 Solar panels were installed near a barren land.
 11_143 A blue solar panel field is surrounded by patches of green grass.
 11_143 Solar panels are arranged near a barren land containing green patches of land.
-11_143 Solar panels are installed in the barren lands.
+11_143 
 11_144 A patch of land runs between solar farms.
 11_144 Solar panels were installed near a muddy pond.
 11_144 A muddy water body and a white building is present in the view containing blue solar panel field.
 11_144 A muddy water body and green patches of land exist inbetween the solar farm, having a small white shed in it.
-11_144 There are lot of solar panels installed in dry lands.
+11_144 
 11_145 Majority of panels are dismantled in a solar farm.
 11_145 There exist a solar farm in which most of the panels were detached.
 11_145 A major share of panels are dismounted in a solar panel field exposing a green grass field.
 11_145 Solar panels are arranged on a grassland, in which most of the panels are detached.
-11_145 The grounds facilitates some of the solar panels in it.
+11_145 
 11_146 A white shed is present in the middle of a solar farm.
 11_146 A small white shed exist in the solar farm.
 11_146 A small building and depreciated water channel is present close to a solar panel field.
 11_146 A small white shed and green patches of land exist inbetween the solar farm.
-11_146 There are some solar panels present near the grounds.
+11_146 
 11_147 A uniformly packed solar farm is present wherein most panels are dismantled.
 11_147 There exist a solar farm in which most of the panels were detached.
 11_147 A major share of solar panels are dismounted in a solar panel field exposing a green grass field.
 11_147 Solar panels are arranged on a grassland, in which most of the panels are detached.
-11_147 Several solar panels are located near the gardens.
+11_147 
 11_148 A neatly packed solar farm is present.
 11_148 A small white shed exist in the solar farm.
 11_148 A number of blue solar panels are uniformly arraned with a white building nearby.
 11_148 A small white shed exist inbetween the uniformly arranged solar panels.
+<<<<<<< HEAD
+11_148 
+=======
 11_148 There are series of panels located near to each other.
+>>>>>>> a4a960bd624aa83117c65cde00b2d1a3fd4eabba
 11_149 A solar panel field exists adjacent to a garden.
 11_149 A garden is located near a solar farm.
 11_149 There is a garden close to a partially exposed grass field.
 11_149 Solar panel field is present near a garden, which is decorated with green bushes. 
+<<<<<<< HEAD
+11_149 
+=======
 11_149 There are some solar panels installed near the green grounds.
+>>>>>>> a4a960bd624aa83117c65cde00b2d1a3fd4eabba
 11_150 There is a garden near to a solar farm.
 11_150 A barren land exist near the solar farm, in which most of the panels were detached.
 11_150 A dark green grass cover is present close to a solar panel field exposed green grass.
 11_150 Solar panel field is present near a grassland. 
-11_150 There are some solar panels installed near the green grounds.
+11_150 
